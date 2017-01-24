@@ -20,8 +20,7 @@ function set_emblem(id, name, emblems_all) {
     for (i = 0; i < len; i++) {
         name_chk = emblems_all[i][0];
         if (name_chk === name) {
-            var back_colour = emblems_all[i][1];
-            set_back_col(id, back_colour);
+            set_back_col(id, emblems_all[i][1]);
         }
     }
 }
