@@ -1,6 +1,6 @@
 var emblem_data = {
     emblems: [
-        ["Administrator", "rgb(16, 37, 63)", "http://b3.ifrm.com/30609/91/0/p3003755/emblemdesigns_white.png", "-750px 0px", "0"]
+        ["Administrator", "rgb(16, 37, 63)", "http://b3.ifrm.com/30609/91/0/p3003755/emblemdesigns_white.png", "-750px 0px", "0", "http://b3.ifrm.com/30609/91/0/p3003840/emblemdesigns_tangerine.png", "-450px, 0px", "0"]
     ]
 }
 
@@ -36,6 +36,9 @@ function set_emblem(id, name, emblems_all) {
             set_layer_col(id, "low", emblems_all[i][2]);
             set_layer_des(id, "low", emblems_all[i][3]);
             set_layer_rot(id, "low", emblems_all[i][4]);
+            set_layer_col(id, "top", emblems_all[i][5]);
+            set_layer_des(id, "top", emblems_all[i][6]);
+            set_layer_rot(id, "top", emblems_all[i][7]);
         }
     }
 }
