@@ -30,5 +30,5 @@ function set_emblem(id, name, emblems) {
 $(function () {
     var player_name = get_this_player();
     set_emblem("emblem_user", player_name, emblem_data.emblems);
-}
+});
  
