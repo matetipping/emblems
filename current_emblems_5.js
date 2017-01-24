@@ -2,7 +2,7 @@ var emblem_data = {
     emblems: [
         ["Administrator", "rgb(16, 37, 63)"]
     ]
-}
+};
 
 function set_back_col(id, colour) {
     $(id + ".emblem").css({ background: colour });
