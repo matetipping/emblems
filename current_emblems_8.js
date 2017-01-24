@@ -9,15 +9,15 @@ function set_back_col(id, colour) {
 }
 
 function set_layer_col(id, pos, colour) {
-  document.getElementById(id + pos).style.backgroundImage = "url('" + colour + "')";
+  document.getElementById(id + "_" + pos).style.backgroundImage = "url('" + colour + "')";
 }
 
 function set_layer_des(id, pos, design) {
-  document.getElementById(id + pos).style.backgroundPosition = design;
+  document.getElementById(id + "_" + pos).style.backgroundPosition = design;
 }
 
 function set_layer_rot(id, pos, no_degrees) {
-  document.getElementById(id + pos).style.transform = "rotate(" + no_degrees + "deg)";
+  document.getElementById(id + "_" + pos).style.transform = "rotate(" + no_degrees + "deg)";
 }
 
 // returns the player's name
