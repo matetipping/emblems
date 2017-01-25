@@ -1,6 +1,7 @@
 var emblem_data = {
     emblems: [
-        ["Administrator", "rgb(16, 37, 63)", "http://b3.ifrm.com/30609/91/0/p3003755/emblemdesigns_white.png", "-750px 0px", "0", "http://b3.ifrm.com/30609/91/0/p3003840/emblemdesigns_tangerine.png", "-450px 0px", "0"]
+        ["Administrator", "rgb(16, 37, 63)", "http://b3.ifrm.com/30609/91/0/p3003755/emblemdesigns_white.png", "-750px 0px", "0", "http://b3.ifrm.com/30609/91/0/p3003840/emblemdesigns_tangerine.png", "-450px 0px", "0"],
+        ["Daniel Terrington", "rgb(22, 90, 48)", "http://b3.ifrm.com/30609/91/0/p3003755/emblemdesigns_white.png", "-750px 0px", "0", "http://b3.ifrm.com/30609/91/0/p3003840/emblemdesigns_tangerine.png", "-450px 0px", "0"]
     ]
 }
 
@@ -18,11 +19,6 @@ function set_layer_des(id, pos, design) {
 
 function set_layer_rot(id, pos, no_degrees) {
   document.getElementById(id + "_" + pos).style.transform = "rotate(" + no_degrees + "deg)";
-}
-
-// returns the player's name
-function get_this_player() {
-    return $("div#top_info strong a").html ();
 }
 
 function set_emblem(id, name, emblems_all) {
@@ -46,4 +42,6 @@ function set_emblem(id, name, emblems_all) {
 $(function () {
     var player_name = get_this_player();
     set_emblem("emblem_user", player_name, emblem_data.emblems);
+    var opponent_name = get_opponent(player_name, tipping_data.round, tipping_data.fixtures);
+    set_emblem("emblem_opponent", opponent_name, emblem_data.emblems);
 });
