@@ -37,6 +37,9 @@ function set_emblem(id, name, emblems_all) {
             set_layer_rot(id, "top", emblems_all[i][7]);
         }
     }
+    set_back_col(id, "rgb(0, 0, 0)");
+    set_layer_col(id, "low", "none");
+    set_layer_col(id, "top", "none");
 }
 
 $(function () {
