@@ -52,7 +52,7 @@ function set_topic_avatars(emblems) {
         if (location.href.indexOf('/profile/3417502/') != -1) {
             $('table.profile thead tr th.1').each(function() {
                 if ($(this).html() === emblems[i][0]) {
-                    $('div.emblem').replaceWith(avatarHTML);
+                    $(this).parents('table.profile').find('div.emblem').replaceWith(avatarHTML);
                 }
             });
         }
