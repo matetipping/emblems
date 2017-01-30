@@ -64,5 +64,5 @@ $(function () {
     set_emblem("emblem_user", player_name, emblem_data.emblems);
     var opponent_name = get_opponent(player_name, tipping_data.round, tipping_data.fixtures);
     set_emblem("emblem_opponent", opponent_name, emblem_data.emblems);
-    set_topic_avatars();
+    set_topic_avatars(emblem_data.emblems);
 });
