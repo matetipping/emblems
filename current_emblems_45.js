@@ -61,6 +61,10 @@ function set_topic_avatars(emblems) {
                     $(this).parents('tr[id*="post-"]').next('tr').find('div.emblem').replaceWith(avatarHTML);
                 }
             });
+        } else {
+             $('tr.topinfo td.c_username span').each(function() {
+                $('tr.topinfo div.emblem').parent().replaceWith(avatarHTML);
+            });
         }
     }
 }
