@@ -52,14 +52,9 @@ function set_topic_avatars(emblems) {
         if (location.href.indexOf('/msg/') === -1) {
             $('td.c_username span').each(function() {
                 if ($(this).html() === emblems[i][0]) {
-                    $(this).parents('tr[id*="post-"]').next('tr').find('td.c_user div[style*="max"]').replaceWith(avatarHTML);
+                    $(this).parents('td.c_username').parents('tr[id*="post-"]').next('tr').find('td.c_user div[style*="max"]').replaceWith(avatarHTML);
                 }
             });
-        } else {
-            if ($('td.c_username span').html() === emblems[i][0]) {
-                $('tr.topinfo div[style*="max"]').replaceWith(avatarHTML);
-        
-            }
         }
     }
 }
