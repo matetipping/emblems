@@ -45,7 +45,7 @@ function set_emblem(id, name, emblems_all) {
 
 function set_topic_avatars() {
     for (var i = 0; i < emblem_data.emblems.length; i++) {
-        var avatarHTML = '<div class="emblem" style="margin: 10px;width: 150px;height: 150px;background: ' + emblem_data.emblems[i][1] + '; z-index: 0; overflow: hidden; display: inline-block;"> <div class="low_design" style="background: url(' + emblem_data.emblems[i][2] + ') ' + emblem_data.emblems[i][3] + '; width: 150px; height: 150px; transform:rotate(' + emblem_data.emblems[i][4] + 'deg); position: absolute;"></div> <div class="top_design" style="background: url(' + emblem_data.emblems[i][5] + ') ' + emblem_data.emblems[i][6] + '; width: 150px; height: 150px; transform:rotate(' + emblem_data.emblems[i][7] + 'deg); position: absolute;"></div> <div class="overlay" style="background: url(http://b3.ifrm.com/30609/91/0/f7005563/emblem_overlay.png); width: 150px; height: 150px; background-size: 150px; position: absolute;"></div></div>';
+        var avatarHTML = 'a';
 
         if (location.href.indexOf('/profile/' + emblem_data.emblems[i][8] + '/') !== -1) {
             $('td.c_mark').html(avatarHTML);
