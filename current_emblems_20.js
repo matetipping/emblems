@@ -53,13 +53,15 @@ function set_topic_avatars() {
 
         if (location.href.indexOf('/msg/') === -1) {
             $('td.c_username a[href]').each(function() {
-            if ($(this).attr('href').split('/profile/')[1].split('/')[0] === '' + emblem_data.emblems[i][8] + '') {
-                $(this).parents('tr[id*="post-"]').next('tr').find('td.c_user div[style*="max"]').replaceWith(avatarHTML);
+                if ($(this).attr('href').split('/profile/')[1].split('/')[0] === '' + emblem_data.emblems[i][8] + '') {
+                    $(this).parents('tr[id*="post-"]').next('tr').find('td.c_user div[style*="max"]').replaceWith(avatarHTML);
+                }
+            });
+        } else {
+            if ($('td.c_username a[href]').attr('href').split('/profile/')[1].split('/')[0] === '' + emblem_data.emblems[i][8] + '') {
+                $('tr.topinfo div[style*="max"]').replaceWith(avatarHTML);
+        
             }
-        });
-    } else {
-        if ($('td.c_username a[href]').attr('href').split('/profile/')[1].split('/')[0] === '' + emblem_data.emblems[i][8] + '') {
-            $('tr.topinfo div[style*="max"]').replaceWith(avatarHTML);
         }
     }
 }
