@@ -49,10 +49,10 @@ function set_topic_avatars(emblems) {
     for (i = 0; i < len; i++) {
         var avatarHTML = 'a';
 
-        if (location.href.indexOf('/msg/') === -1) {
+        if (location.href.indexOf('/msg/') == -1) {
             $('td.c_username span').each(function() {
                 if ($(this).html() === emblems[i][0]) {
-                    $(this).parents('td.c_username').parents('tr[id*="post-"]').next('tr').find('td.c_user div[style*="max"]').replaceWith(avatarHTML);
+                    $(this).parents('tr[id*="post-"]').next('tr').find('div.emblem').replaceWith(avatarHTML);
                 }
             });
         }
