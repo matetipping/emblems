@@ -1,7 +1,7 @@
 var emblem_data = {
     emblems: [
-        ["Administrator", "rgb(16, 37, 63)", "http://b3.ifrm.com/30609/91/0/p3003755/emblemdesigns_white.png", "-750px 0px", "0", "http://b3.ifrm.com/30609/91/0/p3003840/emblemdesigns_tangerine.png", "-450px 0px", "0", "3417502"],
-        ["Daniel Terrington", "rgb(3, 23, 26)", "http://b3.ifrm.com/30609/91/0/p3005770/emblemdesigns_darkteal.png", "0px -450px", "0", "http://b3.ifrm.com/30609/91/0/p3003755/emblemdesigns_white.png", "-150px -450px", "0", "3417755"]
+        ["Administrator", "rgb(16, 37, 63)", "http://b3.ifrm.com/30609/91/0/p3003755/emblemdesigns_white.png", "-750px 0px", "0", "http://b3.ifrm.com/30609/91/0/p3003840/emblemdesigns_tangerine.png", "-450px 0px", "0", 3417502],
+        ["Daniel Terrington", "rgb(3, 23, 26)", "http://b3.ifrm.com/30609/91/0/p3005770/emblemdesigns_darkteal.png", "0px -450px", "0", "http://b3.ifrm.com/30609/91/0/p3003755/emblemdesigns_white.png", "-150px -450px", "0", 3417755]
     ]
 }
 
