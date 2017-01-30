@@ -1,7 +1,7 @@
 var emblem_data = {
     emblems: [
-        ["Administrator", "rgb(16, 37, 63)", "http://b3.ifrm.com/30609/91/0/p3003755/emblemdesigns_white.png", "-750px 0px", "0", "http://b3.ifrm.com/30609/91/0/p3003840/emblemdesigns_tangerine.png", "-450px 0px", "0", 3417502],
-        ["Daniel Terrington", "rgb(3, 23, 26)", "http://b3.ifrm.com/30609/91/0/p3005770/emblemdesigns_darkteal.png", "0px -450px", "0", "http://b3.ifrm.com/30609/91/0/p3003755/emblemdesigns_white.png", "-150px -450px", "0", 3417755]
+        ["Administrator", "rgb(16, 37, 63)", "http://b3.ifrm.com/30609/91/0/p3003755/emblemdesigns_white.png", "-750px 0px", "0", "http://b3.ifrm.com/30609/91/0/p3003840/emblemdesigns_tangerine.png", "-450px 0px", "0"],
+        ["Daniel Terrington", "rgb(3, 23, 26)", "http://b3.ifrm.com/30609/91/0/p3005770/emblemdesigns_darkteal.png", "0px -450px", "0", "http://b3.ifrm.com/30609/91/0/p3003755/emblemdesigns_white.png", "-150px -450px", "0"]
     ]
 }
 
@@ -43,22 +43,20 @@ function set_emblem(id, name, emblems_all) {
     set_layer_col(id, "top", "none");
 }
 
-function set_topic_avatars() {
-    for (var i = 0; i < emblem_data.emblems.length; i++) {
+function set_topic_avatars(emblems) {
+    var len = emblems.length;
+    var i;
+    for (i = 0; i < len; i++) {
         var avatarHTML = 'a';
 
-        if (location.href.indexOf('/profile/' + emblem_data.emblems[i][8] + '/') !== -1) {
-            $('td.c_mark').html(avatarHTML);
-        }
-
         if (location.href.indexOf('/msg/') === -1) {
-            $('td.c_username a[href]').each(function() {
-                if ($(this).attr('href').split('/profile/')[1].split('/')[0] === '' + emblem_data.emblems[i][8] + '') {
+            $('td.c_username span').each(function() {
+                if ($(this).html() === emblems[i][0]) {
                     $(this).parents('tr[id*="post-"]').next('tr').find('td.c_user div[style*="max"]').replaceWith(avatarHTML);
                 }
             });
         } else {
-            if ($('td.c_username a[href]').attr('href').split('/profile/')[1].split('/')[0] === '' + emblem_data.emblems[i][8] + '') {
+            if ($('td.c_username span').html() === emblems[i][0]) {
                 $('tr.topinfo div[style*="max"]').replaceWith(avatarHTML);
         
             }
