@@ -49,10 +49,10 @@ function set_topic_avatars(emblems) {
     for (i = 0; i < len; i++) {
         var avatarHTML = '<div class="emblem" style="width: 150px;height: 150px;background: ' + emblems[i][1] + '; z-index: 0; overflow: hidden; display: inline-block; box-shadow: 0px 0px 2px #000;"><div class="low_design" style="background: url(' + emblems[i][2] + ') ' + emblems[i][3] + '; width: 150px; height: 150px; transform:rotate(' + emblems[i][4] + 'deg); position: absolute;"></div><div class="top_design" style="background: url(' + emblems[i][5] + ') ' + emblems[i][6] + '; width: 150px; height: 150px; transform:rotate(' + emblems[i][7] + 'deg); position: absolute;"></div><div class="overlay" style="background: url(http://b3.ifrm.com/30609/91/0/f7005563/emblem_overlay.png); width: 150px; height: 150px; background-size: 150px; position: absolute; box-shadow: 0px 0px 1px #000;"></div></div>';
 
-        if (location.href.indexOf('/profile/') == -1) {
+        if (location.href.indexOf('/profile/') != -1) {
             $('table.profile th.1').each(function() {
                 if ($(this).html() === emblems[i][0]) {
-                    $('td.c_mark').html(avatarHTML);
+                    $(this).parents('table.profile').find('div.emblem').replaceWith(avatarHTML);
                 }
             });
         }
