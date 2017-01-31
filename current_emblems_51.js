@@ -9,15 +9,15 @@ function set_back_col(id, colour) {
     document.getElementById(id).style.backgroundColor = colour;
 }
 
-function set_layer_col(id, pos, colour) {
+function set_layer_col_scores(id, pos, colour) {
   document.getElementById(id + "_" + pos).style.backgroundImage = "url('" + colour + "')";
 }
 
-function set_layer_des(id, pos, design) {
+function set_layer_des_scores(id, pos, design) {
   document.getElementById(id + "_" + pos).style.backgroundPosition = design;
 }
 
-function set_layer_rot(id, pos, no_degrees) {
+function set_layer_rot_scores(id, pos, no_degrees) {
   document.getElementById(id + "_" + pos).style.transform = "rotate(" + no_degrees + "deg)";
 }
 
@@ -28,19 +28,19 @@ function set_emblem(id, name, emblems_all) {
     for (i = 0; i < len; i++) {
         name_chk = emblems_all[i][0];
         if (name_chk === name) {
-            set_back_col(id, emblems_all[i][1]);
-            set_layer_col(id, "low", emblems_all[i][2]);
-            set_layer_des(id, "low", emblems_all[i][3]);
-            set_layer_rot(id, "low", emblems_all[i][4]);
-            set_layer_col(id, "top", emblems_all[i][5]);
-            set_layer_des(id, "top", emblems_all[i][6]);
-            set_layer_rot(id, "top", emblems_all[i][7]);
+            set_back_col_scores(id, emblems_all[i][1]);
+            set_layer_col_scores(id, "low", emblems_all[i][2]);
+            set_layer_des_scores(id, "low", emblems_all[i][3]);
+            set_layer_rot_scores(id, "low", emblems_all[i][4]);
+            set_layer_col_scores(id, "top", emblems_all[i][5]);
+            set_layer_des_scores(id, "top", emblems_all[i][6]);
+            set_layer_rot_scores(id, "top", emblems_all[i][7]);
             return;
         }
     }
-    set_back_col(id, "rgb(0, 0, 0)");
-    set_layer_col(id, "low", "none");
-    set_layer_col(id, "top", "none");
+    set_back_col_scores(id, "rgb(0, 0, 0)");
+    set_layer_col_scores(id, "low", "none");
+    set_layer_col_scores(id, "top", "none");
 }
 
 function set_topic_avatars(emblems) {
