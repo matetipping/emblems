@@ -77,4 +77,18 @@ $(function () {
     var opponent_name = get_opponent(player_name, tipping_data.round, tipping_data.fixtures);
     set_emblem("emblem_opponent", opponent_name, emblem_data.emblems);
     set_topic_avatars(emblem_data.emblems);
+    var i;
+    var round_fix = find_round_tips(tipping_data.round, tipping_data.fixtures)[0];
+    var len = round_fix.length;
+    var player_check = "";
+    for (i = 0; i < len; i++) {
+        player_check = round_fix[i];
+	    if (player_check === player_name) {
+	        return;
+	    }
+    }
+    player_name = round_fix[1];
+    set_emblem("emblem_user", player_name, emblem_data.emblems);
+    opponent_name = round_fix[2];
+    set_emblem("emblem_opponent", opponent_name, emblem_data.emblems);
 });
