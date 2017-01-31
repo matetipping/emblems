@@ -5,7 +5,7 @@ var emblem_data = {
     ]
 }
 
-function set_back_col(id, colour) {
+function set_back_col_scores(id, colour) {
     document.getElementById(id).style.backgroundColor = colour;
 }
 
