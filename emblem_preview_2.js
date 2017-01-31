@@ -261,113 +261,185 @@ function set_random_back_col() {
 }
 
 function set_random_layer_col(id) {
-  switch(random_num(60)) {
+  switch(random_num(70)) {
     case 1:
-      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003806/emblemdesigns_maroon.png")
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3005719/emblemdesigns_splurtle.png")
       break;
     case 2:
-      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003763/emblemdesigns_red.png")
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003806/emblemdesigns_maroon.png")
       break;
     case 3:
-      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003809/emblemdesigns_tomato.png")
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3005768/emblemdesigns_darkred.png")
       break;
     case 4:
-      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003839/emblemdesigns_salmon.png")
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3005724/emblemdesigns_blood.png")
       break;
     case 5:
-      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003840/emblemdesigns_tangerine.png")
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3005723/emblemdesigns_coral.png")
       break;
     case 6:
-      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003807/emblemdesigns_orange.png")
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003763/emblemdesigns_red.png")
       break;
     case 7:
-      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003838/emblemdesigns_lightbrown.png")
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003809/emblemdesigns_tomato.png")
       break;
     case 8:
-      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003805/emblemdesigns_brown.png")
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003839/emblemdesigns_salmon.png")
       break;
     case 9:
-      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003804/emblemdesigns_amber.png")
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003840/emblemdesigns_tangerine.png")
       break;
     case 10:
-      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003812/emblemdesigns_gold.png")
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003807/emblemdesigns_orange.png")
       break;
     case 11:
-      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003817/emblemdesigns_yellow.png")
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3005760/emblemdesigns_carrot.png")
       break;
     case 12:
-      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003814/emblemdesigns_lime.png")
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3005763/emblemdesigns_nude.png")
       break;
     case 13:
-      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003815/emblemdesigns_olive.png")
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003838/emblemdesigns_lightbrown.png")
       break;
     case 14:
-      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003813/emblemdesigns_green.png")
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3005729/emblemdesigns_nutella.png")
       break;
     case 15:
-      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003811/emblemdesigns_forest.png")
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003805/emblemdesigns_brown.png")
       break;
     case 16:
-      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003841/emblemdesigns_mint.png")
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3005725/emblemdesigns_charcoalbrown.png")
       break;
     case 17:
-      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003810/emblemdesigns_cyan.png")
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3005769/emblemdesigns_cement.png")
       break;
     case 18:
-      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003816/emblemdesigns_teal.png")
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3005727/emblemdesigns_sand.png")
       break;
     case 19:
-      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003818/emblemdesigns_aqua.png")
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3005728/emblemdesigns_cream.png")
       break;
     case 20:
-      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003819/emblemdesigns_azure.png")
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003804/emblemdesigns_amber.png")
       break;
     case 21:
-      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003823/emblemdesigns_lightblue.png")
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003812/emblemdesigns_gold.png")
       break;
     case 22:
-      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003820/emblemdesigns_blue.png")
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003817/emblemdesigns_yellow.png")
       break;
     case 23:
-      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003821/emblemdesigns_darkblue.png")
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3005762/emblemdesigns_citrus.png")
       break;
     case 24:
-      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003824/emblemdesigns_navy.png")
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003814/emblemdesigns_lime.png")
       break;
     case 25:
-      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003822/emblemdesigns_glaucous.png")
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003815/emblemdesigns_olive.png")
       break;
     case 26:
-      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003826/emblemdesigns_lightpurple.png")
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3005758/emblemdesigns_grass.png")
       break;
     case 27:
-      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003829/emblemdesigns_purple.png")
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003813/emblemdesigns_green.png")
       break;
     case 28:
-      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003825/emblemdesigns_darkpurple.png")
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3005759/emblemdesigns_martian.png")
       break;
     case 29:
-      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003830/emblemdesigns_violet.png")
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003811/emblemdesigns_forest.png")
       break;
     case 30:
-      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003827/emblemdesigns_magenta.png")
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3005731/emblemdesigns_amazongreen.png")
       break;
     case 31:
-      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003828/emblemdesigns_pink.png")
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3005771/emblemdesigns_emerald.png")
       break;
     case 32:
-      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003755/emblemdesigns_white.png")
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3005730/emblemdesigns_bottlegreen.png")
       break;
     case 33:
-      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003754/emblemdesigns_silver.png")
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003841/emblemdesigns_mint.png")
       break;
     case 34:
-      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003753/emblemdesigns_grey.png")
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003810/emblemdesigns_cyan.png")
       break;
     case 35:
-      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003752/emblemdesigns_charcoal.png")
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003816/emblemdesigns_teal.png")
       break;
     case 36:
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003818/emblemdesigns_aqua.png")
+      break;
+    case 37:
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003819/emblemdesigns_azure.png")
+      break;
+    case 38:
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3005770/emblemdesigns_darkteal.png")
+      break;
+    case 39:
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3005721/emblemdesigns_midnight.png")
+      break;
+    case 40:
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003823/emblemdesigns_lightblue.png")
+      break;
+    case 41:
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003820/emblemdesigns_blue.png")
+      break;
+    case 42:
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3005772/emblemdesigns_royalblue.png")
+      break;
+    case 43:
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003821/emblemdesigns_darkblue.png")
+      break;
+    case 44:
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003824/emblemdesigns_navy.png")
+      break;
+    case 45:
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003822/emblemdesigns_glaucous.png")
+      break;
+    case 46:
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3005722/emblemdesigns_lilac.png")
+      break;
+    case 47:
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003826/emblemdesigns_lightpurple.png")
+      break;
+    case 48:
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003829/emblemdesigns_purple.png")
+      break;
+    case 49:
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003825/emblemdesigns_darkpurple.png")
+      break;
+    case 50:
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003830/emblemdesigns_violet.png")
+      break;
+    case 51:
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3005720/emblemdesigns_berry.png")
+      break;
+    case 52:
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003827/emblemdesigns_magenta.png")
+      break;
+    case 53:
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003828/emblemdesigns_pink.png")
+      break;
+    case 54:
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3005761/emblemdesigns_lightpink.png")
+      break;
+    case 55:
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003755/emblemdesigns_white.png")
+      break;
+    case 56:
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003754/emblemdesigns_silver.png")
+      break;
+    case 57:
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003753/emblemdesigns_grey.png")
+      break;
+    case 58:
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003752/emblemdesigns_charcoal.png")
+      break;
+    case 59:
+      set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3005726/emblemdesigns_jet.png")
+      break;
+    case 60:
       set_layer_col(id, "http://b3.ifrm.com/30609/91/0/p3003751/emblemdesigns_black.png")
       break;
     default:
