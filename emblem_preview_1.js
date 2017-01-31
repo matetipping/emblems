@@ -77,111 +77,183 @@ function random_num(a_number) {
 }
 
 function set_random_back_col() {
-  switch(random_num(49)) {
+  switch(random_num(60)) {
     case 1:
-      set_back_col("rgb(151, 13, 36)")
+      set_back_col("rgb(120, 0, 43)")
       break;
     case 2:
-      set_back_col("rgb(233, 58, 35)")
+      set_back_col("rgb(151, 13, 36)")
       break;
     case 3:
-      set_back_col("rgb(210, 52, 12)")
+      set_back_col("rgb(55, 0, 1)")
       break;
     case 4:
-      set_back_col("rgb(255, 132, 85)")
+      set_back_col("rgb(148, 8, 8)")
       break;
     case 5:
-      set_back_col("rgb(237, 96, 48)")
+      set_back_col("rgb(242, 66, 66)")
       break;
     case 6:
-      set_back_col("rgb(228, 108, 10)")
+      set_back_col("rgb(233, 58, 35)")
       break;
     case 7:
-      set_back_col("rgb(173, 119, 79)")
+      set_back_col("rgb(210, 52, 12)")
       break;
     case 8:
-      set_back_col("rgb(61, 29, 11)")
+      set_back_col("rgb(255, 132, 85)")
       break;
     case 9:
-      set_back_col("rgb(236, 164, 20)")
+      set_back_col("rgb(237, 96, 48)")
       break;
     case 10:
-      set_back_col("rgb(255, 204, 0)")
+      set_back_col("rgb(228, 108, 10)")
       break;
     case 11:
-      set_back_col("rgb(255, 238, 17)")
+      set_back_col("rgb(246, 120, 43)")
       break;
     case 12:
-      set_back_col("rgb(189, 214, 26)")
+      set_back_col("rgb(238, 211, 180)")
       break;
     case 13:
-      set_back_col("rgb(130, 132, 34)")
+      set_back_col("rgb(173, 119, 79)")
       break;
     case 14:
-      set_back_col("rgb(31, 188, 0)")
+      set_back_col("rgb(144, 80, 35)")
       break;
     case 15:
-      set_back_col("rgb(51, 119, 38)")
+      set_back_col("rgb(61, 29, 11)")
       break;
     case 16:
-      set_back_col("rgb(158, 211, 131)")
+      set_back_col("rgb(48, 31, 22)")
       break;
     case 17:
-      set_back_col("rgb(113, 226, 187)")
+      set_back_col("rgb(146, 128, 99)")
       break;
     case 18:
-      set_back_col("rgb(81, 179, 174)")
+      set_back_col("rgb(221, 210, 171)")
       break;
     case 19:
-      set_back_col("rgb(175, 234, 223)")
+      set_back_col("rgb(233, 234, 181)")
       break;
     case 20:
-      set_back_col("rgb(31, 141, 157)")
+      set_back_col("rgb(236, 164, 20)")
       break;
     case 21:
-      set_back_col("rgb(135, 187, 229)")
+      set_back_col("rgb(255, 204, 0)")
       break;
     case 22:
-      set_back_col("rgb(21, 113, 189)")
+      set_back_col("rgb(255, 238, 17)")
       break;
     case 23:
-      set_back_col("rgb(23, 55, 94)")
+      set_back_col("rgb(230, 239, 151)")
       break;
     case 24:
-      set_back_col("rgb(16, 37, 63)")
+      set_back_col("rgb(189, 214, 26)")
       break;
     case 25:
-      set_back_col("rgb(57, 63, 96)")
+      set_back_col("rgb(130, 132, 34)")
       break;
     case 26:
-      set_back_col("rgb(124, 105, 175)")
+      set_back_col("rgb(116, 189, 67)")
       break;
     case 27:
-      set_back_col("rgb(60, 48, 82)")
+      set_back_col("rgb(31, 188, 0)")
       break;
     case 28:
-      set_back_col("rgb(29, 23, 39)")
+      set_back_col("rgb(56, 249, 109)")
       break;
     case 29:
-      set_back_col("rgb(159, 96, 193)")
+      set_back_col("rgb(51, 119, 38)")
       break;
     case 30:
-      set_back_col("rgb(228, 103, 239)")
+      set_back_col("rgb(3, 24, 4)")
       break;
     case 31:
-      set_back_col("rgb(242, 96, 162)")
+      set_back_col("rgb(0, 102, 44)")
       break;
     case 32:
-      set_back_col("rgb(242, 242, 242)")
+      set_back_col("rgb(33, 95, 45)")
       break;
     case 33:
-      set_back_col("rgb(217, 217, 217)")
+      set_back_col("rgb(158, 211, 131)")
       break;
     case 34:
-      set_back_col("rgb(127, 127, 127)")
+      set_back_col("rgb(113, 226, 187)")
       break;
     case 35:
+      set_back_col("rgb(81, 179, 174)")
+      break;
+    case 36:
+      set_back_col("rgb(175, 234, 223)")
+      break;
+    case 37:
+      set_back_col("rgb(31, 141, 157)")
+      break;
+    case 38:
+      set_back_col("rgb(8, 86, 98)")
+      break;
+    case 39:
+      set_back_col("rgb(3, 23, 26)")
+      break;
+    case 40:
+      set_back_col("rgb(135, 187, 229)")
+      break;
+    case 41:
+      set_back_col("rgb(21, 113, 189)")
+      break;
+    case 42:
+      set_back_col("rgb(35, 89, 149)")
+      break;
+    case 43:
+      set_back_col("rgb(23, 55, 94)")
+      break;
+    case 44:
+      set_back_col("rgb(16, 37, 63)")
+      break;
+    case 45:
+      set_back_col("rgb(57, 63, 96)")
+      break;
+    case 46:
+      set_back_col("rgb(147, 145, 162)")
+      break;
+    case 47:
+      set_back_col("rgb(124, 105, 175)")
+      break;
+    case 48:
+      set_back_col("rgb(60, 48, 82)")
+      break;
+    case 49:
+      set_back_col("rgb(29, 23, 39)")
+      break;
+    case 50:
+      set_back_col("rgb(159, 96, 193)")
+      break;
+    case 51:
+      set_back_col("rgb(128, 28, 90)")
+      break;
+    case 52:
+      set_back_col("rgb(228, 103, 239)")
+      break;
+    case 53:
+      set_back_col("rgb(242, 96, 162)")
+      break;
+    case 54:
+      set_back_col("rgb(250, 198, 196)")
+      break;
+    case 55:
+      set_back_col("rgb(242, 242, 242)")
+      break;
+    case 56:
+      set_back_col("rgb(217, 217, 217)")
+      break;
+    case 57:
+      set_back_col("rgb(127, 127, 127)")
+      break;
+    case 58:
       set_back_col("rgb(89, 89, 89)")
+      break;
+    case 59:
+      set_back_col("rgb(40, 40, 40)")
       break;
     default:
       set_back_col("rgb(13, 13, 13)")
