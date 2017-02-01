@@ -64,7 +64,7 @@ function set_topic_avatars(emblems) {
         } else {
              $('tr.topinfo td.c_username span').each(function() {
                 if ($(this).html() === emblems[i][0]) {
-                    $('tr.topinfo div.emblem').parents('a').replaceWith(avatarHTML);
+                    $('tr.topinfo div.emblem').replaceWith(avatarHTML);
                 }
             });
         }
