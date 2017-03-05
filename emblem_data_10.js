@@ -8,7 +8,8 @@ var emblem_data = {
         ["Craig Terrington", "rgb(128, 28, 90)", "http://b3.ifrm.com/30609/91/0/p3003822/emblemdesigns_glaucous.png", "-600px 0px", "90", "http://b3.ifrm.com/30609/91/0/p3005722/emblemdesigns_lilac.png", "-150px -450px", "180"],
         ["Flagpies", "rgb(151, 13, 36)", "http://b3.ifrm.com/30609/91/0/p3005772/emblemdesigns_royalblue.png", "-150px 0px", "270", "http://b3.ifrm.com/30609/91/0/p3003804/emblemdesigns_amber.png", "none", "0"],
         ["Mann", "rgb(148, 8, 8)", "http://b3.ifrm.com/30609/91/0/p3003820/emblemdesigns_blue.png", "-750px 0px", "0", "http://b3.ifrm.com/30609/91/0/p3003812/emblemdesigns_gold.png", "-450px -300px", "0"],
-        ["Shaydog", "rgb(13, 13, 13)", "http://b3.ifrm.com/30609/91/0/p3003806/emblemdesigns_maroon.png", "-450px -150px", "270", "http://b3.ifrm.com/30609/91/0/p3003751/emblemdesigns_black.png", "-600px -150px", "180"]
+        ["Shaydog", "rgb(13, 13, 13)", "http://b3.ifrm.com/30609/91/0/p3003806/emblemdesigns_maroon.png", "-450px -150px", "270", "http://b3.ifrm.com/30609/91/0/p3003751/emblemdesigns_black.png", "-600px -150px", "180"],
+        ["Alex Rowland", "rgb(13, 13, 13)", "http://b3.ifrm.com/30609/91/0/p3003755/emblemdesigns_white.png", "-450px -150px", "0", "http://b3.ifrm.com/30609/91/0/p3003763/emblemdesigns_red.png", "-450px -450px", "0"]
     ]
 }
 
