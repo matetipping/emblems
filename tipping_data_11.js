@@ -10,7 +10,7 @@ var tipping_data = {
         ["R1", "Jono22", "CAR", 15, "WBD", 27, "STK", 4, "SYD", 21, "GCS", 13, "HAW", 21, "WCE", 17, "GWS", 19, "FRE", 13, "Tom Mitchell (HAW)", ""]
     ],
     fixtures: [
-        ["R1", "Shaydog", "Dannelboyz", "Bigbadbrucey", "Flagpies"],
+        ["R1", "Shaydog", "Dannelboyz", "Bigbadbrucey", "Flagpies", "Jono22", "ciniboi_12", "Craig Terrington", "Alex Rowland", "Mann", "Steve"],
         ["R2"],
         ["R3"],
         ["R4"],
