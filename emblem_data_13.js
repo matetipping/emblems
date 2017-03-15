@@ -11,7 +11,8 @@ var emblem_data = {
         ["Shaydog", "rgb(13, 13, 13)", "http://b3.ifrm.com/30609/91/0/p3003806/emblemdesigns_maroon.png", "-450px -150px", "270", "http://b3.ifrm.com/30609/91/0/p3003751/emblemdesigns_black.png", "-600px -150px", "180"],
         ["Alex Rowland", "rgb(13, 13, 13)", "http://b3.ifrm.com/30609/91/0/p3003755/emblemdesigns_white.png", "-450px -150px", "0", "http://b3.ifrm.com/30609/91/0/p3003763/emblemdesigns_red.png", "-450px -450px", "0"],
         ["Steve", "rgb(13, 13, 13)", "http://b3.ifrm.com/30609/91/0/p3003812/emblemdesigns_gold.png", "-450px -150px", "90", "http://b3.ifrm.com/30609/91/0/p3003763/emblemdesigns_red.png", "-450px -150px", "180"],
-        ["Harry Rowland", "rgb(255, 238, 17)", "http://b3.ifrm.com/30609/91/0/p3005729/emblemdesigns_nutella.png", "-450px -150px", "90", "http://b3.ifrm.com/30609/91/0/p3003804/emblemdesigns_amber.png", "-750px -450px", "0"]
+        ["Harry Rowland", "rgb(255, 238, 17)", "http://b3.ifrm.com/30609/91/0/p3005729/emblemdesigns_nutella.png", "-450px -150px", "90", "http://b3.ifrm.com/30609/91/0/p3003804/emblemdesigns_amber.png", "-750px -450px", "0"],
+        ["Kaytley🐐", "rgb(120, 0, 43)", "http://b3.ifrm.com/30609/91/0/p3003755/emblemdesigns_white.png", "0px -450px", "0", "http://b3.ifrm.com/30609/91/0/p3005719/emblemdesigns_splurtle.png", "-450px -450px", "0"]
     ]
 }
 
