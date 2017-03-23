@@ -12,7 +12,10 @@ vvar tipping_data = {
         ["R1", "Mann", "RIC", 19, "WBD", 23, "MEL", 11, "SYD", 26, "GCS", 22, "HAW", 22, "WCE", 30, "GWS", 32, "GEE", 11, "", "", "Tom Lynch (GC)", "", "", ""],
         ["R1", "Jeanille01", "RIC", 20, "WBD", 50, "MEL", 20, "SYD", 25, "GCS", 20, "HAW", 50, "WCE", 25, "GWS", 30, "GEE", 20, "", "", "Luke Breust (HAW)", "", "", ""],
         ["R1", "jamieling", "RIC", 17, "WBD", 33, "STK", 20, "SYD", 40, "GCS", 23, "HAW", 33, "WCE", 12, "ADE", 7, "GEE", 29, "Patrick Dangerfield (GEE)", "", "Lance Franklin (SYD)", "", "", ""],
-        ["R1", "Alex Rowland", "RIC", 24, "WBD", 15, "STK", 20, "SYD", 31, "GCS", 11, "HAW", 26, "WCE", 33, "GWS", 28, "GEE", 23, "", "", "Josh Kennedy (WCE)", "", "", ""]
+        ["R1", "Alex Rowland", "RIC", 24, "WBD", 15, "STK", 20, "SYD", 31, "GCS", 11, "HAW", 26, "WCE", 33, "GWS", 28, "GEE", 23, "", "", "Josh Kennedy (WCE)", "", "", ""],
+        ["R1", "Harry Rowland", "RIC", 23, "WBD", 37, "STK", 15, "SYD", 25, "GCS", 40, "HAW", 35, "WCE", 32, "GWS", 14, "GEE", 26, "", "", "", "", "", ""],
+        ["R1", "Steve", "CAR", 31, "WBD", 25, "MEL", 18, "SYD", 41, "GCS", 5, "HAW", 10, "WCE", 18, "GWS", 8, "GEE", 17, "", "", "", "", "", ""],
+        ["R1", "ciniboi_12", "RIC", 40, "WBD", 32, "STK", 15, "SYD", 47, "GCS", 10, "HAW", 46, "WCE", 29, "ADE", 5, "GEE", 20, "", "", "", "", "", ""]
     ],
     fixtures: [
         ["R1", "Shaydog", "Dannelboyz", "Bigbadbrucey", "Flagpies", "Jono22", "ciniboi_12", "Craig Terrington", "Alex Rowland", "Mann", "Steve", "Harry Rowland", "Kaytley🐐", "jamieling", "Jeanille01"],
