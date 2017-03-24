@@ -2,11 +2,11 @@ var tipping_data = {
     round: "R1",
     admin: "Administrator",
     tips: [
-        ["R1", "Administrator", "RIC", 43, "", "", "", "", "", ""],
+        ["R1", "Administrator", "RIC", 43, "WBD", 14, "", "", "", "", "", ""],
         ["R1", "Shaydog", "CAR", 15, "WBD", 25, "STK", 10, "SYD", 45, "BRI", 20, "HAW", 30, "NTH", 10, "ADE", 15, "GEE", 25, "", "", "", "", "", ""],
         ["R1", "Dannelboyz", "CAR", 6, "WBD", 18, "STK", 2, "SYD", 52, "BRI", 7, "HAW", 29, "WCE", 42, "GWS", 19, "GEE", 17, "", "", "Josh Kennedy (WCE)", "", "", ""],
         ["R1", "Bigbadbrucey", "RIC", 23, "WBD", 37, "STK", 17, "SYD", 43, "GCS", 22, "HAW", 37, "WCE", 27, "ADE", 12, "GEE", 28, "", "", "", "", "", ""],
-        ["R1", "Flagpies", "RIC", 25, "WBD", 19, "MEL", 25, "SYD", 12, "GCS", 8, "HAW", 15, "WCE", 22, "GWS", 10, "GEE", 4, "Dan Hannebery (SYD)", "", "Travis Cloke (WBD)", "", "", ""],
+        ["R1", "Flagpies", "RIC", 25, "WBD", 19, "MEL", 25, "SYD", 12, "GCS", 8, "HAW", 15, "WCE", 22, "GWS", 10, "GEE", 4, "Dan Hannebery (SYD)", "", "Travis Cloke (WBD)", 6, "", ""],
         ["R1", "Jono22", "CAR", 15, "WBD", 27, "STK", 4, "SYD", 21, "GCS", 13, "HAW", 21, "WCE", 17, "GWS", 19, "FRE", 13, "Tom Mitchell (HAW)", "", "", "", "", ""],
         ["R1", "Kaytley🐐", "RIC", 10, "WBD", 15, "STK", 20, "SYD", 12, "BRI", 10, "HAW", 20, "WCE", 25, "ADE", 10, "FRE", 15, "", "", "", "", "", ""],
         ["R1", "Mann", "RIC", 19, "WBD", 23, "MEL", 11, "SYD", 26, "GCS", 22, "HAW", 22, "WCE", 30, "GWS", 32, "GEE", 11, "", "", "Tom Lynch (GC)", "", "", ""],
