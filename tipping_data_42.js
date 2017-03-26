@@ -1,8 +1,8 @@
 var tipping_data = {
-    round: "R1",
+    round: "R2",
     admin: "Administrator",
     tips: [
-        ["R1", "Administrator", "RIC", 43, "WBD", 14, "MEL", 30, "PTA", 28, "BRI", 2, "ESS", 25, "WCE", 43, "ADE", 56, "", "", "", "", "", ""],
+        ["R1", "Administrator", "RIC", 43, "WBD", 14, "MEL", 30, "PTA", 28, "BRI", 2, "ESS", 25, "WCE", 43, "ADE", 56, "GEE", 42, "", "", "", "", "", ""],
         ["R1", "Shaydog", "CAR", 15, "WBD", 25, "STK", 10, "SYD", 45, "BRI", 20, "HAW", 30, "NTH", 10, "ADE", 15, "GEE", 25, "", "", "", "", "", ""],
         ["R1", "Dannelboyz", "CAR", 6, "WBD", 18, "STK", 2, "SYD", 52, "BRI", 7, "HAW", 29, "WCE", 42, "GWS", 19, "GEE", 17, "", "", "Josh Kennedy (WCE)", 42, "", ""],
         ["R1", "Bigbadbrucey", "RIC", 23, "WBD", 37, "STK", 17, "SYD", 43, "GCS", 22, "HAW", 37, "WCE", 27, "ADE", 12, "GEE", 28, "", "", "", "", "", ""],
@@ -11,7 +11,7 @@ var tipping_data = {
         ["R1", "Kaytley🐐", "RIC", 10, "WBD", 15, "STK", 20, "SYD", 12, "BRI", 10, "HAW", 20, "WCE", 25, "ADE", 10, "FRE", 15, "", "", "", "", "", ""],
         ["R1", "Mann", "RIC", 19, "WBD", 23, "MEL", 11, "SYD", 26, "GCS", 22, "HAW", 22, "WCE", 30, "GWS", 32, "GEE", 11, "", "", "Tom Lynch (GC)", 20, "", ""],
         ["R1", "Jeanille01", "RIC", 20, "WBD", 50, "MEL", 20, "SYD", 25, "GCS", 20, "HAW", 50, "WCE", 25, "GWS", 30, "GEE", 20, "", "", "Luke Breust (HAW)", 7, "", ""],
-        ["R1", "jamieling", "RIC", 17, "WBD", 33, "STK", 20, "SYD", 40, "GCS", 23, "HAW", 33, "WCE", 12, "ADE", 7, "GEE", 29, "Patrick Dangerfield (GEE)", "", "Lance Franklin (SYD)", 26, "", ""],
+        ["R1", "jamieling", "RIC", 17, "WBD", 33, "STK", 20, "SYD", 40, "GCS", 23, "HAW", 33, "WCE", 12, "ADE", 7, "GEE", 29, "Patrick Dangerfield (GEE)", 24, "Lance Franklin (SYD)", 26, "", ""],
         ["R1", "Alex Rowland", "RIC", 24, "WBD", 15, "STK", 20, "SYD", 31, "GCS", 11, "HAW", 26, "WCE", 33, "GWS", 28, "GEE", 23, "", "", "Josh Kennedy (WCE)", 42, "", ""],
         ["R1", "Harry Rowland", "RIC", 23, "WBD", 37, "STK", 15, "SYD", 25, "GCS", 40, "HAW", 35, "WCE", 32, "GWS", 14, "GEE", 26, "", "", "", "", "", ""],
         ["R1", "Steve", "CAR", 31, "WBD", 25, "MEL", 18, "SYD", 41, "GCS", 5, "HAW", 10, "WCE", 18, "GWS", 8, "GEE", 17, "", "", "", "", "", ""],
