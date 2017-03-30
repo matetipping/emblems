@@ -18,7 +18,9 @@ var tipping_data = {
         ["R1", "ciniboi_12", "RIC", 40, "WBD", 32, "STK", 15, "SYD", 47, "GCS", 10, "HAW", 46, "WCE", 29, "ADE", 5, "GEE", 20, "", "", "", "", "", ""],
         ["R1", "Craig Terrington", "RIC", 15, "WBD", 35, "STK", 5, "SYD", 32, "GCS", 20, "HAW", 32, "WCE", 32, "GWS", 18, "GEE", 18, "", "", "", "", "", ""],
         ["R2", "Dannelboyz", "RIC", 6, "SYD", 26, "HAW", 1, "GWS", 60, "ESS", 15, "WCE", 31, "GEE", 52, "MEL", 37, "PTA", 12, "", "", "", "", "", ""],
-        ["R2", "Bigbadbrucey", "RIC", 23, "WBD", 17, "ADE", 27, "GWS", 38, "ESS", 23, "WCE", 15, "GEE", 45, "MEL", 34, "FRE", 25, "", "", "", "", "", ""]
+        ["R2", "Bigbadbrucey", "RIC", 23, "WBD", 17, "ADE", 27, "GWS", 38, "ESS", 23, "WCE", 15, "GEE", 45, "MEL", 34, "FRE", 25, "", "", "", "", "", ""],
+        ["R2", "Harry Rowland", "RIC", 26, "WBD", 32, "HAW", 12, "GWS", 40, "ESS", 37, "WCE", 47, "GEE", 13, "MEL", 22, "PTA", 10, "dan hannebery", "", "", "", "", ""],
+        ["R2", "Flagpies", "COL", 6, "SYD", 3, "HAW", 27, "GWS", 32, "ESS", 17, "WCE", 24, "GEE", 38, "MEL", 56, "FRE", 30, "Dustin Martin (RIC)", "", "Lance Franklin (SYD)", "", "", ""]
     ],
     fixtures: [
         ["R1", "Shaydog", "Dannelboyz", "Bigbadbrucey", "Flagpies", "Jono22", "ciniboi_12", "Craig Terrington", "Alex Rowland", "Mann", "Steve", "Harry Rowland", "Kaytley🐐", "jamieling", "Jeanille01"],
