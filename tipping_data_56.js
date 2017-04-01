@@ -3,7 +3,7 @@ var tipping_data = {
     admin: "Administrator",
     tips: [
         ["R1", "Administrator", "RIC", 43, "WBD", 14, "MEL", 30, "PTA", 28, "BRI", 2, "ESS", 25, "WCE", 43, "ADE", 56, "GEE", 42, "Rory Laird (ADE)", 40, "Josh Kennedy (WCE)", 42, "", ""],
-        ["R2", "Administrator", "RIC", 19, "WBD", 23, "ADE", 24, "", "", "", "", "", ""],
+        ["R2", "Administrator", "RIC", 19, "WBD", 23, "ADE", 24, "GWS", 102, "", "", "", "", "", ""],
         ["R1", "Shaydog", "CAR", 15, "WBD", 25, "STK", 10, "SYD", 45, "BRI", 20, "HAW", 30, "NTH", 10, "ADE", 15, "GEE", 25, "", "", "", "", "", ""],
         ["R1", "Dannelboyz", "CAR", 6, "WBD", 18, "STK", 2, "SYD", 52, "BRI", 7, "HAW", 29, "WCE", 42, "GWS", 19, "GEE", 17, "", "", "Josh Kennedy (WCE)", 42, "", ""],
         ["R1", "Bigbadbrucey", "RIC", 23, "WBD", 37, "STK", 17, "SYD", 43, "GCS", 22, "HAW", 37, "WCE", 27, "ADE", 12, "GEE", 28, "", "", "", "", "", ""],
@@ -23,7 +23,7 @@ var tipping_data = {
         ["R2", "Harry Rowland", "RIC", 26, "WBD", 32, "HAW", 12, "GWS", 40, "ESS", 37, "WCE", 47, "GEE", 13, "MEL", 22, "PTA", 10, "Dan Hannebery (SYD)", 19, "", "", "", ""],
         ["R2", "Flagpies", "COL", 6, "SYD", 3, "HAW", 27, "GWS", 32, "ESS", 17, "WCE", 24, "GEE", 38, "MEL", 56, "FRE", 30, "Dustin Martin (RIC)", 25, "Lance Franklin (SYD)", 28, "", ""],
         ["R2", "Craig Terrington", "COL", 11, "WBD", 24, "ADE", 18, "GWS", 67, "BRI", 7, "WCE", 36, "GEE", 39, "MEL", 42, "PTA", 29, "", "", "", "", "", ""],
-        ["R2", "Jono22", "RIC", 5, "WBD", 7, "HAW", 15, "GWS", 9, "BRI", 16, "WCE", 17, "GEE", 32, "MEL", 30, "PTA", 21, "Jaeger O'Meara (HAW)", 36, "Tom Lynch (GCS)", "", "", ""],
+        ["R2", "Jono22", "RIC", 5, "WBD", 7, "HAW", 15, "GWS", 9, "BRI", 16, "WCE", 17, "GEE", 32, "MEL", 30, "PTA", 21, "Jaeger O'Meara (HAW)", 36, "Tom Lynch (GCS)", 2, "", ""],
         ["R2", "jamieling", "COL", 20, "WBD", 32, "ADE", 26, "GWS", 45, "ESS", 20, "WCE", 30, "GEE", 30, "MEL", 45, "PTA", 50, "", "", "", "", "", ""],
         ["R2", "Jeanille01", "COL", 10, "WBD", 20, "HAW", 20, "GWS", 30, "ESS", 20, "WCE", 30, "GEE", 30, "MEL", 40, "PTA", 40, "Patrick Dangerfield (GEE)", "", "", "", "", ""],
         ["R2", "Kaytley🐐", "RIC", 5, "SYD", 10, "HAW", 15, "GCS", 10, "ESS", 20, "WCE", 12, "GEE", 20, "MEL", 20, "FRE", 15, "", "", "", "", "", ""],
