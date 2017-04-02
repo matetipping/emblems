@@ -3,7 +3,6 @@ var tipping_data = {
     admin: "Administrator",
     tips: [
         ["R1", "Administrator", "RIC", 43, "WBD", 14, "MEL", 30, "PTA", 28, "BRI", 2, "ESS", 25, "WCE", 43, "ADE", 56, "GEE", 42, "Rory Laird (ADE)", 40, "Josh Kennedy (WCE)", 42, "", ""],
-        ["R2", "Administrator", "RIC", 19, "WBD", 23, "ADE", 24, "GWS", 102, "ESS", 27, "WCE", 19, "GEE", 1, "MEL", 22, "PTA", 89, "Tom Mitchell (HAW)", 38, "Jeremy Cameron (GWS)", 37, "", ""],
         ["R1", "Shaydog", "CAR", 15, "WBD", 25, "STK", 10, "SYD", 45, "BRI", 20, "HAW", 30, "NTH", 10, "ADE", 15, "GEE", 25, "", "", "", "", "", ""],
         ["R1", "Dannelboyz", "CAR", 6, "WBD", 18, "STK", 2, "SYD", 52, "BRI", 7, "HAW", 29, "WCE", 42, "GWS", 19, "GEE", 17, "", "", "Josh Kennedy (WCE)", 42, "", ""],
         ["R1", "Bigbadbrucey", "RIC", 23, "WBD", 37, "STK", 17, "SYD", 43, "GCS", 22, "HAW", 37, "WCE", 27, "ADE", 12, "GEE", 28, "", "", "", "", "", ""],
@@ -18,6 +17,7 @@ var tipping_data = {
         ["R1", "Steve", "CAR", 31, "WBD", 25, "MEL", 18, "SYD", 41, "GCS", 5, "HAW", 10, "WCE", 18, "GWS", 8, "GEE", 17, "", "", "", "", "", ""],
         ["R1", "ciniboi_12", "RIC", 40, "WBD", 32, "STK", 15, "SYD", 47, "GCS", 10, "HAW", 46, "WCE", 29, "ADE", 5, "GEE", 20, "", "", "", "", "", ""],
         ["R1", "Craig Terrington", "RIC", 15, "WBD", 35, "STK", 5, "SYD", 32, "GCS", 20, "HAW", 32, "WCE", 32, "GWS", 18, "GEE", 18, "", "", "", "", "", ""],
+        ["R2", "Administrator", "RIC", 19, "WBD", 23, "ADE", 24, "GWS", 102, "ESS", 27, "WCE", 19, "GEE", 1, "MEL", 22, "PTA", 89, "Tom Mitchell (HAW)", 38, "Jeremy Cameron (GWS)", 37, "", ""],
         ["R2", "Dannelboyz", "RIC", 6, "SYD", 26, "HAW", 1, "GWS", 60, "ESS", 15, "WCE", 31, "GEE", 52, "MEL", 37, "PTA", 12, "", "", "", "", "", ""],
         ["R2", "Bigbadbrucey", "RIC", 23, "WBD", 17, "ADE", 27, "GWS", 38, "ESS", 23, "WCE", 15, "GEE", 45, "MEL", 34, "FRE", 25, "", "", "", "", "", ""],
         ["R2", "Harry Rowland", "RIC", 26, "WBD", 32, "HAW", 12, "GWS", 40, "ESS", 37, "WCE", 47, "GEE", 13, "MEL", 22, "PTA", 10, "Dan Hannebery (SYD)", 19, "", "", "", ""],
