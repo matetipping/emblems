@@ -1,7 +1,7 @@
 // Created by Viral of Viral's Modifications - http://viralsmods.com
 var t_award = {
   name : "Footy Cards",
-  thumbnail : [20, 20],
+  thumbnail : [30, 45],
   closeFunction : "fade",
   users : [
     [3465693,"13 - Dayne Beams","http://b3.ifrm.com/30609/91/0/p3005868/card_13_d_beams.png","Brisbane Lions","2017"],
