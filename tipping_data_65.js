@@ -36,6 +36,7 @@ var tipping_data = {
         ["R3", "Jeanille01", "SYD", 20, "GWS", 20, "WCE", 30, "MEL", 10, "ADE", 20, "WBD", 30, "STK", 40, "ESS", 30, "HAW", 30, "Gary Ablett (GCS)", "", "", "", "", ""],
         ["R3", "Bigbadbrucey", "SYD", 23, "GWS", 35, "RIC", 8, "GEE", 35, "ADE", 19, "WBD", 42, "STK", 48, "ESS", 22, "HAW", 39, "Jaeger O'Meara (HAW)", "", "Tim Membrey (STK)", "", "", ""],
         ["R3", "Kaytley🐐", "SYD", 15, "GWS", 10, "RIC", 10, "GEE", 20, "ADE", 5, "WBD", 15, "BRI", 10, "ESS", 25, "HAW", 10, "", "", "", "", "", ""],
+        ["R3", "Steve", "SYD", 42, "GWS", 33, "WCE", 5, "GEE", 18, "ADE", 41, "WBD", 60, "STK", 15, "ESS", 27, "HAW", 48, "Scott Pendlebury (COL)", "", "", "", "", ""],
         ["R4", "Jono22", "WCE", 9, "WBD", 14, "MEL", 7, "GWS", , "GCS", 16, "ADE", 27, "STK", 24, "RIC", 14, "HAW", 3, "Gary Ablett (GCS)", "", "Josh Jenkins (ADE)", "", "", ""],
         ["R4", "Jeanille01", "WCE", 30, "WBD", 30, "MEL", 30, "GWS", 40, "CAR", 10, "ADE", 30, "STK", 25, "RIC", 15, "HAW", 10, "", "", "Josh Kennedy (WCE)", "", "", ""]
     ],
