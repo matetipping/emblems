@@ -37,6 +37,10 @@ var tipping_data = {
         ["R3", "Bigbadbrucey", "SYD", 23, "GWS", 37, "RIC", 1, "GEE", 25, "ADE", 29, "WBD", 40, "STK", 40, "ESS", 30, "HAW", 35, "Jaeger O'Meara (HAW)", "", "Tim Membrey (STK)", "", "", ""],
         ["R3", "Kaytley🐐", "SYD", 15, "GWS", 10, "RIC", 10, "GEE", 20, "ADE", 5, "WBD", 15, "BRI", 10, "ESS", 25, "HAW", 10, "", "", "", "", "", ""],
         ["R3", "Steve", "SYD", 42, "GWS", 33, "WCE", 5, "GEE", 18, "ADE", 41, "WBD", 60, "STK", 15, "ESS", 27, "HAW", 48, "Scott Pendlebury (COL)", "", "", "", "", ""],
+        ["R3", "Mann", "SYD", 18, "GWS", 37, "WCE", 16, "GEE", 14, "PTA", 1, "WBD", 38, "STK", 38, "ESS", 28, "HAW", 42, "Jaeger O'Meara", "", "Jeremy Cameron (GWS)", "", "", ""],
+        ["R3", "Harry Rowland", "COL", 6, "GWS", 20, "WCE", 45, "GEE", 20, "ADE", 16, "WBD", 25, "BRI", 15, "ESS", 32, "HAW", 21, "", "", "Lance Franklin (SYD)", "", "", ""],
+        ["R3", "Flagpies", "SYD", 15, "NTH", 3, "RIC", 16, "GEE", 10, "ADE", 20, "WBD", 15, "BRI", 13, "ESS", 20, "HAW", 21, "", "", "", "", "", ""],
+        ["R3", "Shaydog", "SYD", 15, "GWS", 12, "RIC", 10, "MEL", 18, "PTA", 8, "WBD", 20, "BRI", 17, "ESS", 25, "HAW", 16, "", "", "Joshua Kennedy", "", "", ""],
         ["R4", "Jono22", "WCE", 9, "WBD", 14, "MEL", 7, "GWS", , "GCS", 16, "ADE", 27, "STK", 24, "RIC", 14, "HAW", 3, "Gary Ablett (GCS)", "", "Josh Jenkins (ADE)", "", "", ""],
         ["R4", "Jeanille01", "WCE", 30, "WBD", 30, "MEL", 30, "GWS", 40, "CAR", 10, "ADE", 30, "STK", 25, "RIC", 15, "HAW", 10, "", "", "Josh Kennedy (WCE)", "", "", ""]
     ],
