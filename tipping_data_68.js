@@ -2,6 +2,7 @@ var tipping_data = {
     round: "R3",
     admin: "Administrator",
     tips: [
+        ["R3", "Administrator", "", "", "", "", "", ""],
         ["R1", "Administrator", "RIC", 43, "WBD", 14, "MEL", 30, "PTA", 28, "BRI", 2, "ESS", 25, "WCE", 43, "ADE", 56, "GEE", 42, "Rory Laird (ADE)", 40, "Josh Kennedy (WCE)", 42, "", ""],
         ["R1", "Shaydog", "CAR", 15, "WBD", 25, "STK", 10, "SYD", 45, "BRI", 20, "HAW", 30, "NTH", 10, "ADE", 15, "GEE", 25, "", "", "", "", "", ""],
         ["R1", "Dannelboyz", "CAR", 6, "WBD", 18, "STK", 2, "SYD", 52, "BRI", 7, "HAW", 29, "WCE", 42, "GWS", 19, "GEE", 17, "", "", "Josh Kennedy (WCE)", 42, "", ""],
@@ -37,10 +38,14 @@ var tipping_data = {
         ["R3", "Bigbadbrucey", "SYD", 23, "GWS", 37, "RIC", 1, "GEE", 25, "ADE", 29, "WBD", 40, "STK", 40, "ESS", 30, "HAW", 35, "Jaeger O'Meara (HAW)", "", "Tim Membrey (STK)", "", "", ""],
         ["R3", "Kaytley🐐", "SYD", 15, "GWS", 10, "RIC", 10, "GEE", 20, "ADE", 5, "WBD", 15, "BRI", 10, "ESS", 25, "HAW", 10, "", "", "", "", "", ""],
         ["R3", "Steve", "SYD", 42, "GWS", 33, "WCE", 5, "GEE", 18, "ADE", 41, "WBD", 60, "STK", 15, "ESS", 27, "HAW", 48, "Scott Pendlebury (COL)", "", "", "", "", ""],
-        ["R3", "Mann", "SYD", 18, "GWS", 37, "WCE", 16, "GEE", 14, "PTA", 1, "WBD", 38, "STK", 38, "ESS", 28, "HAW", 42, "Jaeger O'Meara", "", "Jeremy Cameron (GWS)", "", "", ""],
+        ["R3", "Mann", "SYD", 18, "GWS", 37, "WCE", 16, "GEE", 14, "PTA", 1, "WBD", 38, "STK", 38, "ESS", 28, "HAW", 42, "Jaeger O'Meara", "", "Lance Franklin (SYD)", "", "", ""],
         ["R3", "Harry Rowland", "COL", 6, "GWS", 20, "WCE", 45, "GEE", 20, "ADE", 16, "WBD", 25, "BRI", 15, "ESS", 32, "HAW", 21, "", "", "Lance Franklin (SYD)", "", "", ""],
         ["R3", "Flagpies", "SYD", 15, "NTH", 3, "RIC", 16, "GEE", 10, "ADE", 20, "WBD", 15, "BRI", 13, "ESS", 20, "HAW", 21, "", "", "", "", "", ""],
         ["R3", "Shaydog", "SYD", 15, "GWS", 12, "RIC", 10, "MEL", 18, "PTA", 8, "WBD", 20, "BRI", 17, "ESS", 25, "HAW", 16, "", "", "Joshua Kennedy", "", "", ""],
+        ["R3", "jamieling", "SYD", 33, "GWS", 40, "WCE", 15, "GEE", 30, "ADE", 5, "WBD", 60, "STK", 35, "ESS", 25, "HAW", 37, "", "", "", "", "", ""],
+        ["R3", "Alex Rowland", "SYD", 25, "GWS", 36, "RIC", 5, "GEE", 21, "ADE", 16, "WBD", 32, "STK", 22, "ESS", 18, "HAW", 26, "", "", "Jeremy Cameron (GWS)", "", "", ""],
+        ["R3", "ciniboi_12", "SYD", 15, "GWS", 31, "WCE", 22, "GEE", 5, "ADE", 28, "WBD", 10, "STK", 58, "ESS", 8, "HAW", 42, "Zach Merrett (ESS)", "", "Lance Franklin (SYD)", "", "", ""],
+        ["R3", "Craig Terrington", "SYD", 32, "GWS", 42, "WCE", 21, "GEE", 33, "ADE", 9, "WBD", 41, "STK", 29, "ESS", 12, "HAW", 47, "", "", "", "", "", ""],
         ["R4", "Jono22", "WCE", 9, "WBD", 14, "MEL", 7, "GWS", , "GCS", 16, "ADE", 27, "STK", 24, "RIC", 14, "HAW", 3, "Gary Ablett (GCS)", "", "Josh Jenkins (ADE)", "", "", ""],
         ["R4", "Jeanille01", "WCE", 30, "WBD", 30, "MEL", 30, "GWS", 40, "CAR", 10, "ADE", 30, "STK", 25, "RIC", 15, "HAW", 10, "", "", "Josh Kennedy (WCE)", "", "", ""]
     ],
