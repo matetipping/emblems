@@ -35,6 +35,7 @@ var tipping_data = {
         ["R2", "Shaydog", "COL", 15, "WBD", 10, "HAW", 25, "GWS", 15, "ESS", 25, "STK", 5, "GEE", 20, "MEL", 30, "FRE", 20, "Patrick Dangerfield (GEE)", 37, "", "", "", ""],
         ["R3", "Jono22", "SYD", 27, "GWS", 25, "WCE", 13, "MEL", 15, "ADE", 14, "FRE", 15, "STK", 31, "ESS", 16, "HAW", 27, "", "", "", "", "", ""],
         ["R3", "Jeanille01", "SYD", 20, "GWS", 20, "WCE", 30, "MEL", 10, "ADE", 20, "WBD", 30, "STK", 40, "ESS", 30, "HAW", 30, "Gary Ablett (GCS)", "", "", "", "", ""],
+        ["R3", "Dannelboyz", "SYD", 19, "GWS", 60, "WCE", 24, "GEE", 6, "ADE", 33, "WBD", 56, "STK", 19, "ESS", 7, "HAW", 32, "Adam Treloar (COL)", "", "", "", "", ""],
         ["R3", "Bigbadbrucey", "SYD", 23, "GWS", 37, "RIC", 1, "GEE", 25, "ADE", 29, "WBD", 40, "STK", 40, "ESS", 30, "HAW", 35, "Jaeger O'Meara (HAW)", "", "Tim Membrey (STK)", "", "", ""],
         ["R3", "Kaytley🐐", "SYD", 15, "GWS", 10, "RIC", 10, "GEE", 20, "ADE", 5, "WBD", 15, "BRI", 10, "ESS", 25, "HAW", 10, "", "", "", "", "", ""],
         ["R3", "Steve", "SYD", 42, "GWS", 33, "WCE", 5, "GEE", 18, "ADE", 41, "WBD", 60, "STK", 15, "ESS", 27, "HAW", 48, "Scott Pendlebury (COL)", "", "", "", "", ""],
