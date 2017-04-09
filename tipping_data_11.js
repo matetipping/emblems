@@ -1,8 +1,7 @@
 var tipping_data = {
-    round: "R3",
+    round: "R4",
     admin: "Administrator",
     tips: [
-        ["R3", "Administrator", "COL", 1, "GWS", 42, "RIC", 11, "GEE", 29, "ADE", 17, "FRE", 16, "STK", 31, "CAR", 15, "GCS", 86, "", "", "", "", "", ""],
         ["R1", "Administrator", "RIC", 43, "WBD", 14, "MEL", 30, "PTA", 28, "BRI", 2, "ESS", 25, "WCE", 43, "ADE", 56, "GEE", 42, "Rory Laird (ADE)", 40, "Josh Kennedy (WCE)", 42, "", ""],
         ["R1", "Shaydog", "CAR", 15, "WBD", 25, "STK", 10, "SYD", 45, "BRI", 20, "HAW", 30, "NTH", 10, "ADE", 15, "GEE", 25, "", "", "", "", "", ""],
         ["R1", "Dannelboyz", "CAR", 6, "WBD", 18, "STK", 2, "SYD", 52, "BRI", 7, "HAW", 29, "WCE", 42, "GWS", 19, "GEE", 17, "", "", "Josh Kennedy (WCE)", 42, "", ""],
@@ -33,6 +32,7 @@ var tipping_data = {
         ["R2", "Alex Rowland", "COL", 12, "WBD", 10, "HAW", 18, "GWS", 33, "ESS", 28, "WCE", 38, "GEE", 44, "MEL", 25, "PTA", 31, "Patrick Dangerfield (GEE)", 37, "", "", "", ""],
         ["R2", "Mann", "COL", 1, "WBD", 5, "HAW", 1, "GWS", 32, "ESS", 13, "WCE", 38, "GEE", 32, "MEL", 36, "PTA", 25, "Tom Mitchell (HAW)", 38, "Josh Kennedy (WCE)", 25, "", ""],
         ["R2", "Shaydog", "COL", 15, "WBD", 10, "HAW", 25, "GWS", 15, "ESS", 25, "STK", 5, "GEE", 20, "MEL", 30, "FRE", 20, "Patrick Dangerfield (GEE)", 37, "", "", "", ""],
+        ["R3", "Administrator", "COL", 1, "GWS", 42, "RIC", 11, "GEE", 29, "ADE", 17, "FRE", 16, "STK", 31, "CAR", 15, "GCS", 86, "", "", "", "", "", ""],
         ["R3", "Jono22", "SYD", 27, "GWS", 25, "WCE", 13, "MEL", 15, "ADE", 14, "FRE", 15, "STK", 31, "ESS", 16, "HAW", 27, "", "", "", "", "", ""],
         ["R3", "Jeanille01", "SYD", 20, "GWS", 20, "WCE", 30, "MEL", 10, "ADE", 20, "WBD", 30, "STK", 40, "ESS", 30, "HAW", 30, "Gary Ablett (GCS)", 36, "", "", "", ""],
         ["R3", "Dannelboyz", "SYD", 19, "GWS", 60, "WCE", 24, "GEE", 6, "ADE", 33, "WBD", 56, "STK", 19, "ESS", 7, "HAW", 32, "Adam Treloar (COL)", 28, "", "", "", ""],
