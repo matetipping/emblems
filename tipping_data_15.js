@@ -2,7 +2,6 @@ var tipping_data = {
     round: "R4",
     admin: "Administrator",
     tips: [
-        ["R4", "Administrator", "", "", "", "", "", ""],
         ["R1", "Administrator", "RIC", 43, "WBD", 14, "MEL", 30, "PTA", 28, "BRI", 2, "ESS", 25, "WCE", 43, "ADE", 56, "GEE", 42, "Rory Laird (ADE)", 40, "Josh Kennedy (WCE)", 42, "", ""],
         ["R1", "Shaydog", "CAR", 15, "WBD", 25, "STK", 10, "SYD", 45, "BRI", 20, "HAW", 30, "NTH", 10, "ADE", 15, "GEE", 25, "", "", "", "", "", ""],
         ["R1", "Dannelboyz", "CAR", 6, "WBD", 18, "STK", 2, "SYD", 52, "BRI", 7, "HAW", 29, "WCE", 42, "GWS", 19, "GEE", 17, "", "", "Josh Kennedy (WCE)", 42, "", ""],
@@ -49,7 +48,9 @@ var tipping_data = {
         ["R3", "ciniboi_12", "SYD", 15, "GWS", 31, "WCE", 22, "GEE", 5, "ADE", 28, "WBD", 10, "STK", 58, "ESS", 8, "HAW", 42, "Zach Merrett (ESS)", 29, "Lance Franklin (SYD)", 3, "", ""],
         ["R3", "Craig Terrington", "SYD", 32, "GWS", 42, "WCE", 21, "GEE", 33, "ADE", 9, "WBD", 41, "STK", 29, "ESS", 12, "HAW", 47, "", "", "", "", "", ""],
         ["R4", "Jono22", "WCE", 9, "WBD", 14, "MEL", 7, "GWS", , "GCS", 16, "ADE", 27, "STK", 24, "RIC", 14, "HAW", 3, "Gary Ablett (GCS)", "", "Josh Jenkins (ADE)", "", "", ""],
-        ["R4", "Jeanille01", "WCE", 30, "WBD", 30, "MEL", 30, "GWS", 40, "CAR", 10, "ADE", 30, "STK", 25, "RIC", 15, "HAW", 10, "", "", "Josh Kennedy (WCE)", "", "", ""]
+        ["R4", "Jeanille01", "WCE", 30, "WBD", 30, "MEL", 30, "GWS", 40, "CAR", 10, "ADE", 30, "STK", 25, "RIC", 15, "HAW", 10, "", "", "Josh Kennedy (WCE)", "", "", ""],
+        ["R4", "Dannelboyz", "WCE", 4, "WBD", 45, "MEL", 18, "GWS", 31, "GCS", 2, "ADE", 40, "COL", 7, "RIC", 26, "HAW", 1, "Patrick Dangerfield (GEE)", "", "", "", "", ""],
+        ["R4", "Kaytley🐐", "WCE", 17, "WBD", 21, "MEL", 7, "GWS", 15, "CAR", 10, "ADE", 25, "COL", 15, "RIC", 22, "HAW", 5, "", "", "", "", "", ""]
     ],
     fixtures: [
         ["R1", "Shaydog", "Dannelboyz", "Bigbadbrucey", "Flagpies", "Jono22", "ciniboi_12", "Craig Terrington", "Alex Rowland", "Mann", "Steve", "Harry Rowland", "Kaytley🐐", "jamieling", "Jeanille01"],
