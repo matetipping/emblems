@@ -32,7 +32,7 @@ calculate_score(player_name, game_no, scale_factor) {
         score = player_tip * scale_factor;
     } else {
         var difference = player_tip - result;
-        score = result - 2*difference;
+        score = scale_factor*(result - 2*difference);
         if (score < 0) {
             score = 0;
         }
@@ -41,5 +41,41 @@ calculate_score(player_name, game_no, scale_factor) {
 }
 
 set_scores() {
-    
-}|
+    var i;
+    var len = easter_data.tips.length;
+    for (i = 1; i < len; i++) {
+        var player = easter_data.tips[i][0];
+        var leng = easter_data.tips[0].length;
+        var j;
+        var score = 0;
+        var scale;
+        for (j = 1; j < leng; j++) {
+            switch(j) {
+                case 1:
+                    scale = 10;
+                    break;
+                case 2:
+                    scale = 5;
+                    break;
+                case 3:
+                    scale = 1;
+                    break;
+                case 4:
+                    scale = 10;
+                    break;
+                case 5:
+                    scale = 5;
+                    break;
+                case 6:
+                    scale = 1;
+                    break;
+                case 7:
+                    scale = 5;
+                    break;
+                default:
+                    scale = 1;
+            }
+            score = score + calculate_score(player, j, scale);
+        }
+        $("span#easterscore_" + player).html(score);
+}
