@@ -56,7 +56,10 @@ var tipping_data = {
         ["R4", "Steve", "WCE", 18, "WBD", 36, "MEL", 16, "GWS", 33, "CAR", 2, "ADE", 19, "STK", 16, "RIC", 40, "GEE", 60, "", "", "Hawkins", "", "", ""],
         ["R4", "Shaydog", "WCE", 13, "WBD", 11, "MEL", 24, "PTA", 22, "CAR", 5, "ESS", 8, "COL", 16, "RIC", 18, "GEE", 22, "Patrick Dangerfield (GEE)", "", "Jeremy Cameron (GWS)", "", "", ""],
         ["R4", "Flagpies", "WCE", 12, "WBD", 36, "MEL", 20, "GWS", 14, "CAR", 28, "ESS", 16, "COL", 15, "RIC", 20, "GEE", 20, "", "", "", "", "", ""],
-        ["R4", "Harry Rowland", "WCE", 15, "WBD", 22, "MEL", 14, "PTA", 31, "GCS", 24, "ESS", 23, "COL", 5, "BRI", 8, "HAW", 2, "", "", "", "", "", ""]
+        ["R4", "Harry Rowland", "WCE", 15, "WBD", 22, "MEL", 14, "PTA", 31, "GCS", 24, "ESS", 23, "COL", 5, "BRI", 8, "HAW", 2, "", "", "", "", "", ""],
+        ["R4", "jamieling", "WCE", 20, "WBD", 35, "MEL", 18, "GWS", 22, "GCS", 19, "ADE", 33, "STK", 22, "RIC", 25, "GEE", 40, "Patrick Dangerfield (GEE)", "", "Jack Riewoldt (RIC)", "", "", ""],
+        ["R4", "Craig Terrington", "WCE", 11, "WBD", 21, "MEL", 9, "GWS", 29, "GCS", 6, "ADE", 57, "COL", 12, "RIC", 39, "GEE", 17, "", "", "", "", "", ""],
+        ["R4", "Alex Rowland", "WCE", 10, "WBD", 23, "MEL", 36, "GWS", 5, "CAR", 13, "ADE", 28, "STK", 16, "RIC", 33, "GEE", 7, "Tom Mitchell (HAW)", "", "", "", "", ""]
     ],
     fixtures: [
         ["R1", "Shaydog", "Dannelboyz", "Bigbadbrucey", "Flagpies", "Jono22", "ciniboi_12", "Craig Terrington", "Alex Rowland", "Mann", "Steve", "Harry Rowland", "Kaytley🐐", "jamieling", "Jeanille01"],
