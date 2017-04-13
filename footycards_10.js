@@ -15,6 +15,7 @@ var t_award = {
     [3417755,"49 - Jordan Lewis","http://b3.ifrm.com/30609/91/0/p3005904/card_49_j_lewis.png","Melbourne Demons","2017"],
     [3465706,"49 - Jordan Lewis","http://b3.ifrm.com/30609/91/0/p3005904/card_49_j_lewis.png","Melbourne Demons","2017"],
     [3465693,"57 - Chad Wingard","http://b3.ifrm.com/30609/91/0/p3005912/card_57_c_wingard.png","Port Adelaide","2017"],
+    [5054240,"85 - Kara Donnellan","http://b3.ifrm.com/30609/91/0/p3008932/card_85_k_donnellan.png","Fremantle Dockers","2017"],
     [3465669,"91 - Lance Franklin (250 Games)","http://b3.ifrm.com/30609/91/0/p3009200/card_91_l_franklin.png","Sydney Swans","2017"],
     [3465706,"91 - Lance Franklin (250 Games)","http://b3.ifrm.com/30609/91/0/p3009200/card_91_l_franklin.png","Sydney Swans","2017"]
   ]
