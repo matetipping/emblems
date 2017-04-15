@@ -18,6 +18,7 @@ var t_award = {
     [3465706,"49 - Jordan Lewis","http://b3.ifrm.com/30609/91/0/p3005904/card_49_j_lewis.png","Melbourne Demons","2017"],
     [5053863,"50 - North Melbourne","http://b3.ifrm.com/30609/91/0/p3005905/card_50_n_kangaroos.png","North Melbourne","2017"],
     [3465693,"57 - Chad Wingard","http://b3.ifrm.com/30609/91/0/p3005912/card_57_c_wingard.png","Port Adelaide","2017"],
+    [3469376,"70 - West Coast Eagles","http://b3.ifrm.com/30609/91/0/p3005925/card_70_w_eagles.png","West Coast Eagles","2017"],
     [5061544,"77 - Jake Stringer","http://b3.ifrm.com/30609/91/0/p3005932/card_77_j_stringer.png","Western Bulldogs","2017"],
     [5054240,"85 - Kara Donnellan","http://b3.ifrm.com/30609/91/0/p3008932/card_85_k_donnellan.png","Fremantle Dockers","2017"],
     [3465669,"91 - Lance Franklin (250 Games)","http://b3.ifrm.com/30609/91/0/p3009200/card_91_l_franklin.png","Sydney Swans","2017"],
