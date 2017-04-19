@@ -18,6 +18,7 @@ var t_award = {
     [5061544,"43 - Cyril Rioli","http://b3.ifrm.com/30609/91/0/p3005898/card_43_c_rioli.png","Hawthorn Hawks","2017"],
     [5053863,"43 - Cyril Rioli","http://b3.ifrm.com/30609/91/0/p3005898/card_43_c_rioli.png","Hawthorn Hawks","2017"],
     [3417755,"45 - Jarryd Roughead","http://b3.ifrm.com/30609/91/0/p3005900/card_45_j_roughead.png","Hawthorn Hawks","2017"],
+    [5054240,"47 - Max Gawn","http://b3.ifrm.com/30609/91/0/p3005902/card_47_m_gawn.png","Melbourne Demons","2017"],
     [3466081,"48 - Jack Viney","http://b3.ifrm.com/30609/91/0/p3005903/card_48_j_viney.png","Melbourne Demons","2017"],
     [3417755,"49 - Jordan Lewis","http://b3.ifrm.com/30609/91/0/p3005904/card_49_j_lewis.png","Melbourne Demons","2017"],
     [3465706,"49 - Jordan Lewis","http://b3.ifrm.com/30609/91/0/p3005904/card_49_j_lewis.png","Melbourne Demons","2017"],
