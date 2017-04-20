@@ -61,7 +61,13 @@ var tipping_data = {
         ["R4", "jamieling", "WCE", 20, "WBD", 35, "MEL", 18, "GWS", 22, "GCS", 19, "ADE", 33, "STK", 22, "RIC", 25, "GEE", 40, "Patrick Dangerfield (GEE)", 27, "Jack Riewoldt (RIC)", 26, "", ""],
         ["R4", "Craig Terrington", "WCE", 11, "WBD", 21, "MEL", 9, "GWS", 29, "GCS", 6, "ADE", 57, "COL", 12, "RIC", 39, "GEE", 17, "", "", "", "", "", ""],
         ["R4", "Alex Rowland", "WCE", 10, "WBD", 23, "MEL", 36, "GWS", 5, "CAR", 13, "ADE", 28, "STK", 16, "RIC", 33, "GEE", 7, "Tom Mitchell (HAW)", 32, "", "", "", ""],
-        ["R4", "ciniboi_12", "SYD", 11, "WBD", 24, "MEL", 36, "GWS", 17, "GCS", 6, "ADE", 42, "STK", 15, "BRI", 1, "HAW", 5, "", "", "", "", "", ""]
+        ["R4", "ciniboi_12", "SYD", 11, "WBD", 24, "MEL", 36, "GWS", 17, "GCS", 6, "ADE", 42, "STK", 15, "BRI", 1, "HAW", 5, "", "", "", "", "", ""],
+        ["R5", "Dannelboyz", "PTA", 24, "WBD", 40, "ADE", 35, "GWS", 19, "NTH", 2, "GEE", 7, "WCE", 29, "MEL", 6, "COL", 15, "", "", "", "", "", ""],
+        ["R5", "Bigbadbrucey", "PTA", 27, "WBD", 28, "ADE", 22, "GWS", 10, "FRE", 10, "STK", 5, "WCE", 5, "RIC", 10, "ESS", 5, "", "", "", "", "", ""],
+        ["R5", "Harry Rowland", "PTA", 30, "WBD", 40, "ADE", 20, "GWS", 15, "FRE", 32, "GEE", 23, "HAW", 1, "RIC", 20, "ESS", 25, "", "", "Patrick Dangerfield (GEE)", "", "", ""],
+        ["R5", "Mann", "PTA", 39, "WBD", 44, "ADE", 36, "GWS", 15, "FRE", 17, "GEE", 15, "HAW", 1, "MEL", 2, "ESS", 16, "", "", "", "", "", ""],
+        ["R5", "Kaytley🐐", "CAR", 15, "WBD", 25, "GCS", 15, "SYD", 15, "FRE", 20, "GEE", 15, "HAW", 20, "RIC", 15, "ESS", 5, "Rory Sloane (ADE)", "", "Josh Kennedy (WCE)", "", "", ""],
+        ["R5", "Shaydog", "PTA", 15, "WBD", 20, "ADE", 22, "GWS", 28, "FRE", 13, "GEE", 28, "WCE", 27, "RIC", 11, "ESS", 10, "", "", "", "", "", ""]
     ],
     fixtures: [
         ["R1", "Shaydog", "Dannelboyz", "Bigbadbrucey", "Flagpies", "Jono22", "ciniboi_12", "Craig Terrington", "Alex Rowland", "Mann", "Steve", "Harry Rowland", "Kaytley🐐", "jamieling", "Jeanille01"],
