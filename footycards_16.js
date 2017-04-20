@@ -5,6 +5,7 @@ var t_award = {
   closeFunction : "fade",
   users : [
     [3417755,"2 - Dustin Martin","http://b3.ifrm.com/30609/91/0/p3005857/card_2_d_martin.png","Richmond Tigers","2017"],
+    [3465669,"6 - Adelaide Crows","http://b3.ifrm.com/30609/91/0/p3005861/card_6_a_crows.png","Adelaide Crows","2017"],
     [3417755,"8 - Eddie Betts","http://b3.ifrm.com/30609/91/0/p3005863/card_8_e_betts.png","Adelaide Crows","2017"],
     [3465693,"13 - Dayne Beams","http://b3.ifrm.com/30609/91/0/p3005868/card_13_d_beams.png","Brisbane Lions","2017"],
     [3475635,"17 - Sam Docherty","http://b3.ifrm.com/30609/91/0/p3005872/card_17_s_docherty.png","Carlton Blues","2017"],
@@ -15,6 +16,7 @@ var t_award = {
     [5053863,"37 - Aaron Hall","http://b3.ifrm.com/30609/91/0/p3005892/card_37_a_hall.png","Gold Coast Suns","2017"],
     [3417755,"39 - Stephen Coniglio","http://b3.ifrm.com/30609/91/0/p3005894/card_39_s_coniglio.png","GWS Giants","2017"],
     [5061544,"40 - Heath Shaw","http://b3.ifrm.com/30609/91/0/p3005895/card_40_h_shaw.png","GWS Giants","2017"],
+    [3475635,"40 - Heath Shaw","http://b3.ifrm.com/30609/91/0/p3005895/card_40_h_shaw.png","GWS Giants","2017"],
     [5061544,"43 - Cyril Rioli","http://b3.ifrm.com/30609/91/0/p3005898/card_43_c_rioli.png","Hawthorn Hawks","2017"],
     [5053863,"43 - Cyril Rioli","http://b3.ifrm.com/30609/91/0/p3005898/card_43_c_rioli.png","Hawthorn Hawks","2017"],
     [3417755,"45 - Jarryd Roughead","http://b3.ifrm.com/30609/91/0/p3005900/card_45_j_roughead.png","Hawthorn Hawks","2017"],
