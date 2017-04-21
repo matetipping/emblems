@@ -34,6 +34,7 @@ var t_award = {
     [5054240,"85 - Kara Donnellan","http://b3.ifrm.com/30609/91/0/p3008932/card_85_k_donnellan.png","Fremantle Dockers","2017"],
     [3465669,"91 - Lance Franklin (250 Games)","http://b3.ifrm.com/30609/91/0/p3009200/card_91_l_franklin.png","Sydney Swans","2017"],
     [3465706,"91 - Lance Franklin (250 Games)","http://b3.ifrm.com/30609/91/0/p3009200/card_91_l_franklin.png","Sydney Swans","2017"],
-    [3417755,"92 - Robert Murphy (300 Games)","http://b3.ifrm.com/30609/91/0/p3010011/card_92_r_murphy.png","Western Bulldogs","2017"]
+    [3417755,"92 - Robert Murphy (300 Games)","http://b3.ifrm.com/30609/91/0/p3010011/card_92_r_murphy.png","Western Bulldogs","2017"],
+    [3465693,"92 - Robert Murphy (300 Games)","http://b3.ifrm.com/30609/91/0/p3010011/card_92_r_murphy.png","Western Bulldogs","2017"]
   ]
 };
