@@ -6,6 +6,7 @@ var t_award = {
   users : [
     [3417755,"2 - Dustin Martin","http://b3.ifrm.com/30609/91/0/p3005857/card_2_d_martin.png","Richmond Tigers","2017"],
     [3465669,"6 - Adelaide Crows","http://b3.ifrm.com/30609/91/0/p3005861/card_6_a_crows.png","Adelaide Crows","2017"],
+    [3468145,"7 - Rory Sloane","http://b3.ifrm.com/30609/91/0/p3005862/card_7_r_sloane.png","Adelaide Crows","2017"],
     [3417755,"8 - Eddie Betts","http://b3.ifrm.com/30609/91/0/p3005863/card_8_e_betts.png","Adelaide Crows","2017"],
     [3465693,"13 - Dayne Beams","http://b3.ifrm.com/30609/91/0/p3005868/card_13_d_beams.png","Brisbane Lions","2017"],
     [3475635,"17 - Sam Docherty","http://b3.ifrm.com/30609/91/0/p3005872/card_17_s_docherty.png","Carlton Blues","2017"],
@@ -28,6 +29,7 @@ var t_award = {
     [5053863,"50 - North Melbourne","http://b3.ifrm.com/30609/91/0/p3005905/card_50_n_kangaroos.png","North Melbourne","2017"],
     [3465693,"57 - Chad Wingard","http://b3.ifrm.com/30609/91/0/p3005912/card_57_c_wingard.png","Port Adelaide","2017"],
     [3465669,"60 - Trent Cotchin","http://b3.ifrm.com/30609/91/0/p3005915/card_60_t_cotchin.png","Richmond Tigers","2017"],
+    [3468145,"62 - St Kilda Saints","http://b3.ifrm.com/30609/91/0/p3005917/card_62_s_saints.png","St Kilda Saints","2017"],
     [5054240,"64 - Nick Riewoldt","http://b3.ifrm.com/30609/91/0/p3005919/card_64_n_riewoldt.png","St Kilda Saints","2017"],
     [3465693,"64 - Nick Riewoldt","http://b3.ifrm.com/30609/91/0/p3005919/card_64_n_riewoldt.png","St Kilda Saints","2017"],
     [3469376,"70 - West Coast Eagles","http://b3.ifrm.com/30609/91/0/p3005925/card_70_w_eagles.png","West Coast Eagles","2017"],
@@ -37,6 +39,7 @@ var t_award = {
     [5054240,"85 - Kara Donnellan","http://b3.ifrm.com/30609/91/0/p3008932/card_85_k_donnellan.png","Fremantle Dockers","2017"],
     [3465669,"91 - Lance Franklin (250 Games)","http://b3.ifrm.com/30609/91/0/p3009200/card_91_l_franklin.png","Sydney Swans","2017"],
     [3465706,"91 - Lance Franklin (250 Games)","http://b3.ifrm.com/30609/91/0/p3009200/card_91_l_franklin.png","Sydney Swans","2017"],
+    [3468145,"91 - Lance Franklin (250 Games)","http://b3.ifrm.com/30609/91/0/p3009200/card_91_l_franklin.png","Sydney Swans","2017"],
     [3417755,"92 - Robert Murphy (300 Games)","http://b3.ifrm.com/30609/91/0/p3010011/card_92_r_murphy.png","Western Bulldogs","2017"],
     [3465693,"92 - Robert Murphy (300 Games)","http://b3.ifrm.com/30609/91/0/p3010011/card_92_r_murphy.png","Western Bulldogs","2017"],
     [3466081,"92 - Robert Murphy (300 Games)","http://b3.ifrm.com/30609/91/0/p3010011/card_92_r_murphy.png","Western Bulldogs","2017"]
