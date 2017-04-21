@@ -13,6 +13,7 @@ var t_award = {
     [5061544,"27 - Lachie Neale","http://b3.ifrm.com/30609/91/0/p3005882/card_27_l_neale.png","Fremantle Dockers","2017"],
     [3465693,"28 - David Mundy","http://b3.ifrm.com/30609/91/0/p3005883/card_28_d_mundy.png","Fremantle Dockers","2017"],
     [3465706,"31 - Joel Selwood","http://b3.ifrm.com/30609/91/0/p3005886/card_31_j_selwood.png","Geelong Cats","2017"],
+    [3466081,"34 - Gold Coast Suns","http://b3.ifrm.com/30609/91/0/p3005889/card_34_g_suns.png","Gold Coast Suns","2017"],
     [5053863,"37 - Aaron Hall","http://b3.ifrm.com/30609/91/0/p3005892/card_37_a_hall.png","Gold Coast Suns","2017"],
     [3417755,"39 - Stephen Coniglio","http://b3.ifrm.com/30609/91/0/p3005894/card_39_s_coniglio.png","GWS Giants","2017"],
     [5061544,"40 - Heath Shaw","http://b3.ifrm.com/30609/91/0/p3005895/card_40_h_shaw.png","GWS Giants","2017"],
@@ -31,11 +32,13 @@ var t_award = {
     [3465693,"64 - Nick Riewoldt","http://b3.ifrm.com/30609/91/0/p3005919/card_64_n_riewoldt.png","St Kilda Saints","2017"],
     [3469376,"70 - West Coast Eagles","http://b3.ifrm.com/30609/91/0/p3005925/card_70_w_eagles.png","West Coast Eagles","2017"],
     [5061544,"77 - Jake Stringer","http://b3.ifrm.com/30609/91/0/p3005932/card_77_j_stringer.png","Western Bulldogs","2017"],
+    [3466081,"77 - Jake Stringer","http://b3.ifrm.com/30609/91/0/p3005932/card_77_j_stringer.png","Western Bulldogs","2017"],
     [5061544,"79 - Matt Stevic","http://b3.ifrm.com/30609/91/0/p3005934/card_79_m_stevic.png","Umpires","2017"],
     [5054240,"85 - Kara Donnellan","http://b3.ifrm.com/30609/91/0/p3008932/card_85_k_donnellan.png","Fremantle Dockers","2017"],
     [3465669,"91 - Lance Franklin (250 Games)","http://b3.ifrm.com/30609/91/0/p3009200/card_91_l_franklin.png","Sydney Swans","2017"],
     [3465706,"91 - Lance Franklin (250 Games)","http://b3.ifrm.com/30609/91/0/p3009200/card_91_l_franklin.png","Sydney Swans","2017"],
     [3417755,"92 - Robert Murphy (300 Games)","http://b3.ifrm.com/30609/91/0/p3010011/card_92_r_murphy.png","Western Bulldogs","2017"],
-    [3465693,"92 - Robert Murphy (300 Games)","http://b3.ifrm.com/30609/91/0/p3010011/card_92_r_murphy.png","Western Bulldogs","2017"]
+    [3465693,"92 - Robert Murphy (300 Games)","http://b3.ifrm.com/30609/91/0/p3010011/card_92_r_murphy.png","Western Bulldogs","2017"],
+    [3466081,"92 - Robert Murphy (300 Games)","http://b3.ifrm.com/30609/91/0/p3010011/card_92_r_murphy.png","Western Bulldogs","2017"]
   ]
 };
