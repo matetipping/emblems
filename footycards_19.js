@@ -28,6 +28,7 @@ var t_award = {
     [3465693,"57 - Chad Wingard","http://b3.ifrm.com/30609/91/0/p3005912/card_57_c_wingard.png","Port Adelaide","2017"],
     [3465669,"60 - Trent Cotchin","http://b3.ifrm.com/30609/91/0/p3005915/card_60_t_cotchin.png","Richmond Tigers","2017"],
     [5054240,"64 - Nick Riewoldt","http://b3.ifrm.com/30609/91/0/p3005919/card_64_n_riewoldt.png","St Kilda Saints","2017"],
+    [3465693,"64 - Nick Riewoldt","http://b3.ifrm.com/30609/91/0/p3005919/card_64_n_riewoldt.png","St Kilda Saints","2017"],
     [3469376,"70 - West Coast Eagles","http://b3.ifrm.com/30609/91/0/p3005925/card_70_w_eagles.png","West Coast Eagles","2017"],
     [5061544,"77 - Jake Stringer","http://b3.ifrm.com/30609/91/0/p3005932/card_77_j_stringer.png","Western Bulldogs","2017"],
     [5061544,"79 - Matt Stevic","http://b3.ifrm.com/30609/91/0/p3005934/card_79_m_stevic.png","Umpires","2017"],
