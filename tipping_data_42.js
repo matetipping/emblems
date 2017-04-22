@@ -2,7 +2,7 @@ var tipping_data = {
     round: "R5",
     admin: "Administrator",
     tips: [
-        ["R5", "Administrator", "PTA", 90, "WBD", 32, "", "", "", "", "", ""],
+        ["R5", "Administrator", "PTA", 90, "WBD", 32, "ADE", 67, "", "", "", "", "", ""],
         ["R1", "Administrator", "RIC", 43, "WBD", 14, "MEL", 30, "PTA", 28, "BRI", 2, "ESS", 25, "WCE", 43, "ADE", 56, "GEE", 42, "Rory Laird (ADE)", 40, "Josh Kennedy (WCE)", 42, "", ""],
         ["R1", "Shaydog", "CAR", 15, "WBD", 25, "STK", 10, "SYD", 45, "BRI", 20, "HAW", 30, "NTH", 10, "ADE", 15, "GEE", 25, "", "", "", "", "", ""],
         ["R1", "Dannelboyz", "CAR", 6, "WBD", 18, "STK", 2, "SYD", 52, "BRI", 7, "HAW", 29, "WCE", 42, "GWS", 19, "GEE", 17, "", "", "Josh Kennedy (WCE)", 42, "", ""],
@@ -67,7 +67,7 @@ var tipping_data = {
         ["R5", "Bigbadbrucey", "PTA", 27, "WBD", 28, "ADE", 22, "GWS", 10, "FRE", 10, "STK", 5, "WCE", 5, "RIC", 10, "ESS", 5, "", "", "", "", "", ""],
         ["R5", "Harry Rowland", "PTA", 30, "WBD", 40, "ADE", 20, "GWS", 15, "FRE", 32, "GEE", 23, "HAW", 1, "RIC", 20, "ESS", 25, "", "", "Patrick Dangerfield (GEE)", "", "", ""],
         ["R5", "Mann", "PTA", 39, "WBD", 44, "ADE", 36, "GWS", 15, "FRE", 17, "GEE", 15, "HAW", 1, "MEL", 2, "ESS", 16, "", "", "", "", "", ""],
-        ["R5", "Kaytley🐐", "CAR", 15, "WBD", 25, "GCS", 15, "SYD", 15, "FRE", 20, "GEE", 15, "HAW", 20, "RIC", 15, "ESS", 5, "Rory Sloane (ADE)", "", "Josh Kennedy (WCE)", "", "", ""],
+        ["R5", "Kaytley🐐", "CAR", 15, "WBD", 25, "GCS", 15, "SYD", 15, "FRE", 20, "GEE", 15, "HAW", 20, "RIC", 15, "ESS", 5, "Rory Sloane (ADE)", 30, "Josh Kennedy (WCE)", "", "", ""],
         ["R5", "Shaydog", "PTA", 15, "WBD", 20, "ADE", 22, "GWS", 28, "FRE", 13, "GEE", 28, "WCE", 27, "RIC", 11, "ESS", 10, "", "", "", "", "", ""],
         ["R5", "Steve", "PTA", 32, "WBD", 42, "ADE", 33, "SYD", 5, "FRE", 18, "GEE", 36, "WCE", 15, "RIC", 21, "ESS", 14, "Scott Pendlebury (COL)", "", "", "", "", ""],
         ["R5", "Craig Terrington", "PTA", 66, "WBD", 54, "ADE", 36, "GWS", 29, "NTH", 1, "GEE", 18, "WCE", 21, "RIC", 7, "COL", 22, "", "", "", "", "", ""],
@@ -75,7 +75,7 @@ var tipping_data = {
         ["R5", "Jeanille01", "PTA", 10, "WBD", 40, "ADE", 20, "GWS", 20, "FRE", 20, "GEE", 20, "HAW", 10, "RIC", 10, "COL", 10, "Clayton Oliver (MEL)", "", "Jarryd Roughead (HAW)", "", "", ""],
         ["R5", "jamieling", "PTA", 50, "WBD", 60, "ADE", 44, "GWS", 20, "FRE", 17, "GEE", 25, "WCE", 45, "RIC", 22, "ESS", 23, "Patrick Dangerfield (GEE)", "", "", "", "", ""],
         ["R5", "Flagpies", "PTA", 12, "WBD", 16, "ADE", 24, "GWS", 20, "FRE", 16, "GEE", 15, "HAW", 2, "RIC", 24, "COL", 15, "", "", "", "", "", ""],
-        ["R5", "Alex Rowland", "PTA", 32, "WBD", 26, "ADE", 31, "GWS", 38, "FRE", 13, "GEE", 15, "WCE", 22, "RIC", 27, "ESS", 18, "", "", "Eddie Betts", "", "", ""],
+        ["R5", "Alex Rowland", "PTA", 32, "WBD", 26, "ADE", 31, "GWS", 38, "FRE", 13, "GEE", 15, "WCE", 22, "RIC", 27, "ESS", 18, "", "", "Eddie Betts (ADE)", 19, "", ""],
         ["R5", "ciniboi_12", "PTA", 20, "WBD", 35, "ADE", 15, "SYD", 3, "FRE", 10, "GEE", 18, "WCE", 32, "MEL", 16, "COL", 10, "", "", "Josh Kennedy (WCE)", "", "", ""]
     ],
     fixtures: [
