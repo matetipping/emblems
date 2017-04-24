@@ -2,7 +2,7 @@ var tipping_data = {
     round: "R5",
     admin: "Administrator",
     tips: [
-        ["R5", "Administrator", "PTA", 90, "WBD", 32, "ADE", 67, "GWS", 42, "FRE", 5, "GEE", 38, "HAW", 50, "", "", "", "", "", ""],
+        ["R5", "Administrator", "PTA", 90, "WBD", 32, "ADE", 67, "GWS", 42, "FRE", 5, "GEE", 38, "HAW", 50, "RIC", 13, "", "", "", "", "", ""],
         ["R1", "Administrator", "RIC", 43, "WBD", 14, "MEL", 30, "PTA", 28, "BRI", 2, "ESS", 25, "WCE", 43, "ADE", 56, "GEE", 42, "Rory Laird (ADE)", 40, "Josh Kennedy (WCE)", 42, "", ""],
         ["R1", "Shaydog", "CAR", 15, "WBD", 25, "STK", 10, "SYD", 45, "BRI", 20, "HAW", 30, "NTH", 10, "ADE", 15, "GEE", 25, "", "", "", "", "", ""],
         ["R1", "Dannelboyz", "CAR", 6, "WBD", 18, "STK", 2, "SYD", 52, "BRI", 7, "HAW", 29, "WCE", 42, "GWS", 19, "GEE", 17, "", "", "Josh Kennedy (WCE)", 42, "", ""],
@@ -72,7 +72,7 @@ var tipping_data = {
         ["R5", "Steve", "PTA", 32, "WBD", 42, "ADE", 33, "SYD", 5, "FRE", 18, "GEE", 36, "WCE", 15, "RIC", 21, "ESS", 14, "Scott Pendlebury (COL)", "", "", "", "", ""],
         ["R5", "Craig Terrington", "PTA", 66, "WBD", 54, "ADE", 36, "GWS", 29, "NTH", 1, "GEE", 18, "WCE", 21, "RIC", 7, "COL", 22, "", "", "", "", "", ""],
         ["R5", "Jono22", "CAR", 17, "WBD", 40, "GCS", 7, "GWS", 10, "FRE", 24, "STK", 12, "HAW", 24, "RIC", 13, "COL", 15, "", "", "Jeremy Cameron (GWS)", 16, "", ""],
-        ["R5", "Jeanille01", "PTA", 10, "WBD", 40, "ADE", 20, "GWS", 20, "FRE", 20, "GEE", 20, "HAW", 10, "RIC", 10, "COL", 10, "Clayton Oliver (MEL)", "", "Jarryd Roughead (HAW)", 18, "", ""],
+        ["R5", "Jeanille01", "PTA", 10, "WBD", 40, "ADE", 20, "GWS", 20, "FRE", 20, "GEE", 20, "HAW", 10, "RIC", 10, "COL", 10, "Clayton Oliver (MEL)", 32, "Jarryd Roughead (HAW)", 18, "", ""],
         ["R5", "jamieling", "PTA", 50, "WBD", 60, "ADE", 44, "GWS", 20, "FRE", 17, "GEE", 25, "WCE", 45, "RIC", 22, "ESS", 23, "Patrick Dangerfield (GEE)", 31, "", "", "", ""],
         ["R5", "Flagpies", "PTA", 12, "WBD", 16, "ADE", 24, "GWS", 20, "FRE", 16, "GEE", 15, "HAW", 2, "RIC", 24, "COL", 15, "", "", "", "", "", ""],
         ["R5", "Alex Rowland", "PTA", 32, "WBD", 26, "ADE", 31, "GWS", 38, "FRE", 13, "GEE", 15, "WCE", 22, "RIC", 27, "ESS", 18, "", "", "Eddie Betts (ADE)", 19, "", ""],
