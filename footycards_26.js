@@ -33,6 +33,7 @@ var t_award = {
     [3465706,"49 - Jordan Lewis","http://b3.ifrm.com/30609/91/0/p3005904/card_49_j_lewis.png","Melbourne Demons","2017"],
     [5053863,"50 - North Melbourne","http://b3.ifrm.com/30609/91/0/p3005905/card_50_n_kangaroos.png","North Melbourne","2017"],
     [3465693,"57 - Chad Wingard","http://b3.ifrm.com/30609/91/0/p3005912/card_57_c_wingard.png","Port Adelaide","2017"],
+    [3417755,"58 - Richmond Tigers","http://b3.ifrm.com/30609/91/0/p3005913/card_58_r_tigers.png","Richmond Tigers","2017"],
     [3465669,"60 - Trent Cotchin","http://b3.ifrm.com/30609/91/0/p3005915/card_60_t_cotchin.png","Richmond Tigers","2017"],
     [3468145,"62 - St Kilda Saints","http://b3.ifrm.com/30609/91/0/p3005917/card_62_s_saints.png","St Kilda Saints","2017"],
     [3465706,"62 - St Kilda Saints","http://b3.ifrm.com/30609/91/0/p3005917/card_62_s_saints.png","St Kilda Saints","2017"],
