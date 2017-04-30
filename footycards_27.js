@@ -24,6 +24,7 @@ var t_award = {
     [3417755,"39 - Stephen Coniglio","http://b3.ifrm.com/30609/91/0/p3005894/card_39_s_coniglio.png","GWS Giants","2017"],
     [5061544,"40 - Heath Shaw","http://b3.ifrm.com/30609/91/0/p3005895/card_40_h_shaw.png","GWS Giants","2017"],
     [3475635,"40 - Heath Shaw","http://b3.ifrm.com/30609/91/0/p3005895/card_40_h_shaw.png","GWS Giants","2017"],
+    [3475635,"42 - Hawthorn Hawks","http://b3.ifrm.com/30609/91/0/p3005897/card_42_h_hawks.png","Hawthorn Hawks","2017"],
     [5061544,"43 - Cyril Rioli","http://b3.ifrm.com/30609/91/0/p3005898/card_43_c_rioli.png","Hawthorn Hawks","2017"],
     [5053863,"43 - Cyril Rioli","http://b3.ifrm.com/30609/91/0/p3005898/card_43_c_rioli.png","Hawthorn Hawks","2017"],
     [3417755,"45 - Jarryd Roughead","http://b3.ifrm.com/30609/91/0/p3005900/card_45_j_roughead.png","Hawthorn Hawks","2017"],
