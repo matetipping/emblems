@@ -91,7 +91,21 @@ var tipping_data = {
         ["R6", "Alex Rowland", "GWS", 15, "STK", 16, "SYD", 23, "PTA", 28, "GCS", 12, "WCE", 25, "ESS", 22, "GEE", 38, "ADE", 21, "Tom Mitchell (HAW)", 35, "", "", "", ""],
         ["R6", "Dannelboyz", "GWS", 19, "HAW", 6, "SYD", 30, "PTA", 41, "NTH", 2, "WCE", 32, "MEL", 9, "GEE", 32, "ADE", 31, "", "", "", "", "", ""],
         ["R6", "ciniboi_12", "GWS", 2, "STK", 12, "SYD", 40, "PTA", 34, "GCS", 6, "WCE", 27, "MEL", 29, "GEE", 14, "ADE", 8, "", "", "", "", "", ""],
-        ["R6", "Harry Rowland", "GWS", 10, "HAW", 5, "CAR", 15, "PTA", 20, "GCS", 10, "WCE", 15, "ESS", 10, "GEE", 30, "RIC", 24, "Dan Hanneberry (SYD)", 25, "", "", "", ""]
+        ["R6", "Harry Rowland", "GWS", 10, "HAW", 5, "CAR", 15, "PTA", 20, "GCS", 10, "WCE", 15, "ESS", 10, "GEE", 30, "RIC", 24, "Dan Hanneberry (SYD)", 25, "", "", "", ""],
+        ["R7", "Bigbadbrucey", "GWS", 25, "ADE", 23, "COL", 28, "PTA", 29, "GEE", 25, "WBD", 23, "SYD", 23, "MEL", 23, "FRE", 17, "", "", "", "", "", ""],
+        ["R7", "Kaytley🐐", "STK", 15, "ADE", 15, "COL", 15, "WCE", 15, "GEE", 15, "RIC", 15, "BRI", 15, "HAW", 15, "ESS", 15, "Rory Sloane (ADE)", "", "Jack Riewoldt (RIC)", "", "", ""],
+        ["R7", "Jeanille01", "GWS", 30, "ADE", 50, "COL", 10, "PTA", 20, "GEE", 30, "WBD", 45, "SYD", 15, "MEL", 15, "FRE", 35, "", "", "", "", "", ""],
+        ["R7", "Jono22", "STK", 14, "ADE", 62, "CAR", 17, "PTA", 22, "GCS", 15, "WBD", 47, "SYD", 7, "HAW", 16, "FRE", 52, "Gary Ablett (GCS)", "", "Taylor Walker (ADE)", "", "", ""],
+        ["R7", "Mann", "GWS", 20, "ADE", 25, "COL", 17, "PTA", 23, "GEE", 28, "WBD", 19, "SYD", 50, "HAW", 1, "FRE", 15, "", "", "", "", "", ""],
+        ["R7", "jamieling", "GWS", 22, "ADE", 50, "COL", 20, "PTA", 33, "GEE", 44, "WBD", 26, "SYD", 30, "MEL", 45, "FRE", 17, "", "", "", "", "", ""],
+        ["R7", "Steve", "GWS", 46, "ADE", 38, "COL", 19, "WCE", 27, "GEE", 18, "WBD", 22, "SYD", 31, "MEL", 5, "ESS", 16, "", "", "", "", "", ""],
+        ["R7", "Flagpies", "GWS", 35, "ADE", 47, "COL", 31, "PTA", 28, "GEE", 19, "WBD", 39, "SYD", 24, "MEL", 20, "FRE", 18, "", "", "", "", "", ""],
+        ["R7", "Harry Rowland", "GWS", 20, "ADE", 42, "COL", 10, "PTA", 15, "GEE", 15, "RIC", 10, "SYD", 5, "HAW", 15, "FRE", 5, "", "", "Tom Rockliff (BRI)", "", "", ""],
+        ["R7", "Craig Terrington", "GWS", 39, "ADE", 36, "COL", 25, "PTA", 29, "GEE", 31, "WBD", 32, "SYD", 42, "MEL", 29, "FRE", 27, "", "", "", "", "", ""],
+        ["R7", "Dannelboyz", "GWS", 30, "ADE", 48, "COL", 32, "PTA", 25, "GEE", 43, "WBD", 6, "SYD", 16, "MEL", 25, "FRE", 12, "Tom Mitchell (HAW)", "", "Lance Franklin (SYD)", "", "", ""],
+        ["R7", "Shaydog", "GWS", 28, "ADE", 32, "COL", 22, "PTA", 7, "GEE", 26, "RIC", 12, "BRI", 16, "MEL", 10, "ESS", 8, "Scott Pendlebury (COL)", "", "", "", "", ""],
+        ["R7", "Alex Rowland", "GWS", 27, "ADE", 40, "COL", 16, "PTA", 31, "GEE", 35, "WBD", 25, "SYD", 22, "MEL", 18, "FRE", , "Tom Mitchell (HAW)", "", "", "", "", ""],
+        ["R7", "ciniboi_12", "GWS", 33, "ADE", 45, "CAR", 5, "WCE", 13, "GEE", 55, "WBD", 17, "SYD", 29, "MEL", 24, "FRE", 3, "", "", "", "", "", ""]
     ],
     fixtures: [
         ["R1", "Shaydog", "Dannelboyz", "Bigbadbrucey", "Flagpies", "Jono22", "ciniboi_12", "Craig Terrington", "Alex Rowland", "Mann", "Steve", "Harry Rowland", "Kaytley🐐", "jamieling", "Jeanille01"],
