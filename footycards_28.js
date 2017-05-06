@@ -16,6 +16,7 @@ var t_award = {
     [3475635,"17 - Sam Docherty","http://b3.ifrm.com/30609/91/0/p3005872/card_17_s_docherty.png","Carlton Blues","2017"],
     [5061544,"19 - Scott Pendlebury","http://b3.ifrm.com/30609/91/0/p3005874/card_19_s_pendlebury.png","Collingwood Magpies","2017"],
     [3465706,"24 - Zach Merrett","http://b3.ifrm.com/30609/91/0/p3005879/card_24_z_merrett.png","Essendon Bombers","2017"],
+    [5053863,"24 - Zach Merrett","http://b3.ifrm.com/30609/91/0/p3005879/card_24_z_merrett.png","Essendon Bombers","2017"],
     [5061544,"27 - Lachie Neale","http://b3.ifrm.com/30609/91/0/p3005882/card_27_l_neale.png","Fremantle Dockers","2017"],
     [3465693,"28 - David Mundy","http://b3.ifrm.com/30609/91/0/p3005883/card_28_d_mundy.png","Fremantle Dockers","2017"],
     [3465706,"31 - Joel Selwood","http://b3.ifrm.com/30609/91/0/p3005886/card_31_j_selwood.png","Geelong Cats","2017"],
