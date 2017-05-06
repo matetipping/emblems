@@ -94,7 +94,7 @@ var tipping_data = {
         ["R6", "ciniboi_12", "GWS", 2, "STK", 12, "SYD", 40, "PTA", 34, "GCS", 6, "WCE", 27, "MEL", 29, "GEE", 14, "ADE", 8, "", "", "", "", "", ""],
         ["R6", "Harry Rowland", "GWS", 10, "HAW", 5, "CAR", 15, "PTA", 20, "GCS", 10, "WCE", 15, "ESS", 10, "GEE", 30, "RIC", 24, "Dan Hanneberry (SYD)", 25, "", "", "", ""],
         ["R7", "Bigbadbrucey", "GWS", 25, "ADE", 23, "COL", 28, "PTA", 29, "GEE", 25, "WBD", 23, "SYD", 23, "MEL", 23, "FRE", 17, "", "", "", "", "", ""],
-        ["R7", "Kaytley🐐", "STK", 15, "ADE", 15, "COL", 15, "WCE", 15, "GEE", 15, "RIC", 15, "BRI", 15, "HAW", 15, "ESS", 15, "Rory Sloane (ADE)", "", "Jack Riewoldt (RIC)", "", "", ""],
+        ["R7", "Kaytley🐐", "STK", 15, "ADE", 15, "COL", 15, "WCE", 15, "GEE", 15, "RIC", 15, "BRI", 15, "HAW", 15, "ESS", 15, "Rory Sloane (ADE)", 18, "Jack Riewoldt (RIC)", "", "", ""],
         ["R7", "Jeanille01", "GWS", 30, "ADE", 50, "COL", 10, "PTA", 20, "GEE", 30, "WBD", 45, "SYD", 15, "MEL", 15, "FRE", 35, "", "", "", "", "", ""],
         ["R7", "Jono22", "STK", 14, "ADE", 62, "CAR", 17, "PTA", 22, "GCS", 15, "WBD", 47, "SYD", 7, "HAW", 16, "FRE", 52, "Gary Ablett (GCS)", "", "Taylor Walker (ADE)", 7, "", ""],
         ["R7", "Mann", "GWS", 20, "ADE", 25, "COL", 17, "PTA", 23, "GEE", 28, "WBD", 19, "SYD", 50, "HAW", 1, "FRE", 15, "", "", "", "", "", ""],
