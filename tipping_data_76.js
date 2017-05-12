@@ -106,7 +106,15 @@ var tipping_data = {
         ["R7", "Dannelboyz", "GWS", 30, "ADE", 48, "COL", 32, "PTA", 25, "GEE", 43, "WBD", 6, "SYD", 16, "MEL", 25, "FRE", 12, "Tom Mitchell (HAW)", 31, "Lance Franklin (SYD)", 52, "", ""],
         ["R7", "Shaydog", "GWS", 28, "ADE", 32, "COL", 22, "PTA", 7, "GEE", 26, "RIC", 12, "BRI", 16, "MEL", 10, "ESS", 8, "Scott Pendlebury (COL)", 29, "", "", "", ""],
         ["R7", "Alex Rowland", "GWS", 27, "ADE", 40, "COL", 16, "PTA", 31, "GEE", 35, "WBD", 25, "SYD", 22, "MEL", 18, "FRE", 0, "Tom Mitchell (HAW)", 31, "", "", "", ""],
-        ["R7", "ciniboi_12", "GWS", 33, "ADE", 45, "CAR", 5, "WCE", 13, "GEE", 55, "WBD", 17, "SYD", 29, "MEL", 24, "FRE", 3, "", "", "", "", "", ""]
+        ["R7", "ciniboi_12", "GWS", 33, "ADE", 45, "CAR", 5, "WCE", 13, "GEE", 55, "WBD", 17, "SYD", 29, "MEL", 24, "FRE", 3, "", "", "", "", "", ""],
+        ["R8", "jamieling", "WCE", 17, "HAW", 38, "STK", 33, "GWS", 40, "GEE", 20, "ADE", 45, "RIC", 22, "PTA", 29, "SYD", 13, "", "", "Taylor Walker (ADE)", "", "", ""],
+        ["R8", "Dannelboyz", "WCE", 18, "HAW", 25, "STK", 36, "GWS", 45, "GEE", 19, "ADE", 27, "RIC", 15, "GCS", 6, "NTH", 12, "", "", "", "", "", ""],
+        ["R8", "Bigbadbrucey", "WBD", 5, "HAW", 30, "STK", 40, "GWS", 30, "GEE", 30, "ADE", 45, "RIC", 15, "GCS", 20, "NTH", 5, "Jack Steven (STK)", "", "Tom Lynch (GCS)", "", "", ""],
+        ["R8", "Jono22", "WCE", 21, "HAW", 21, "STK", 21, "GWS", 21, "GEE", 21, "ADE", 21, "RIC", 21, "GCS", 21, "SYD", 21, "", "", "", "", "", ""],
+        ["R8", "Jeanille01", "WBD", 15, "HAW", 30, "STK", 35, "GWS", 30, "GEE", 20, "ADE", 20, "FRE", 15, "GCS", 10, "SYD", 10, "", "", "", "", "", ""],
+        ["R8", "Harry Rowland", "WCE", 15, "HAW", 10, "STK", 25, "GWS", 30, "GEE", 10, "ADE", 40, "RIC", 15, "PTA", 10, "NTH", 5, "Tom Rockliff (BRI)", "", "", "", "", ""],
+        ["R8", "Mann", "WCE", 20, "HAW", 47, "STK", 25, "GWS", 39, "GEE", 17, "ADE", 37, "FRE", 4, "PTA", 27, "NTH", 7, "Tom Mitchell (HAW)", "", "", "", "", ""],
+        ["R8", "Steve", "WCE", 15, "HAW", 10, "STK", 38, "GWS", 44, "GEE", 18, "ADE", 32, "RIC", 9, "PTA", 19, "SYD", 48, "Patrick Dangerfield (GEE)", "", "Lance Franklin (SYD)", "", "", ""]
     ],
     fixtures: [
         ["R1", "Shaydog", "Dannelboyz", "Bigbadbrucey", "Flagpies", "Jono22", "ciniboi_12", "Craig Terrington", "Alex Rowland", "Mann", "Steve", "Harry Rowland", "Kaytley🐐", "jamieling", "Jeanille01"],
