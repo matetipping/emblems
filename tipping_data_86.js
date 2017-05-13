@@ -2,7 +2,7 @@ var tipping_data = {
     round: "R8",
     admin: "Administrator",
     tips: [
-        ["R8", "Administrator", "WCE", 8, "HAW", 38, "STK", 19, "GWS", 3, "", "", "", "", "", ""],
+        ["R8", "Administrator", "WCE", 8, "HAW", 38, "STK", 19, "GWS", 3, "ESS", 17, "", "", "", "", "", ""],
         ["R1", "Administrator", "RIC", 43, "WBD", 14, "MEL", 30, "PTA", 28, "BRI", 2, "ESS", 25, "WCE", 43, "ADE", 56, "GEE", 42, "Rory Laird (ADE)", 40, "Josh Kennedy (WCE)", 42, "", ""],
         ["R1", "Shaydog", "CAR", 15, "WBD", 25, "STK", 10, "SYD", 45, "BRI", 20, "HAW", 30, "NTH", 10, "ADE", 15, "GEE", 25, "", "", "", "", "", ""],
         ["R1", "Dannelboyz", "CAR", 6, "WBD", 18, "STK", 2, "SYD", 52, "BRI", 7, "HAW", 29, "WCE", 42, "GWS", 19, "GEE", 17, "", "", "Josh Kennedy (WCE)", 42, "", ""],
@@ -115,7 +115,7 @@ var tipping_data = {
         ["R8", "Jeanille01", "WBD", 15, "HAW", 30, "STK", 35, "GWS", 30, "GEE", 20, "ADE", 20, "FRE", 15, "GCS", 10, "SYD", 10, "", "", "", "", "", ""],
         ["R8", "Harry Rowland", "WCE", 15, "HAW", 10, "STK", 25, "GWS", 30, "GEE", 10, "ADE", 40, "RIC", 15, "PTA", 10, "NTH", 5, "Tom Rockliff (BRI)", 30, "", "", "", ""],
         ["R8", "Mann", "WCE", 20, "HAW", 47, "STK", 25, "GWS", 39, "GEE", 17, "ADE", 37, "FRE", 4, "PTA", 27, "NTH", 7, "Tom Mitchell (HAW)", 36, "", "", "", ""],
-        ["R8", "Steve", "WCE", 15, "HAW", 10, "STK", 38, "GWS", 44, "GEE", 18, "ADE", 32, "RIC", 9, "PTA", 19, "SYD", 48, "Patrick Dangerfield (GEE)", "", "Lance Franklin (SYD)", "", "", ""],
+        ["R8", "Steve", "WCE", 15, "HAW", 10, "STK", 38, "GWS", 44, "GEE", 18, "ADE", 32, "RIC", 9, "PTA", 19, "SYD", 48, "Patrick Dangerfield (GEE)", 30, "Lance Franklin (SYD)", "", "", ""],
         ["R8", "Craig Terrington", "WBD", 1, "HAW", 29, "STK", 32, "GWS", 54, "GEE", 33, "ADE", 41, "RIC", 18, "PTA", 35, "SYD", 2, "", "", "", "", "", ""],
         ["R8", "Flagpies", "WCE", 16, "HAW", 24, "CAR", 18, "GWS", 22, "GEE", 19, "ADE", 10, "RIC", 22, "GCS", 20, "NTH", 30, "", "", "", "", "", ""],
         ["R8", "Kaytley🐐", "WCE", 15, "HAW", 10, "STK", 10, "GWS", 10, "ESS", 5, "ADE", 20, "RIC", 25, "PTA", 10, "SYD", 15, "Rory Sloane (ADE)", "", "Josh Kennedy (SYD)", "", "", ""],
