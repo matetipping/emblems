@@ -2,7 +2,7 @@ var tipping_data = {
     round: "R8",
     admin: "Administrator",
     tips: [
-        ["R8", "Administrator", "WCE", 8, "HAW", 38, "STK", 19, "GWS", 3, "ESS", 17, "MEL", 41, "FRE", 2, "", "", "", "", "", ""],
+        ["R8", "Administrator", "WCE", 8, "HAW", 38, "STK", 19, "GWS", 3, "ESS", 17, "MEL", 41, "FRE", 2, "PTA", 72, "", "", "", "", "", ""],
         ["R1", "Administrator", "RIC", 43, "WBD", 14, "MEL", 30, "PTA", 28, "BRI", 2, "ESS", 25, "WCE", 43, "ADE", 56, "GEE", 42, "Rory Laird (ADE)", 40, "Josh Kennedy (WCE)", 42, "", ""],
         ["R1", "Shaydog", "CAR", 15, "WBD", 25, "STK", 10, "SYD", 45, "BRI", 20, "HAW", 30, "NTH", 10, "ADE", 15, "GEE", 25, "", "", "", "", "", ""],
         ["R1", "Dannelboyz", "CAR", 6, "WBD", 18, "STK", 2, "SYD", 52, "BRI", 7, "HAW", 29, "WCE", 42, "GWS", 19, "GEE", 17, "", "", "Josh Kennedy (WCE)", 42, "", ""],
@@ -110,7 +110,7 @@ var tipping_data = {
         ["R7", "ciniboi_12", "GWS", 33, "ADE", 45, "CAR", 5, "WCE", 13, "GEE", 55, "WBD", 17, "SYD", 29, "MEL", 24, "FRE", 3, "", "", "", "", "", ""],
         ["R8", "jamieling", "WCE", 17, "HAW", 38, "STK", 33, "GWS", 40, "GEE", 20, "ADE", 45, "RIC", 22, "PTA", 29, "SYD", 13, "", "", "Taylor Walker (ADE)", 14, "", ""],
         ["R8", "Dannelboyz", "WCE", 18, "HAW", 25, "STK", 36, "GWS", 45, "GEE", 19, "ADE", 27, "RIC", 15, "GCS", 6, "NTH", 12, "", "", "", "", "", ""],
-        ["R8", "Bigbadbrucey", "WBD", 5, "HAW", 30, "STK", 40, "GWS", 30, "GEE", 30, "ADE", 45, "RIC", 15, "GCS", 20, "NTH", 5, "Jack Steven (STK)", 32, "Tom Lynch (GCS)", "", "", ""],
+        ["R8", "Bigbadbrucey", "WBD", 5, "HAW", 30, "STK", 40, "GWS", 30, "GEE", 30, "ADE", 45, "RIC", 15, "GCS", 20, "NTH", 5, "Jack Steven (STK)", 32, "Tom Lynch (GCS)", 1, "", ""],
         ["R8", "Jono22", "WCE", 21, "HAW", 21, "STK", 21, "GWS", 21, "GEE", 21, "ADE", 21, "RIC", 21, "GCS", 21, "SYD", 21, "", "", "", "", "", ""],
         ["R8", "Jeanille01", "WBD", 15, "HAW", 30, "STK", 35, "GWS", 30, "GEE", 20, "ADE", 20, "FRE", 15, "GCS", 10, "SYD", 10, "", "", "", "", "", ""],
         ["R8", "Harry Rowland", "WCE", 15, "HAW", 10, "STK", 25, "GWS", 30, "GEE", 10, "ADE", 40, "RIC", 15, "PTA", 10, "NTH", 5, "Tom Rockliff (BRI)", 30, "", "", "", ""],
