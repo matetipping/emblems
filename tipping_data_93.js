@@ -121,7 +121,14 @@ var tipping_data = {
         ["R8", "Kaytley🐐", "WCE", 15, "HAW", 10, "STK", 10, "GWS", 10, "ESS", 5, "ADE", 20, "RIC", 25, "PTA", 10, "SYD", 15, "Rory Sloane (ADE)", 11, "Josh Kennedy (SYD)", 6, "", ""],
         ["R8", "Alex Rowland", "WBD", 15, "HAW", 41, "STK", 22, "GWS", 32, "GEE", 25, "ADE", 27, "RIC", 16, "PTA", 18, "NTH", 11, "", "", "", "", "", ""],
         ["R8", "Shaydog", "WBD", 15, "BRI", 23, "STK", 19, "GWS", 20, "ESS", 5, "ADE", 32, "RIC", 12, "GCS", 15, "NTH", 10, "", "", "Tom Rockliff (BRI)", 6, "", ""],
-        ["R8", "ciniboi_12", "WCE", 5, "HAW", 21, "STK", 44, "GWS", 19, "GEE", 24, "ADE", 15, "RIC", 9, "PTA", 36, "SYD", 22, "", "", "Tim Membrey (STK)", 7, "", ""]
+        ["R8", "ciniboi_12", "WCE", 5, "HAW", 21, "STK", 44, "GWS", 19, "GEE", 24, "ADE", 15, "RIC", 9, "PTA", 36, "SYD", 22, "", "", "Tim Membrey (STK)", 7, "", ""],
+        ["R9", "Bigbadbrucey", "GEE", 5, "STK", 20, "GWS", 25, "ADE", 37, "COL", 8, "ESS", 5, "MEL", 17, "FRE", 40, "GEE", 17, "", "", "", "", "", ""],
+        ["R9", "Flagpies", "WBD", 12, "STK", 3, "GWS", 6, "ADE", 28, "COL", 10, "ESS", 15, "MEL", 20, "FRE", 30, "GEE", 20, "", "", "", "", "", ""],
+        ["R9", "Kaytley🐐", "GEE", 15, "SYD", 5, "RIC", 5, "ADE", 30, "HAW", 15, "WCE", 20, "MEL", 10, "FRE", 15, "PTA", 15, "", "", "Josh Kennedy (WCE)", "", "", ""],
+        ["R9", "Jono22", "WBD", 13, "SYD", 9, "GWS", 4, "ADE", 20, "HAW", 30, "ESS", 15, "MEL", 20, "FRE", 15, "PTA", 25, "", "", "Ty Vickery (HAW)", "", "", ""],
+        ["R9", "Jeanille01", "WBD", 16, "STK", 15, "GWS", 4, "ADE", 30, "HAW", 5, "ESS", 15, "MEL", 30, "FRE", 20, "PTA", 15, "", "", "Jarryd Roughead (HAW)", "", "", ""],
+        ["R9", "Mann", "GEE", 10, "STK", 11, "GWS", 31, "ADE", 57, "HAW", 1, "WCE", 11, "MEL", 14, "FRE", 27, "PTA", 17, "", "", "Taylor Walker (ADE)", "", "", ""],
+        ["R9", "Dannelboyz", "WBD", 6, "SYD", 2, "GWS", 32, "ADE", 70, "HAW", 6, "WCE", 15, "MEL", 22, "FRE", 20, "GEE", 6, "Lachie Neale (FRE)", "", "Eddie Betts (ADE)", "", "", ""]
     ],
     fixtures: [
         ["R1", "Shaydog", "Dannelboyz", "Bigbadbrucey", "Flagpies", "Jono22", "ciniboi_12", "Craig Terrington", "Alex Rowland", "Mann", "Steve", "Harry Rowland", "Kaytley🐐", "jamieling", "Jeanille01"],
