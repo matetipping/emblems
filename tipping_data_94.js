@@ -128,7 +128,13 @@ var tipping_data = {
         ["R9", "Jono22", "WBD", 13, "SYD", 9, "GWS", 4, "ADE", 20, "HAW", 30, "ESS", 15, "MEL", 20, "FRE", 15, "PTA", 25, "", "", "Ty Vickery (HAW)", "", "", ""],
         ["R9", "Jeanille01", "WBD", 16, "STK", 15, "GWS", 4, "ADE", 30, "HAW", 5, "ESS", 15, "MEL", 30, "FRE", 20, "PTA", 15, "", "", "Jarryd Roughead (HAW)", "", "", ""],
         ["R9", "Mann", "GEE", 10, "STK", 11, "GWS", 31, "ADE", 57, "HAW", 1, "WCE", 11, "MEL", 14, "FRE", 27, "PTA", 17, "", "", "Taylor Walker (ADE)", "", "", ""],
-        ["R9", "Dannelboyz", "WBD", 6, "SYD", 2, "GWS", 32, "ADE", 70, "HAW", 6, "WCE", 15, "MEL", 22, "FRE", 20, "GEE", 6, "Lachie Neale (FRE)", "", "Eddie Betts (ADE)", "", "", ""]
+        ["R9", "Dannelboyz", "WBD", 6, "SYD", 2, "GWS", 32, "ADE", 70, "HAW", 6, "WCE", 15, "MEL", 22, "FRE", 20, "GEE", 6, "Lachie Neale (FRE)", "", "Eddie Betts (ADE)", "", "", ""],
+        ["R9", "jamieling", "GEE", 32, "STK", 8, "GWS", 26, "ADE", 40, "COL", 10, "WCE", 27, "MEL", 19, "FRE", 33, "GEE", 30, "", "", "Taylor Walker (ADE)", "", "", ""],
+        ["R9", "Craig Terrington", "GEE", 0, "STK", 6, "GWS", 36, "ADE", 42, "COL", 12, "WCE", 30, "NTH", 18, "FRE", 24, "PTA", 18, "", "", "", "", "", ""],
+        ["R9", "Alex Rowland", "WBD", 15, "STK", 18, "GWS", 34, "ADE", 45, "HAW", 22, "ESS", 11, "MEL", 23, "FRE", 19, "GEE", 16, "", "", "Eddie Betts (ADE)", "", "", ""],
+        ["R9", "Harry Rowland", "GEE", 25, "STK", 20, "GWS", 10, "ADE", 50, "HAW", 15, "WCE", 5, "MEL", 10, "FRE", 5, "PTA", 5, "", "", "Eddie Betts (ADE)", "", "", ""],
+        ["R9", "Steve", "GEE", 23, "SYD", 8, "GWS", 33, "ADE", 62, "HAW", 5, "ESS", 19, "MEL", 18, "FRE", 18, "GEE", 24, "", "", "Josh Kennedy (WCE)", "", "", ""],
+        ["R9", "Shaydog", "GEE", 13, "STK", 22, "GWS", 18, "ADE", 35, "HAW", 21, "ESS", 5, "MEL", 24, "FRE", 20, "GEE", 5, "Tom Rockliff (BRI)", "", "", "", "", ""]
     ],
     fixtures: [
         ["R1", "Shaydog", "Dannelboyz", "Bigbadbrucey", "Flagpies", "Jono22", "ciniboi_12", "Craig Terrington", "Alex Rowland", "Mann", "Steve", "Harry Rowland", "Kaytley🐐", "jamieling", "Jeanille01"],
