@@ -28,6 +28,7 @@ var t_award = {
     [3466081,"34 - Gold Coast Suns","http://b3.ifrm.com/30609/91/0/p3005889/card_34_g_suns.png","Gold Coast Suns","2017"],
     [3417755,"35 - Gary Ablett","http://b3.ifrm.com/30609/91/0/p3005890/card_35_g_ablett.png","Gold Coast Suns","2017"],
     [5053863,"37 - Aaron Hall","http://b3.ifrm.com/30609/91/0/p3005892/card_37_a_hall.png","Gold Coast Suns","2017"],
+    [3475635,"38 - GWS Giants","http://b3.ifrm.com/30609/91/0/p3005893/card_38_g_giants.png","GWS Giants","2017"],
     [3417755,"39 - Stephen Coniglio","http://b3.ifrm.com/30609/91/0/p3005894/card_39_s_coniglio.png","GWS Giants","2017"],
     [5061544,"40 - Heath Shaw","http://b3.ifrm.com/30609/91/0/p3005895/card_40_h_shaw.png","GWS Giants","2017"],
     [3475635,"40 - Heath Shaw","http://b3.ifrm.com/30609/91/0/p3005895/card_40_h_shaw.png","GWS Giants","2017"],
