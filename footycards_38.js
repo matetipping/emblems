@@ -69,6 +69,8 @@ var t_award = {
     [5054240,"85 - Kara Donnellan","http://b3.ifrm.com/30609/91/0/p3008932/card_85_k_donnellan.png","Fremantle Dockers","2017"],
     [3465706,"87 - Daisy Pearce","http://b3.ifrm.com/30609/91/0/p3008934/card_87_d_pearce.png","Melbourne Demons","2017"],
     [3465669,"89 - Sir Doug Nicholls","http://b3.ifrm.com/30609/91/0/p3012009/card_89_d_nicholls.png","Indigenous Round, 2017","2017"],
+    [3417755,"89 - Sir Doug Nicholls","http://b3.ifrm.com/30609/91/0/p3012009/card_89_d_nicholls.png","Indigenous Round, 2017","2017"],
+    [3465693,"89 - Sir Doug Nicholls","http://b3.ifrm.com/30609/91/0/p3012009/card_89_d_nicholls.png","Indigenous Round, 2017","2017"],
     [3465669,"91 - Lance Franklin (250 Games)","http://b3.ifrm.com/30609/91/0/p3009200/card_91_l_franklin.png","Sydney Swans","2017"],
     [3465706,"91 - Lance Franklin (250 Games)","http://b3.ifrm.com/30609/91/0/p3009200/card_91_l_franklin.png","Sydney Swans","2017"],
     [3468145,"91 - Lance Franklin (250 Games)","http://b3.ifrm.com/30609/91/0/p3009200/card_91_l_franklin.png","Sydney Swans","2017"],
