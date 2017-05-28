@@ -143,7 +143,7 @@ var tipping_data = {
         ["R10", "Mann", "HAW", 1, "WBD", 12, "MEL", 31, "ESS", 15, "ADE", 30, "COL", 34, "NTH", 8, "WCE", 15, "HAW", 1, "", "", "", "", "", ""],
         ["R10", "Dannelboyz", "SYD", 20, "WBD", 19, "MEL", 33, "RIC", 15, "ADE", 36, "COL", 29, "NTH", 16, "WCE", 1, "PTA", 31, "", "", "", "", "", ""],
         ["R10", "Flagpies", "SYD", 4, "WBD", 18, "GCS", 10, "ESS", 3, "ADE", 25, "COL", 32, "CAR", 18, "WCE", 20, "PTA", 10, "", "", "", "", "", ""],
-        ["R10", "Steve", "SYD", 33, "STK", 15, "MEL", 23, "RIC", 19, "ADE", 44, "COL", 13, "NTH", 18, "GWS", 38, "PTA", 22, "", "", "Josh Kennedy (WCE)", "", "", ""],
+        ["R10", "Steve", "SYD", 33, "STK", 15, "MEL", 23, "RIC", 19, "ADE", 44, "COL", 13, "NTH", 18, "GWS", 38, "PTA", 22, "", "", "Josh Kennedy (WCE)", 19, "", ""],
         ["R10", "Craig Terrington", "SYD", 36, "WBD", 12, "MEL", 36, "RIC", 12, "ADE", 30, "COL", 42, "NTH", 30, "GWS", 12, "PTA", 36, "", "", "", "", "", ""],
         ["R10", "jamieling", "SYD", 43, "WBD", 13, "MEL", 18, "RIC", 17, "ADE", 36, "COL", 38, "NTH", 28, "WCE", 19, "PTA", 40, "", "", "", "", "", ""],
         ["R10", "Jono22", "HAW", 10, "WBD", 8, "MEL", 30, "RIC", 3, "ADE", 30, "BRI", 5, "CAR", 13, "GWS", 7, "PTA", 10, "1st Tom Mitchell (HAW)", 31, "", "", "", ""],
