@@ -2,7 +2,7 @@ var tipping_data = {
     round: "R10",
     admin: "Administrator",
     tips: [
-        ["R10", "Administrator", "HAW", 6, "WBD", 40, "MEL", 35, "RIC", 15, "ADE", 100, "COL", 45, "NTH", 17, "GWS", 8, "", "", "", "", "", ""],
+        ["R10", "Administrator", "HAW", 6, "WBD", 40, "MEL", 35, "RIC", 15, "ADE", 100, "COL", 45, "NTH", 17, "GWS", 8, "PTA", 51, "", "", "", "", "", ""],
         ["R9", "Administrator", "GEE", 23, "SYD", 50, "GWS", 3, "ADE", 80, "COL", 18, "ESS", 61, "NTH", 14, "FRE", 35, "GEE", 2, "", "", "", "", "", ""],
         ["R1", "Administrator", "RIC", 43, "WBD", 14, "MEL", 30, "PTA", 28, "BRI", 2, "ESS", 25, "WCE", 43, "ADE", 56, "GEE", 42, "Rory Laird (ADE)", 40, "Josh Kennedy (WCE)", 42, "", ""],
         ["R1", "Shaydog", "CAR", 15, "WBD", 25, "STK", 10, "SYD", 45, "BRI", 20, "HAW", 30, "NTH", 10, "ADE", 15, "GEE", 25, "", "", "", "", "", ""],
@@ -149,7 +149,7 @@ var tipping_data = {
         ["R10", "Jono22", "HAW", 10, "WBD", 8, "MEL", 30, "RIC", 3, "ADE", 30, "BRI", 5, "CAR", 13, "GWS", 7, "PTA", 10, "1st Tom Mitchell (HAW)", 31, "", "", "", ""],
         ["R10", "Jeanille01", "HAW", 67, "WBD", 50, "MEL", 100, "ESS", 20, "ADE", 70, "BRI", 20, "NTH", 107, "GWS", 57, "PTA", 60, "", "", "", "", "", ""],
         ["R10", "ciniboi_12", "SYD", 31, "WBD", 16, "MEL", 25, "RIC", 12, "ADE", 34, "BRI", 2, "NTH", 7, "GWS", 9, "HAW", 18, "", "", "", "", "", ""],
-        ["R10", "Alex Rowland", "SYD", 18, "WBD", 25, "MEL", 36, "ESS", 22, "ADE", 38, "COL", 42, "NTH", 33, "WCE", 5, "PTA", 26, "2nd Tom Mitchell (HAW)", "", "", "", "", ""],
+        ["R10", "Alex Rowland", "SYD", 18, "WBD", 25, "MEL", 36, "ESS", 22, "ADE", 38, "COL", 42, "NTH", 33, "WCE", 5, "PTA", 26, "2nd Tom Mitchell (HAW)", 30, "", "", "", ""],
         ["R10", "Kaytley🐐", "HAW", 15, "WBD", 10, "MEL", 5, "ESS", 10, "ADE", 30, "COL", 20, "CAR", 10, "WCE", 10, "HAW", 20, "", "", "Rory Sloane (ADE)", 13, "", ""],
         ["R10", "Shaydog", "HAW", 10, "WBD", 15, "MEL", 12, "ESS", 8, "ADE", 20, "COL", 11, "CAR", 17, "GWS", 6, "PTA", 13, "", "", "", "", "", ""]
     ],
