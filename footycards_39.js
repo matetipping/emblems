@@ -19,6 +19,7 @@ var t_award = {
     [3475635,"17 - Sam Docherty","http://b3.ifrm.com/30609/91/0/p3005872/card_17_s_docherty.png","Carlton Blues","2017"],
     [5061544,"19 - Scott Pendlebury","http://b3.ifrm.com/30609/91/0/p3005874/card_19_s_pendlebury.png","Collingwood Magpies","2017"],
     [3466081,"19 - Scott Pendlebury","http://b3.ifrm.com/30609/91/0/p3005874/card_19_s_pendlebury.png","Collingwood Magpies","2017"],
+    [5053863,"21 - Steele Sidebottom","http://b3.ifrm.com/30609/91/0/p3005876/card_21_s_sidebottom.png","Collingwood Magpies","2017"],
     [3465706,"24 - Zach Merrett","http://b3.ifrm.com/30609/91/0/p3005879/card_24_z_merrett.png","Essendon Bombers","2017"],
     [5053863,"24 - Zach Merrett","http://b3.ifrm.com/30609/91/0/p3005879/card_24_z_merrett.png","Essendon Bombers","2017"],
     [3468145,"25 - Joe Daniher","http://b3.ifrm.com/30609/91/0/p3005880/card_25_j_daniher.png","Essendon Bombers","2017"],
@@ -40,6 +41,7 @@ var t_award = {
     [5061544,"43 - Cyril Rioli","http://b3.ifrm.com/30609/91/0/p3005898/card_43_c_rioli.png","Hawthorn Hawks","2017"],
     [5053863,"43 - Cyril Rioli","http://b3.ifrm.com/30609/91/0/p3005898/card_43_c_rioli.png","Hawthorn Hawks","2017"],
     [3466081,"43 - Cyril Rioli","http://b3.ifrm.com/30609/91/0/p3005898/card_43_c_rioli.png","Hawthorn Hawks","2017"],
+    [3465706,"43 - Cyril Rioli","http://b3.ifrm.com/30609/91/0/p3005898/card_43_c_rioli.png","Hawthorn Hawks","2017"],
     [3417755,"45 - Jarryd Roughead","http://b3.ifrm.com/30609/91/0/p3005900/card_45_j_roughead.png","Hawthorn Hawks","2017"],
     [5054240,"47 - Max Gawn","http://b3.ifrm.com/30609/91/0/p3005902/card_47_m_gawn.png","Melbourne Demons","2017"],
     [3466081,"48 - Jack Viney","http://b3.ifrm.com/30609/91/0/p3005903/card_48_j_viney.png","Melbourne Demons","2017"],
@@ -78,6 +80,10 @@ var t_award = {
     [3465693,"92 - Robert Murphy (300 Games)","http://b3.ifrm.com/30609/91/0/p3010011/card_92_r_murphy.png","Western Bulldogs","2017"],
     [3466081,"92 - Robert Murphy (300 Games)","http://b3.ifrm.com/30609/91/0/p3010011/card_92_r_murphy.png","Western Bulldogs","2017"],
     [5054240,"92 - Robert Murphy (300 Games)","http://b3.ifrm.com/30609/91/0/p3010011/card_92_r_murphy.png","Western Bulldogs","2017"],
-    [3465669,"92 - Robert Murphy (300 Games)","http://b3.ifrm.com/30609/91/0/p3010011/card_92_r_murphy.png","Western Bulldogs","2017"]
+    [3465669,"92 - Robert Murphy (300 Games)","http://b3.ifrm.com/30609/91/0/p3010011/card_92_r_murphy.png","Western Bulldogs","2017"],
+    [3417755,"101 - Jono and Jeanille","http://b3.ifrm.com/30609/91/0/p3012492/card_101_j_terrington.png","Scandal of the Week","2017"],
+    [5061544,"101 - Jono and Jeanille","http://b3.ifrm.com/30609/91/0/p3012492/card_101_j_terrington.png","Scandal of the Week","2017"],
+    [3465693,"101 - Jono and Jeanille","http://b3.ifrm.com/30609/91/0/p3012492/card_101_j_terrington.png","Scandal of the Week","2017"],
+    [3465706,"101 - Jono and Jeanille","http://b3.ifrm.com/30609/91/0/p3012492/card_101_j_terrington.png","Scandal of the Week","2017"]
   ]
 };
