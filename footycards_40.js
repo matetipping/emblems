@@ -12,6 +12,7 @@ var t_award = {
     [3417755,"8 - Eddie Betts","http://b3.ifrm.com/30609/91/0/p3005863/card_8_e_betts.png","Adelaide Crows","2017"],
     [3465706,"8 - Eddie Betts","http://b3.ifrm.com/30609/91/0/p3005863/card_8_e_betts.png","Adelaide Crows","2017"],
     [3475635,"8 - Eddie Betts","http://b3.ifrm.com/30609/91/0/p3005863/card_8_e_betts.png","Adelaide Crows","2017"],
+    [3466081,"9 - Josh Jenkins","http://b3.ifrm.com/30609/91/0/p3005864/card_9_j_jenkins.png","Adelaide Crows","2017"],
     [3465706,"11 - Tom Rockliff","http://b3.ifrm.com/30609/91/0/p3005866/card_11_t_rockliff.png","Brisbane Lions","2017"],
     [3465669,"11 - Tom Rockliff","http://b3.ifrm.com/30609/91/0/p3005866/card_11_t_rockliff.png","Brisbane Lions","2017"],
     [3468145,"12 - Dayne Zorko","http://b3.ifrm.com/30609/91/0/p3005867/card_12_d_zorko.png","Brisbane Lions","2017"],
@@ -55,6 +56,7 @@ var t_award = {
     [3465669,"60 - Trent Cotchin","http://b3.ifrm.com/30609/91/0/p3005915/card_60_t_cotchin.png","Richmond Tigers","2017"],
     [3468145,"62 - St Kilda Saints","http://b3.ifrm.com/30609/91/0/p3005917/card_62_s_saints.png","St Kilda Saints","2017"],
     [3465706,"62 - St Kilda Saints","http://b3.ifrm.com/30609/91/0/p3005917/card_62_s_saints.png","St Kilda Saints","2017"],
+    [3466081,"62 - St Kilda Saints","http://b3.ifrm.com/30609/91/0/p3005917/card_62_s_saints.png","St Kilda Saints","2017"],
     [3465706,"63 - Jack Steven","http://b3.ifrm.com/30609/91/0/p3005918/card_63_j_steven.png","St Kilda Saints","2017"],
     [5054240,"64 - Nick Riewoldt","http://b3.ifrm.com/30609/91/0/p3005919/card_64_n_riewoldt.png","St Kilda Saints","2017"],
     [3465706,"64 - Nick Riewoldt","http://b3.ifrm.com/30609/91/0/p3005919/card_64_n_riewoldt.png","St Kilda Saints","2017"],
@@ -81,9 +83,13 @@ var t_award = {
     [3466081,"92 - Robert Murphy (300 Games)","http://b3.ifrm.com/30609/91/0/p3010011/card_92_r_murphy.png","Western Bulldogs","2017"],
     [5054240,"92 - Robert Murphy (300 Games)","http://b3.ifrm.com/30609/91/0/p3010011/card_92_r_murphy.png","Western Bulldogs","2017"],
     [3465669,"92 - Robert Murphy (300 Games)","http://b3.ifrm.com/30609/91/0/p3010011/card_92_r_murphy.png","Western Bulldogs","2017"],
+    [3465669,"93 - Brendon Goddard (300 Games)","http://b3.ifrm.com/30609/91/0/p3012491/card_93_b_goddard.png","Essendon Bombers","2017"],
     [3417755,"101 - Jono and Jeanille","http://b3.ifrm.com/30609/91/0/p3012492/card_101_j_terrington.png","Scandal of the Week","2017"],
     [5061544,"101 - Jono and Jeanille","http://b3.ifrm.com/30609/91/0/p3012492/card_101_j_terrington.png","Scandal of the Week","2017"],
     [3465693,"101 - Jono and Jeanille","http://b3.ifrm.com/30609/91/0/p3012492/card_101_j_terrington.png","Scandal of the Week","2017"],
-    [3465706,"101 - Jono and Jeanille","http://b3.ifrm.com/30609/91/0/p3012492/card_101_j_terrington.png","Scandal of the Week","2017"]
+    [3465706,"101 - Jono and Jeanille","http://b3.ifrm.com/30609/91/0/p3012492/card_101_j_terrington.png","Scandal of the Week","2017"],
+    [3466081,"101 - Jono and Jeanille","http://b3.ifrm.com/30609/91/0/p3012492/card_101_j_terrington.png","Scandal of the Week","2017"],
+    [3465669,"101 - Jono and Jeanille","http://b3.ifrm.com/30609/91/0/p3012492/card_101_j_terrington.png","Scandal of the Week","2017"],
+    [5054240,"101 - Jono and Jeanille","http://b3.ifrm.com/30609/91/0/p3012492/card_101_j_terrington.png","Scandal of the Week","2017"]
   ]
 };
