@@ -154,7 +154,7 @@ var tipping_data = {
         ["R10", "Kaytley🐐", "HAW", 15, "WBD", 10, "MEL", 5, "ESS", 10, "ADE", 30, "COL", 20, "CAR", 10, "WCE", 10, "HAW", 20, "", "", "Rory Sloane (ADE)", 13, "", ""],
         ["R10", "Shaydog", "HAW", 10, "WBD", 15, "MEL", 12, "ESS", 8, "ADE", 20, "COL", 11, "CAR", 17, "GWS", 6, "PTA", 13, "", "", "", "", "", ""],
         ["B1", "Flagpies", "GEE", 15, "WCE", 16, "GWS", 20, "RIC", 5, "COL", 18, "WBD", 3, "ADE", 28, "HAW", 20, "FRE", 50, "", "", "", "", "", ""],
-        ["B1", "Harry Rowland", "GEE", 10, "WCE", 30, "GWS", 40, "RIC", 30, "FRE", 25, "WBD", , "ADE", 20, "HAW", 10, "FRE", 20, "", "", "1st Eddie Betts (ADE)", 7, "", ""],
+        ["B1", "Harry Rowland", "GEE", 10, "WCE", 30, "GWS", 40, "RIC", 30, "FRE", 25, "WBD", 0, "ADE", 20, "HAW", 10, "FRE", 20, "", "", "1st Eddie Betts (ADE)", 7, "", ""],
         ["B1", "Bigbadbrucey", "GEE", 10, "GCS", 2, "GWS", 23, "RIC", 17, "FRE", 20, "SYD", 1, "ADE", 35, "HAW", 5, "FRE", 15, "Sebastian Ross (STK)", "", "", "", "", ""],
         ["B1", "Steve", "ADE", 22, "GCS", 1, "GWS", 38, "RIC", 18, "COL", 9, "WBD", 15, "ADE", 28, "HAW", 22, "FRE", 37, "", "", "", "", "", ""],
         ["B1", "Mann", "GEE", 8, "GCS", 15, "GWS", 25, "NTH", 8, "FRE", 14, "WBD", 4, "ADE", 35, "HAW", 1, "FRE", 17, "Tom Mitchell (HAW)", "", "2nd Tom Lynch (GCS)", "", "", ""],
