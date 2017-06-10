@@ -2,7 +2,7 @@ var tipping_data = {
     round: "B2",
     admin: "Administrator",
     tips: [
-        ["B2", "Administrator", "ESS", 70", "", "", "", "", "", ""],
+        ["B2", "Administrator", "ESS", 70, "", "", "", "", "", ""],
         ["B1", "Administrator", "GEE", 22, "GCS", 3, "GWS", 16, "RIC", 35, "COL", 20, "SYD", 46, "ADE", 57, "GCS", 16, "BRI", 57, "", "", "", "", "", ""],
         ["R10", "Administrator", "HAW", 6, "WBD", 40, "MEL", 35, "RIC", 15, "ADE", 100, "COL", 45, "NTH", 17, "GWS", 8, "PTA", 51, "", "", "", "", "", ""],
         ["R9", "Administrator", "GEE", 23, "SYD", 50, "GWS", 3, "ADE", 80, "COL", 18, "ESS", 61, "NTH", 14, "FRE", 35, "GEE", 2, "", "", "", "", "", ""],
@@ -180,7 +180,7 @@ var tipping_data = {
         ["B2", "Craig Terrington", "PTA", 37, "GWS", 43, "MEL", 12, "WCE", 3, "NTH", 5, "SYD", 3, "PTA", 65, "GCS", 21, "WBD", 13, "", "", "", "", "", ""],
         ["B2", "ciniboi_12", "PTA", 36, "GWS", 22, "COL", 3, "GEE", 28, "STK", 30, "SYD", 18, "PTA", 50, "GCS", 16, "WBD", 4, "", "", "", "", "", ""],
         ["B2", "Dannelboyz", "PTA", 44, "GWS", 40, "COL", 10, "WCE", 19, "STK", 15, "RIC", 8, "PTA", 82, "GCS", 27, "WBD", 13, "Gary Ablett (GCS)", "", "", "", "", ""],
-        ["B2", "Flagpies", "ESS", 18, "GWS", 20, "COL", 10, "WCE", 8, "NTH", 10, "RIC", 8, "PTA", 15, "GCS", 16, "WBD", 15, "Sam Mitchell (WCE)", "", "1st Joe Danniher (ESS)", "", "", ""],
+        ["B2", "Flagpies", "ESS", 18, "GWS", 20, "COL", 10, "WCE", 8, "NTH", 10, "RIC", 8, "PTA", 15, "GCS", 16, "WBD", 15, "Sam Mitchell (WCE)", "", "1st Joe Danniher (ESS)", 24, "", ""],
         ["B2", "Bigbadbrucey", "ESS", 6, "GWS", 45, "MEL", 21, "GEE", 12, "STK", 36, "SYD", 24, "PTA", 9, "GCS", 12, "WBD", 9, "", "", "", "", "", ""],
     ],
     fixtures: [
