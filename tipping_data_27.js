@@ -2,7 +2,7 @@ var tipping_data = {
     round: "B2",
     admin: "Administrator",
     tips: [
-        ["B2", "Administrator", "ESS", 70, "", "", "", "", "", ""],
+        ["B2", "Administrator", "ESS", 70, "CAR", 1, "", "", "", "", "", ""],
         ["B1", "Administrator", "GEE", 22, "GCS", 3, "GWS", 16, "RIC", 35, "COL", 20, "SYD", 46, "ADE", 57, "GCS", 16, "BRI", 57, "", "", "", "", "", ""],
         ["R10", "Administrator", "HAW", 6, "WBD", 40, "MEL", 35, "RIC", 15, "ADE", 100, "COL", 45, "NTH", 17, "GWS", 8, "PTA", 51, "", "", "", "", "", ""],
         ["R9", "Administrator", "GEE", 23, "SYD", 50, "GWS", 3, "ADE", 80, "COL", 18, "ESS", 61, "NTH", 14, "FRE", 35, "GEE", 2, "", "", "", "", "", ""],
@@ -169,7 +169,7 @@ var tipping_data = {
         ["B1", "Jono22", "ADE", 30, "GCS", 10, "GWS", 15, "RIC", 10, "FRE", 20, "WBD", 15, "ADE", 20, "HAW", 40, "FRE", 10, "", "", "1st Eddie Betts (ADE)", 7, "", ""],
         ["B1", "Shaydog", "ADE", 18, "WCE", 28, "GWS", 20, "RIC", 15, "FRE", 26, "WBD", 17, "ADE", 35, "GCS", 22, "FRE", 27, "", "", "", "", "", ""],
         ["B2", "Jeanille01", "PTA", 15, "GWS", 27, "MEL", 17, "WCE", 10, "STK", 15, "RIC", 7, "PTA", 60, "GCS", 20, "WBD", 20, "Marcus Bontempelli (WBD)", "", "Tom Lynch (GCS)", "", "", ""],
-        ["B2", "Jono22", "PTA", 18, "GWS", 21, "MEL", 19, "WCE", 3, "STK", 14, "RIC", 4, "PTA", 60, "GCS", 23, "WBD", 15, "Gary Ablett (GCS)", "", "Jeremy Cameron (GWS)", "", "", ""],
+        ["B2", "Jono22", "PTA", 18, "GWS", 21, "MEL", 19, "WCE", 3, "STK", 14, "RIC", 4, "PTA", 60, "GCS", 23, "WBD", 15, "Gary Ablett (GCS)", "", "Jeremy Cameron (GWS)", 6, "", ""],
         ["B2", "Mann", "PTA", 13, "GWS", 35, "MEL", 13, "GEE", 6, "STK", 16, "RIC", 3, "PTA", 70, "GCS", 10, "WBD", 11, "", "", "", "", "", ""],
         ["B2", "Alex Rowland", "PTA", 20, "GWS", 33, "MEL", 27, "GEE", 11, "STK", 16, "RIC", 12, "PTA", 46, "GCS", 18, "WBD", 21, "", "", "Tom Lynch (GCS)", "", "", ""],
         ["B2", "Harry Rowland", "PTA", 30, "GWS", 40, "MEL", 20, "WCE", 25, "STK", 25, "RIC", 20, "PTA", 40, "GCS", 10, "WBD", 15, "Jordan Lewis (MEL)", "", "", "", "", ""],
