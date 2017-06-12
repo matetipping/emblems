@@ -172,7 +172,7 @@ var tipping_data = {
         ["B2", "Jono22", "PTA", 18, "GWS", 21, "MEL", 19, "WCE", 3, "STK", 14, "RIC", 4, "PTA", 60, "GCS", 23, "WBD", 15, "Gary Ablett (GCS)", "", "Jeremy Cameron (GWS)", 6, "", ""],
         ["B2", "Mann", "PTA", 13, "GWS", 35, "MEL", 13, "GEE", 6, "STK", 16, "RIC", 3, "PTA", 70, "GCS", 10, "WBD", 11, "", "", "", "", "", ""],
         ["B2", "Alex Rowland", "PTA", 20, "GWS", 33, "MEL", 27, "GEE", 11, "STK", 16, "RIC", 12, "PTA", 46, "GCS", 18, "WBD", 21, "", "", "Tom Lynch (GCS)", "", "", ""],
-        ["B2", "Harry Rowland", "PTA", 30, "GWS", 40, "MEL", 20, "WCE", 25, "STK", 25, "RIC", 20, "PTA", 40, "GCS", 10, "WBD", 15, "Jordan Lewis (MEL)", "", "", "", "", ""],
+        ["B2", "Harry Rowland", "PTA", 30, "GWS", 40, "MEL", 20, "WCE", 25, "STK", 25, "RIC", 20, "PTA", 40, "GCS", 10, "WBD", 15, "Jordan Lewis (MEL)", 14, "", "", "", ""],
         ["B2", "Steve", "PTA", 33, "GWS", 41, "MEL", 8, "GEE", 6, "STK", 31, "RIC", 9, "PTA", 55, "GCS", 18, "MEL", 32, "Tom Mitchell (HAW)", "", "", "", "", ""],
         ["B2", "Shaydog", "ESS", 8, "GWS", 12, "MEL", 20, "WCE", 14, "STK", 23, "RIC", 19, "PTA", 23, "GCS", 26, "WBD", 24, "", "", "", "", "", ""],
         ["B2", "jamieling", "PTA", 25, "GWS", 29, "MEL", 16, "GEE", 22, "STK", 19, "RIC", 9, "PTA", 65, "GCS", 14, "WBD", 24, "Gary Ablett (GCS)", "", "", "", "", ""],
