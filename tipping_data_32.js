@@ -2,7 +2,7 @@ var tipping_data = {
     round: "B2",
     admin: "Administrator",
     tips: [
-        ["B2", "Administrator", "ESS", 70, "CAR", 1, "MEL", 4, "WCE", 13, "STK", 17, "", "", "", "", "", ""],
+        ["B2", "Administrator", "ESS", 70, "CAR", 1, "MEL", 4, "WCE", 13, "STK", 17, "SYD", 9, "PTA", 40, "", "", "", "", "", ""],
         ["B1", "Administrator", "GEE", 22, "GCS", 3, "GWS", 16, "RIC", 35, "COL", 20, "SYD", 46, "ADE", 57, "GCS", 16, "BRI", 57, "", "", "", "", "", ""],
         ["R10", "Administrator", "HAW", 6, "WBD", 40, "MEL", 35, "RIC", 15, "ADE", 100, "COL", 45, "NTH", 17, "GWS", 8, "PTA", 51, "", "", "", "", "", ""],
         ["R9", "Administrator", "GEE", 23, "SYD", 50, "GWS", 3, "ADE", 80, "COL", 18, "ESS", 61, "NTH", 14, "FRE", 35, "GEE", 2, "", "", "", "", "", ""],
