@@ -188,7 +188,7 @@ var tipping_data = {
         ["R14", "Jono22", "ADE", 40, "SYD", 10, "PTA", 30, "GWS", 60, "WBD", 20, "WCE", 10, "GEE", 40, "RIC", 20, "GCS", 10, "", "", "", "", "", ""],
         ["R14", "Jeanille01", "ADE", 50, "SYD", 10, "PTA", 20, "GWS", 50, "WBD", 20, "WCE", 15, "GEE", 30, "RIC", 15, "GCS", 15, "Gary Ablett (GCS)", "", "Jeremy Cameron (GWS)", "", "", ""],
         ["R14", "jamieling", "ADE", 53, "SYD", 26, "PTA", 17, "GWS", 35, "WBD", 9, "WCE", 33, "GEE", 38, "RIC", 25, "STK", 19, "", "", "Taylor Walker (ADE)", "", "", ""],
-        ["R14", "Harry Rowland", "HAW", 15, "ESS", 20, "PTA", 40, "GWS", 50, "WBD", 30, "MEL", 10, "GEE", 39, "RIC", 50, "STK", 30, "Jack Riedwolt (RIC)", "", "", "", "", ""],
+        ["R14", "Harry Rowland", "HAW", 15, "ESS", 20, "PTA", 40, "GWS", 50, "WBD", 30, "MEL", 10, "GEE", 39, "RIC", 50, "STK", 30, "Jack Riewoldt (RIC)", "", "", "", "", ""],
         ["R14", "Alex Rowland", "ADE", 35, "SYD", 25, "PTA", 15, "GWS", 51, "WBD", 23, "WCE", 27, "GEE", 42, "RIC", 22, "STK", 18, "Gary Ablett (GCS)", "", "", "", "", ""],
         ["R14", "Craig Terrington", "ADE", 36, "SYD", 24, "PTA", 24, "GWS", 65, "WBD", 12, "WCE", 12, "GEE", 36, "RIC", 12, "STK", 18, "Rory Sloane (ADE)", "", "Lance Franklin (SYD)", "", "", ""],
         ["R14", "Steve", "ADE", 18, "SYD", 33, "COL", 19, "GWS", 45, "WBD", 25, "WCE", 40, "GEE", 36, "RIC", 3, "STK", 24, "Tom Mitchell (HAW)", "", "Lance Franklin (SYD)", "", "", ""],
