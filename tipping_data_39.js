@@ -2,6 +2,7 @@ var tipping_data = {
     round: "R14",
     admin: "Administrator",
     tips: [
+        ["R14", "Administrator", "HAW", 14, "", "", "", "", "", ""],
         ["B2", "Administrator", "ESS", 70, "CAR", 1, "MEL", 4, "WCE", 13, "STK", 17, "SYD", 9, "PTA", 40, "CAR", 10, "MEL", 57, "", "", "", "", "", ""],
         ["B1", "Administrator", "GEE", 22, "GCS", 3, "GWS", 16, "RIC", 35, "COL", 20, "SYD", 46, "ADE", 57, "GCS", 16, "BRI", 57, "", "", "", "", "", ""],
         ["R10", "Administrator", "HAW", 6, "WBD", 40, "MEL", 35, "RIC", 15, "ADE", 100, "COL", 45, "NTH", 17, "GWS", 8, "PTA", 51, "", "", "", "", "", ""],
@@ -190,8 +191,8 @@ var tipping_data = {
         ["R14", "jamieling", "ADE", 53, "SYD", 26, "PTA", 17, "GWS", 35, "WBD", 9, "WCE", 33, "GEE", 38, "RIC", 25, "STK", 19, "", "", "Taylor Walker (ADE)", "", "", ""],
         ["R14", "Harry Rowland", "HAW", 15, "ESS", 20, "PTA", 40, "GWS", 50, "WBD", 30, "MEL", 10, "GEE", 39, "RIC", 50, "STK", 30, "Jack Riewoldt (RIC)", "", "", "", "", ""],
         ["R14", "Alex Rowland", "ADE", 35, "SYD", 25, "PTA", 15, "GWS", 51, "WBD", 23, "WCE", 27, "GEE", 42, "RIC", 22, "STK", 18, "Gary Ablett (GCS)", "", "", "", "", ""],
-        ["R14", "Craig Terrington", "ADE", 36, "SYD", 24, "PTA", 24, "GWS", 65, "WBD", 12, "WCE", 12, "GEE", 36, "RIC", 12, "STK", 18, "Rory Sloane (ADE)", "", "Lance Franklin (SYD)", "", "", ""],
-        ["R14", "Steve", "ADE", 18, "SYD", 33, "COL", 19, "GWS", 45, "WBD", 25, "WCE", 40, "GEE", 36, "RIC", 3, "STK", 24, "Tom Mitchell (HAW)", "", "Lance Franklin (SYD)", "", "", ""],
+        ["R14", "Craig Terrington", "ADE", 36, "SYD", 24, "PTA", 24, "GWS", 65, "WBD", 12, "WCE", 12, "GEE", 36, "RIC", 12, "STK", 18, "Rory Sloane (ADE)", 15, "Lance Franklin (SYD)", "", "", ""],
+        ["R14", "Steve", "ADE", 18, "SYD", 33, "COL", 19, "GWS", 45, "WBD", 25, "WCE", 40, "GEE", 36, "RIC", 3, "STK", 24, "Tom Mitchell (HAW)", 38, "Lance Franklin (SYD)", "", "", ""],
         ["R14", "Mann", "HAW", 1, "SYD", 20, "PTA", 21, "GWS", 40, "WBD", 17, "WCE", 19, "GEE", 44, "CAR", 5, "STK", 26, "", "", "", "", "", ""],
         ["R14", "ciniboi_12", "ADE", 34, "SYD", 41, "PTA", 13, "GWS", 26, "WBD", 3, "WCE", 8, "GEE", 16, "CAR", 6, "STK", 32, "", "", "Jeremy Cameron (GWS)", "", "", ""],
         ["R14", "Kaytley🐐", "HAW", 20, "SYD", 15, "PTA", 15, "GWS", 25, "WBD", 15, "WCE", 20, "GEE", 10, "RIC", 15, "GCS", 5, "", "", "", "", "", ""],
