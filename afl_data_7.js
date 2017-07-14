@@ -16,7 +16,7 @@ var afl_data = {
         ["R14", "June 22, 2017 19:20:00 GMT+0930"],
         ["R15", "June 30, 2017 19:50:00 GMT+1000"],
         ["R16", "July 7, 2017 19:20:00 GMT+0930"],
-        ["R17", "7", "14", "19:00"],
+        ["R17", "July 14, 2017 19:50:00 GMT+1000"],
         ["R18", "7", "21", "19:00"],
         ["R19", "7", "28", "19:00"],
         ["R20", "8", "4", "19:00"],
@@ -158,6 +158,15 @@ var afl_data = {
         ["R16", "STK", "RIC", "ES - Saturday, July 8 - 7:25 PM"],
         ["R16", "NTH", "FRE", "ES - Sunday, July 9 - 1:10 PM"],
         ["R16", "CAR", "MEL", "MCG - Sunday, July 9 - 3:20 PM"],
-        ["R16", "WCE", "PTA", "DS - Sunday, July 9 - 2:40 PM"]
+        ["R16", "WCE", "PTA", "DS - Sunday, July 9 - 2:40 PM"],
+        ["R17", "STK", "ESS", "ES - Friday, July 14 - 7:50 PM"],
+        ["R17", "GEE", "HAW", "MCG - Saturday, July 15 - 1:45 PM"],
+        ["R17", "PTA", "NTH", "AO - Saturday, July 15 - 1:40 PM"],
+        ["R17", "GCS", "COL", "MS - Saturday, July 15 - 4:35 PM"],
+        ["R17", "GWS", "SYD", "SPO - Saturday, July 15 - 7:25 PM"],
+        ["R17", "MEL", "ADE", "TIO - Saturday, July 15 - 7:10 PM"],
+        ["R17", "RIC", "BRI", "ES - Sunday, July 16 - 1:10 PM"],
+        ["R17", "CAR", "WBD", "MCG - Sunday, July 16 - 3:20 PM"],
+        ["R17", "FRE", "WCE", "DS - Sunday, July 16 - 2:40 PM"]
     ]
 }
