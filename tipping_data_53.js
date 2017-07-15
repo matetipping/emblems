@@ -239,7 +239,9 @@ var tipping_data = {
         ["R17", "Mann", "STK", 3, "HAW", 1, "PTA", 37, "GCS", 17, "GWS", 0, "MEL", 1, "RIC", 39, "WBD", 15, "WCE", 22, "Matt Crouch (ADE)", "", "", "", "", ""],
         ["R17", "Shaydog", "ESS", 16, "GEE", 32, "PTA", 21, "COL", 13, "GWS", 27, "MEL", 40, "RIC", 26, "WBD", 24, "WCE", 20, "Patrick Dangerfield (GEE)", "", "Scott Pendlebury (COL)", "", "", ""],
         ["R17", "Craig Terrington", "STK", 18, "GEE", 18, "PTA", 31, "GCS", 7, "GWS", 3, "ADE", 18, "RIC", 33, "WBD", 15, "WCE", 18, "Matt Crouch (ADE)", "", "Joe Daniher (ESS)", "", "", ""],
-        ["R17", "Kaytley🐐", "STK", 10, "HAW", 10, "PTA", 20, "GCS", 10, "GWS", 20, "ADE", 25, "RIC", 30, "WBD", 25, "WCE", 25, "", "", "", "", "", ""]
+        ["R17", "Kaytley🐐", "STK", 10, "HAW", 10, "PTA", 20, "GCS", 10, "GWS", 20, "ADE", 25, "RIC", 30, "WBD", 25, "WCE", 25, "", "", "", "", "", ""],
+        ["R17", "Bigbadbrucey", "", , "", , "", , "GCS", 15, "GWS", 15, "ADE", 15, "RIC", 37, "WBD", 20, "WCE", 18, "", "", "", "", "", ""],
+        ["R17", "Dannelboyz", "", "", "", "", "", ""],
     ],
     fixtures: [
         ["R1", "Shaydog", "Dannelboyz", "Bigbadbrucey", "Flagpies", "Jono22", "ciniboi_12", "Craig Terrington", "Alex Rowland", "Mann", "Steve", "Harry Rowland", "Kaytley🐐", "jamieling", "Jeanille01"],
