@@ -1,5 +1,5 @@
 var tipping_data = {
-    round: "R17",
+    round: "R18",
     admin: "Administrator",
     tips: [
         ["R17", "Administrator", "ESS", 61, "GEE", 3, "PTA", 70, "COL", 15, "SYD", 13, "ADE", 46, "RIC", 31, "WBD", 20, "WCE", 30, "Tom Mitchell (HAW)", 43, "Patrick Dangerfield (GEE)", 36, "", ""],
