@@ -9,7 +9,7 @@ var tipping_data = {
         ["B2", "Administrator", "ESS", 70, "CAR", 1, "MEL", 4, "WCE", 13, "STK", 17, "SYD", 9, "PTA", 40, "CAR", 10, "MEL", 57, "Bryce Gibbs (CAR)", 43, "Cale Hooker (ESS)", 33, "", ""],
         ["B1", "Administrator", "GEE", 22, "GCS", 3, "GWS", 16, "RIC", 35, "COL", 20, "SYD", 46, "ADE", 57, "GCS", 16, "BRI", 57, "2nd - Tom Mitchell (HAW)/1st - Sebastian Ross (STK)", 39, "2nd - Jack Gunston (HAW)", 31, "", ""],
         ["R10", "Administrator", "HAW", 6, "WBD", 40, "MEL", 35, "RIC", 15, "ADE", 100, "COL", 45, "NTH", 17, "GWS", 8, "PTA", 51, "Bryce Gibbs (CAR)", 38, "Jeff Garlett (MEL)", 34, "", ""],
-        ["R9", "Administrator", "GEE", 23, "SYD", 50, "GWS", 3, "ADE", 80, "COL", 18, "ESS", 61, "NTH", 14, "FRE", 35, "GEE", 2, "Tom Mitchell (HAW)", 50, "Ben Brown (NTH)", "32", "", ""],
+        ["R9", "Administrator", "GEE", 23, "SYD", 50, "GWS", 3, "ADE", 80, "COL", 18, "ESS", 61, "NTH", 14, "FRE", 35, "GEE", 2, "Tom Mitchell (HAW)", 50, "Ben Brown (NTH)", 32, "", ""],
         ["R1", "Administrator", "RIC", 43, "WBD", 14, "MEL", 30, "PTA", 28, "BRI", 2, "ESS", 25, "WCE", 43, "ADE", 56, "GEE", 42, "Rory Laird (ADE)", 40, "Josh Kennedy (WCE)", 42, "", ""],
         ["R1", "Shaydog", "CAR", 15, "WBD", 25, "STK", 10, "SYD", 45, "BRI", 20, "HAW", 30, "NTH", 10, "ADE", 15, "GEE", 25, "", "", "", "", "", ""],
         ["R1", "Dannelboyz", "CAR", 6, "WBD", 18, "STK", 2, "SYD", 52, "BRI", 7, "HAW", 29, "WCE", 42, "GWS", 19, "GEE", 17, "", "", "Josh Kennedy (WCE)", 42, "", ""],
