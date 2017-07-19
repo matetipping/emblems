@@ -17,6 +17,7 @@ var t_award = {
     [3465669,"11 - Tom Rockliff","http://b3.ifrm.com/30609/91/0/p3005866/card_11_t_rockliff.png","Brisbane Lions","2017"],
     [3468145,"12 - Dayne Zorko","http://b3.ifrm.com/30609/91/0/p3005867/card_12_d_zorko.png","Brisbane Lions","2017"],
     [3465693,"13 - Dayne Beams","http://b3.ifrm.com/30609/91/0/p3005868/card_13_d_beams.png","Brisbane Lions","2017"],
+    [3466081,"13 - Dayne Beams","http://b3.ifrm.com/30609/91/0/p3005868/card_13_d_beams.png","Brisbane Lions","2017"],
     [3475635,"17 - Sam Docherty","http://b3.ifrm.com/30609/91/0/p3005872/card_17_s_docherty.png","Carlton Blues","2017"],
     [3417755,"17 - Sam Docherty","http://b3.ifrm.com/30609/91/0/p3005872/card_17_s_docherty.png","Carlton Blues","2017"],
     [5061544,"19 - Scott Pendlebury","http://b3.ifrm.com/30609/91/0/p3005874/card_19_s_pendlebury.png","Collingwood Magpies","2017"],
