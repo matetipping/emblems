@@ -248,7 +248,13 @@ var tipping_data = {
         ["R18", "Jono22", "ADE", 33, "ESS", 42, "MEL", 15, "WBD", 21, "SYD", 17, "HAW", 30, "GWS", 17, "WCE", 14, "CAR", 16, "Josh Kelly (GWS)", "", "Joe Daniher (ESS)", "", "", ""],
         ["R18", "Jeanille01", "ADE", 11, "ESS", 22, "MEL", 33, "WBD", 44, "SYD", 55, "FRE", 44, "GWS", 33, "WCE", 22, "CAR", 11, "Tom Mitchell (HAW)", "", "Lance Franklin (SYD)", "", "", ""],
         ["R18", "Kaytley🐐", "GEE", 15, "ESS", 18, "PTA", 15, "WBD", 25, "SYD", 15, "HAW", 20, "RIC", 20, "WCE", 20, "CAR", 10, "Dustin Martin (RIC)", "", "Josh Kennedy (WCE)", "", "", ""],
-        ["R18", "Alex Rowland", "GEE", 16, "ESS", 33, "MEL", 12, "WBD", 43, "SYD", 41, "FRE", 22, "GWS", 32, "WCE", 23, "CAR", 26, "", "", "Lance Franklin (SYD)", "", "", ""]
+        ["R18", "Alex Rowland", "GEE", 16, "ESS", 33, "MEL", 12, "WBD", 43, "SYD", 41, "FRE", 22, "GWS", 32, "WCE", 23, "CAR", 26, "", "", "Lance Franklin (SYD)", "", "", ""],
+        ["R18", "Mann", "ADE", 8, "ESS", 37, "MEL", 5, "WBD", 28, "SYD", 34, "HAW", 20, "GWS", 14, "WCE", 13, "CAR", 7, "Tom Mitchell (HAW)", "", "", "", "", ""],
+        ["R18", "jamieling", "GEE", 8, "ESS", 22, "PTA", 19, "WBD", 29, "SYD", 31, "FRE", 13, "GWS", 9, "COL", 15, "BRI", 6, "Tom Mitchell (HAW)", "", "Lance Franklin (SYD)", "", "", ""],
+        ["R18", "Craig Terrington", "ADE", 13, "ESS", 31, "PTA", 19, "WBD", 28, "SYD", 33, "HAW", 12, "GWS", 31, "WCE", 6, "CAR", 9, "Joel Selwood (GEE)", "", "Lance Franklin (SYD)", "", "", ""],
+        ["R18", "Steve", "ADE", 18, "ESS", 21, "PTA", 18, "WBD", 16, "STK", 8, "HAW", 23, "GWS", 18, "COL", 21, "CAR", 32, "Tom Mitchell (HAW)", "", "", "", "", ""],
+        ["R18", "Shaydog", "ADE", 22, "ESS", 18, "MEL", 5, "WBD", 12, "STK", 19, "FRE", 21, "GWS", 17, "WCE", 15, "BRI", 18, "", "", "", "", "", ""],
+        ["R18", "ciniboi_12", "GEE", 14, "ESS", 22, "MEL", 4, "WBD", 12, "SYD", 37, "HAW", 17, "GWS", 8, "COL", 26, "BRI", 13, "", "", "", "", "", ""]
     ],
     fixtures: [
         ["R1", "Shaydog", "Dannelboyz", "Bigbadbrucey", "Flagpies", "Jono22", "ciniboi_12", "Craig Terrington", "Alex Rowland", "Mann", "Steve", "Harry Rowland", "Kaytley🐐", "jamieling", "Jeanille01"],
