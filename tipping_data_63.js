@@ -2,6 +2,7 @@ var tipping_data = {
     round: "R18",
     admin: "Administrator",
     tips: [
+        ["R18", "Administrator", "ADE", 21, "", "", "", "", "", ""],
         ["R17", "Administrator", "ESS", 61, "GEE", 3, "PTA", 70, "COL", 15, "SYD", 13, "ADE", 46, "RIC", 31, "WBD", 20, "WCE", 30, "Tom Mitchell (HAW)", 43, "Patrick Dangerfield (GEE)", 36, "", ""],
         ["R16", "Administrator", "ADE", 59, "DRW", 0, "ESS", 37, "SYD", 67, "GEE", 85, "STK", 67, "FRE", 4, "MEL", 8, "PTA", 32, "Tom Mitchell (HAW)", 39, "Gary Rohan (SYD)", 32, "", ""],
         ["R15", "Administrator", "SYD", 35, "WCE", 7, "ADE", 12, "GCS", 19, "DRW", 0, "RIC", 13, "BRI", 8, "HAW", 24, "STK", 9, "Patrick Dangerfield (GEE)", 45, "Michael Walters (FRE)", 38, "", ""],
@@ -251,7 +252,7 @@ var tipping_data = {
         ["R18", "Alex Rowland", "GEE", 16, "ESS", 33, "MEL", 12, "WBD", 43, "SYD", 41, "FRE", 22, "GWS", 32, "WCE", 23, "CAR", 26, "", "", "Lance Franklin (SYD)", "", "", ""],
         ["R18", "Mann", "ADE", 8, "ESS", 37, "MEL", 5, "WBD", 28, "SYD", 34, "HAW", 20, "GWS", 14, "WCE", 13, "CAR", 7, "Tom Mitchell (HAW)", "", "", "", "", ""],
         ["R18", "jamieling", "GEE", 8, "ESS", 22, "PTA", 19, "WBD", 29, "SYD", 31, "FRE", 13, "GWS", 9, "COL", 15, "BRI", 6, "Tom Mitchell (HAW)", "", "Lance Franklin (SYD)", "", "", ""],
-        ["R18", "Craig Terrington", "ADE", 13, "ESS", 31, "PTA", 19, "WBD", 28, "SYD", 33, "HAW", 12, "GWS", 31, "WCE", 6, "CAR", 9, "Joel Selwood (GEE)", "", "Lance Franklin (SYD)", "", "", ""],
+        ["R18", "Craig Terrington", "ADE", 13, "ESS", 31, "PTA", 19, "WBD", 28, "SYD", 33, "HAW", 12, "GWS", 31, "WCE", 6, "CAR", 9, "Joel Selwood (GEE)", 26, "Lance Franklin (SYD)", "", "", ""],
         ["R18", "Steve", "ADE", 18, "ESS", 21, "PTA", 18, "WBD", 16, "STK", 8, "HAW", 23, "GWS", 18, "COL", 21, "CAR", 32, "Tom Mitchell (HAW)", "", "", "", "", ""],
         ["R18", "Shaydog", "ADE", 22, "ESS", 18, "MEL", 5, "WBD", 12, "STK", 19, "FRE", 21, "GWS", 17, "WCE", 15, "BRI", 18, "", "", "", "", "", ""],
         ["R18", "ciniboi_12", "GEE", 14, "ESS", 22, "MEL", 4, "WBD", 12, "SYD", 37, "HAW", 17, "GWS", 8, "COL", 26, "BRI", 13, "", "", "", "", "", ""]
