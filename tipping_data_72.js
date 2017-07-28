@@ -256,7 +256,11 @@ var tipping_data = {
         ["R18", "Steve", "ADE", 18, "ESS", 21, "PTA", 18, "WBD", 16, "STK", 8, "HAW", 23, "GWS", 18, "COL", 21, "CAR", 32, "Tom Mitchell (HAW)", 37, "", "", "", ""],
         ["R18", "Shaydog", "ADE", 22, "ESS", 18, "MEL", 5, "WBD", 12, "STK", 19, "FRE", 21, "GWS", 17, "WCE", 15, "BRI", 18, "", "", "", "", "", ""],
         ["R18", "ciniboi_12", "GEE", 14, "ESS", 22, "MEL", 4, "WBD", 12, "SYD", 37, "HAW", 17, "GWS", 8, "COL", 26, "BRI", 13, "", "", "", "", "", ""],
-        ["R18", "Harry Rowland", "GEE", 14, "ESS", 15, "PTA", 27, "WBD", 41, "SYD", 48, "HAW", 15, "GWS", 25, "WCE", 27, "CAR", 15, "", "", "", "", "", ""]
+        ["R18", "Harry Rowland", "GEE", 14, "ESS", 15, "PTA", 27, "WBD", 41, "SYD", 48, "HAW", 15, "GWS", 25, "WCE", 27, "CAR", 15, "", "", "", "", "", ""],
+        ["R19", "Harry Rowland", "HAW", 15, "MEL", 49, "GWS", 40, "PTA", 20, "RIC", 30, "GEE", 30, "ESS", 10, "ADE", 40, "WCE", 40, "", "", "Eddie Betts (ADE)", "", "", ""],
+        ["R19", "Jeanille01", "HAW", 5, "MEL", 23, "GWS", 45, "PTA", 23, "RIC", 16, "GEE", 14, "WBD", 17, "ADE", 27, "WCE", 35, "Marcus Bontempelli (WBD)", "", "Josh Kennedy (WCE)", "", "", ""],
+        ["R19", "Steve", "SYD", 5, "MEL", 23, "GWS", 18, "STK", 37, "RIC", 16, "GEE", 38, "ESS", 21, "ADE", 33, "BRI", 26, "Tom Mitchell (HAW)", "", "", "", "", ""],
+        ["R19", "Mann", "HAW", 1, "MEL", 16, "GWS", 43, "PTA", 32, "RIC", 9, "GEE", 35, "ESS", 20, "ADE", 28, "WCE", 44, "", "", "Josh Kennedy (WCE)", "", "", ""]
     ],
     fixtures: [
         ["R1", "Shaydog", "Dannelboyz", "Bigbadbrucey", "Flagpies", "Jono22", "ciniboi_12", "Craig Terrington", "Alex Rowland", "Mann", "Steve", "Harry Rowland", "Kaytley🐐", "jamieling", "Jeanille01"],
