@@ -270,8 +270,8 @@ var tipping_data = {
         ["R19", "Jono22", "HAW", 5, "MEL", 15, "GWS", 30, "PTA", 35, "RIC", 9, "GEE", 10, "WBD", 14, "ADE", 25, "WCE", 42, "Tom Mitchell (HAW)", 26, "Josh Kennedy (WCE)", "", "", ""],
         ["R19", "Kaytley🐐", "HAW", 15, "MEL", 12, "GWS", 20, "STK", 10, "RIC", 25, "GEE", 25, "WBD", 15, "ADE", 25, "WCE", 30, "Rory Laird (ADE)", "", "", "", "", ""],
         ["R19", "Craig Terrington", "SYD", 13, "MEL", 31, "GWS", 39, "PTA", 28, "RIC", 35, "GEE", 43, "WBD", 9, "ADE", 26, "WCE", 46, "Tom Mitchell (HAW)", 26, "Josh Kennedy (WCE)", "", "", ""],
-        ["R19", "ciniboi_12", "SYD", 25, "MEL", 18, "GWS", 29, "PTA", 23, "RIC", 34, "GEE", 16, "WBD", 5, "ADE", 19, "WCE", 22, "Dustin Martin (RIC)", "", "Jeremy Cameron (GWS)", 9, "", ""],
-        ["R19", "Shaydog", "HAW", 12, "MEL", 20, "GWS", 24, "PTA", 28, "RIC", 16, "GEE", 14, "ESS", 8, "COL", 27, "WCE", 19, "Patrick Dangerfield (GEE)", "", "Josh Kennedy (WCE)", "", "", ""],
+        ["R19", "ciniboi_12", "SYD", 25, "MEL", 18, "GWS", 29, "PTA", 23, "RIC", 34, "GEE", 16, "WBD", 5, "ADE", 19, "WCE", 22, "Dustin Martin (RIC)", 34, "Jeremy Cameron (GWS)", 9, "", ""],
+        ["R19", "Shaydog", "HAW", 12, "MEL", 20, "GWS", 24, "PTA", 28, "RIC", 16, "GEE", 14, "ESS", 8, "COL", 27, "WCE", 19, "Patrick Dangerfield (GEE)", 23, "Josh Kennedy (WCE)", "", "", ""],
     ],
     fixtures: [
         ["R1", "Shaydog", "Dannelboyz", "Bigbadbrucey", "Flagpies", "Jono22", "ciniboi_12", "Craig Terrington", "Alex Rowland", "Mann", "Steve", "Harry Rowland", "Kaytley🐐", "jamieling", "Jeanille01"],
