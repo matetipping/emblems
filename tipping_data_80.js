@@ -2,7 +2,7 @@ var tipping_data = {
     round: "R19",
     admin: "Administrator",
     tips: [
-        ["R19", "Administrator", "HAW", 6, "", "", "", "", "", ""],
+        ["R19", "Administrator", "HAW", 6, "NTH", 4, "GWS", 12, "PTA", 2, "", "", "", "", "", ""],
         ["R18", "Administrator", "ADE", 21, "ESS", 27, "MEL", 23, "WBD", 54, "SYD", 42, "HAW", 52, "RIC", 19, "COL", 8, "BRI", 30, "Callan Ward (GWS)/Tom Mitchell (HAW)/Sebastian Ross (STK)", 37, "Ben Brown (NTH)/Liam Picken (WBD)", 38, "", ""],
         ["R17", "Administrator", "ESS", 61, "GEE", 3, "PTA", 70, "COL", 15, "SYD", 13, "ADE", 46, "RIC", 31, "WBD", 20, "WCE", 30, "Tom Mitchell (HAW)", 43, "Patrick Dangerfield (GEE)", 36, "", ""],
         ["R16", "Administrator", "ADE", 59, "DRW", 0, "ESS", 37, "SYD", 67, "GEE", 85, "STK", 67, "FRE", 4, "MEL", 8, "PTA", 32, "Tom Mitchell (HAW)", 39, "Gary Rohan (SYD)", 32, "", ""],
