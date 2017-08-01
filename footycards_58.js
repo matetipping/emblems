@@ -4,6 +4,7 @@ var t_award = {
   thumbnail : [30, 45],
   closeFunction : "fade",
   users : [
+    [3465693,"1 - Patrick Dangerfield","http://b3.ifrm.com/30609/91/0/p3005856/card_1_p_dangerfield.png","Geelong Cats","2017"],
     [3417755,"2 - Dustin Martin","http://b3.ifrm.com/30609/91/0/p3005857/card_2_d_martin.png","Richmond Tigers","2017"],
     [5061544,"3 - Marcus Bontempelli","http://b3.ifrm.com/30609/91/0/p3005858/card_3_m_bontempelli.png","Western Bulldogs","2017"],
     [3465669,"6 - Adelaide Crows","http://b3.ifrm.com/30609/91/0/p3005861/card_6_a_crows.png","Adelaide Crows","2017"],
@@ -70,6 +71,7 @@ var t_award = {
     [3417755,"49 - Jordan Lewis","http://b3.ifrm.com/30609/91/0/p3005904/card_49_j_lewis.png","Melbourne Demons","2017"],
     [3465706,"49 - Jordan Lewis","http://b3.ifrm.com/30609/91/0/p3005904/card_49_j_lewis.png","Melbourne Demons","2017"],
     [5053863,"50 - North Melbourne","http://b3.ifrm.com/30609/91/0/p3005905/card_50_n_kangaroos.png","North Melbourne","2017"],
+    [3465693,"54 - Port Adelaide","http://b3.ifrm.com/30609/91/0/p3005909/card_54_p_power.png","Port Adelaide","2017"],
     [3468145,"56 - Ollie Wines","http://b3.ifrm.com/30609/91/0/p3005911/card_56_o_wines.png","Port Adelaide","2017"],
     [3465669,"56 - Ollie Wines","http://b3.ifrm.com/30609/91/0/p3005911/card_56_o_wines.png","Port Adelaide","2017"],
     [3465693,"57 - Chad Wingard","http://b3.ifrm.com/30609/91/0/p3005912/card_57_c_wingard.png","Port Adelaide","2017"],
