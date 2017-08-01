@@ -6,6 +6,7 @@ var t_award = {
   users : [
     [3465693,"1 - Patrick Dangerfield","http://b3.ifrm.com/30609/91/0/p3005856/card_1_p_dangerfield.png","Geelong Cats","2017"],
     [3417755,"2 - Dustin Martin","http://b3.ifrm.com/30609/91/0/p3005857/card_2_d_martin.png","Richmond Tigers","2017"],
+    [3465693,"2 - Dustin Martin","http://b3.ifrm.com/30609/91/0/p3005857/card_2_d_martin.png","Richmond Tigers","2017"],
     [5061544,"3 - Marcus Bontempelli","http://b3.ifrm.com/30609/91/0/p3005858/card_3_m_bontempelli.png","Western Bulldogs","2017"],
     [3465669,"6 - Adelaide Crows","http://b3.ifrm.com/30609/91/0/p3005861/card_6_a_crows.png","Adelaide Crows","2017"],
     [3475635,"6 - Adelaide Crows","http://b3.ifrm.com/30609/91/0/p3005861/card_6_a_crows.png","Adelaide Crows","2017"],
