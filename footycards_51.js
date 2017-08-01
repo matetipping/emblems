@@ -10,6 +10,7 @@ var t_award = {
     [3475635,"6 - Adelaide Crows","http://b3.ifrm.com/30609/91/0/p3005861/card_6_a_crows.png","Adelaide Crows","2017"],
     [3468145,"7 - Rory Sloane","http://b3.ifrm.com/30609/91/0/p3005862/card_7_r_sloane.png","Adelaide Crows","2017"],
     [3465706,"7 - Rory Sloane","http://b3.ifrm.com/30609/91/0/p3005862/card_7_r_sloane.png","Adelaide Crows","2017"],
+    [3417755,"7 - Rory Sloane","http://b3.ifrm.com/30609/91/0/p3005862/card_7_r_sloane.png","Adelaide Crows","2017"],
     [3417755,"8 - Eddie Betts","http://b3.ifrm.com/30609/91/0/p3005863/card_8_e_betts.png","Adelaide Crows","2017"],
     [3465706,"8 - Eddie Betts","http://b3.ifrm.com/30609/91/0/p3005863/card_8_e_betts.png","Adelaide Crows","2017"],
     [3475635,"8 - Eddie Betts","http://b3.ifrm.com/30609/91/0/p3005863/card_8_e_betts.png","Adelaide Crows","2017"],
