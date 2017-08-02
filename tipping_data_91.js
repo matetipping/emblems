@@ -1,7 +1,8 @@
 var tipping_data = {
-    round: "R20",
+    round: "R21",
     admin: "Administrator",
     tips: [
+        ["R20", "Administrator", "SYD", 20, "", "", "", "", "", ""],
         ["R19", "Administrator", "HAW", 6, "NTH", 4, "GWS", 12, "PTA", 2, "RIC", 33, "GEE", 65, "WBD", 30, "DRW", 0, "WCE", 68, "Dayne Beams (BRI)", 41, "Joe Daniher (ESS)/Josh Kennedy (WCE)", 40, "", ""],
         ["R18", "Administrator", "ADE", 21, "ESS", 27, "MEL", 23, "WBD", 54, "SYD", 42, "HAW", 52, "RIC", 19, "COL", 8, "BRI", 30, "Callan Ward (GWS)/Tom Mitchell (HAW)/Sebastian Ross (STK)", 37, "Ben Brown (NTH)/Liam Picken (WBD)", 38, "", ""],
         ["R17", "Administrator", "ESS", 61, "GEE", 3, "PTA", 70, "COL", 15, "SYD", 13, "ADE", 46, "RIC", 31, "WBD", 20, "WCE", 30, "Tom Mitchell (HAW)", 43, "Patrick Dangerfield (GEE)", 36, "", ""],
@@ -271,7 +272,7 @@ var tipping_data = {
         ["R19", "Kaytley🐐", "HAW", 15, "MEL", 12, "GWS", 20, "STK", 10, "RIC", 25, "GEE", 25, "WBD", 15, "ADE", 25, "WCE", 30, "Rory Laird (ADE)", 25, "", "", "", ""],
         ["R19", "Craig Terrington", "SYD", 13, "MEL", 31, "GWS", 39, "PTA", 28, "RIC", 35, "GEE", 43, "WBD", 9, "ADE", 26, "WCE", 46, "Tom Mitchell (HAW)", 26, "Josh Kennedy (WCE)", 40, "", ""],
         ["R19", "ciniboi_12", "SYD", 25, "MEL", 18, "GWS", 29, "PTA", 23, "RIC", 34, "GEE", 16, "WBD", 5, "ADE", 19, "WCE", 22, "Dustin Martin (RIC)", 34, "Jeremy Cameron (GWS)", 9, "", ""],
-        ["R19", "Shaydog", "HAW", 12, "MEL", 20, "GWS", 24, "PTA", 28, "RIC", 16, "GEE", 14, "ESS", 8, "COL", 27, "WCE", 19, "Patrick Dangerfield (GEE)", 23, "Josh Kennedy (WCE)", 40, "", ""],
+        ["R19", "Shaydog", "HAW", 12, "MEL", 20, "GWS", 24, "PTA", 28, "RIC", 16, "GEE", 14, "ESS", 8, "COL", 27, "WCE", 19, "Patrick Dangerfield (GEE)", 23, "Josh Kennedy (WCE)", 40, "", ""]
     ],
     fixtures: [
         ["R1", "Shaydog", "Dannelboyz", "Bigbadbrucey", "Flagpies", "Jono22", "ciniboi_12", "Craig Terrington", "Alex Rowland", "Mann", "Steve", "Harry Rowland", "Kaytley🐐", "jamieling", "Jeanille01"],
