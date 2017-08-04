@@ -280,7 +280,7 @@ var tipping_data = {
         ["R20", "Jono22", "GEE", 15, "GWS", 12, "CAR", 5, "WBD", 11, "COL", 13, "FRE", 14, "STK", 18, "HAW", 22, "ADE", 17, "", "", "", "", "", ""],
         ["R20", "Jeanille01", "GEE", 14, "GWS", 18, "ESS", 17, "WBD", 25, "COL", 12, "FRE", 13, "STK", 12, "HAW", 25, "ADE", 18, "Tom Mitchell (HAW)", "", "", "", "", ""],
         ["R20", "ciniboi_12", "SYD", 4, "GWS", 10, "ESS", 24, "WBD", 43, "COL", 6, "FRE", 15, "WCE", 27, "RIC", 20, "PTA", 8, "", "", "", "", "", ""],
-
+        ["R20", "jamieling", "GEE", 17, "MEL", 9, "ESS", 33, "WBD", 25, "NTH", 13, "GCS", 15, "STK", 25, "RIC", 8, "ADE", 24, "", "", "", "", "", ""],
     ],
     fixtures: [
         ["R1", "Shaydog", "Dannelboyz", "Bigbadbrucey", "Flagpies", "Jono22", "ciniboi_12", "Craig Terrington", "Alex Rowland", "Mann", "Steve", "Harry Rowland", "Kaytley🐐", "jamieling", "Jeanille01"],
