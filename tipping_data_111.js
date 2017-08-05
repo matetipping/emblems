@@ -2,7 +2,7 @@ var tipping_data = {
     round: "R20",
     admin: "Administrator",
     tips: [
-        ["R20", "Administrator", "SYD", 46, "GWS", 35, "ESS", 8, "","","","","",""],
+        ["R20", "Administrator", "SYD", 46, "GWS", 35, "ESS", 8,"WBD", 14,"COL", 54,"FRE", 23, "","","","","",""],
         ["R19", "Administrator", "HAW", 6, "NTH", 4, "GWS", 12, "PTA", 2, "RIC", 33, "GEE", 65, "WBD", 30, "DRW", 0, "WCE", 68, "Dayne Beams (BRI)", 41, "Joe Daniher (ESS)/Josh Kennedy (WCE)", 40, "", ""],
         ["R18", "Administrator", "ADE", 21, "ESS", 27, "MEL", 23, "WBD", 54, "SYD", 42, "HAW", 52, "RIC", 19, "COL", 8, "BRI", 30, "Callan Ward (GWS)/Tom Mitchell (HAW)/Sebastian Ross (STK)", 37, "Ben Brown (NTH)/Liam Picken (WBD)", 38, "", ""],
         ["R17", "Administrator", "ESS", 61, "GEE", 3, "PTA", 70, "COL", 15, "SYD", 13, "ADE", 46, "RIC", 31, "WBD", 20, "WCE", 30, "Tom Mitchell (HAW)", 43, "Patrick Dangerfield (GEE)", 36, "", ""],
@@ -274,7 +274,7 @@ var tipping_data = {
         ["R19", "ciniboi_12", "SYD", 25, "MEL", 18, "GWS", 29, "PTA", 23, "RIC", 34, "GEE", 16, "WBD", 5, "ADE", 19, "WCE", 22, "Dustin Martin (RIC)", 34, "Jeremy Cameron (GWS)", 9, "", ""],
         ["R19", "Shaydog", "HAW", 12, "MEL", 20, "GWS", 24, "PTA", 28, "RIC", 16, "GEE", 14, "ESS", 8, "COL", 27, "WCE", 19, "Patrick Dangerfield (GEE)", 23, "Josh Kennedy (WCE)", 40, "", ""],
         ["R20", "Dannelboyz", "GEE", 2, "GWS", 8, "ESS", 31, "WBD", 46, "COL", 20, "GCS", 1, "STK", 5, "RIC", 5, "ADE", 22, "", "", "Joe Daniher (ESS)", 20, "", ""],
-        ["R20", "Harry Rowland", "GEE", 50, "GWS", 25, "ESS", 47, "WBD", 46, "COL", 23, "FRE", 20, "STK", 15, "HAW", 15, "ADE", 20, "", "", "Tom Rockliff (BRI)", "", "", ""],
+        ["R20", "Harry Rowland", "GEE", 50, "GWS", 25, "ESS", 47, "WBD", 46, "COL", 23, "FRE", 20, "STK", 15, "HAW", 15, "ADE", 20, "", "", "Tom Rockliff (BRI)", "12", "", ""],
         ["R20", "Bigbadbrucey", "GEE", 3, "GWS", 15, "ESS", 33, "WBD", 20, "COL", 11, "FRE", 10, "STK", 20, "RIC", 15, "ADE", 25, "", "", "Joe Daniher (ESS)", 20, "", ""],
         ["R20", "Mann", "SYD", 1, "GWS", 22, "ESS", 30, "WBD", 24, "NTH", 3, "FRE", 5, "STK", 4, "HAW", 8, "ADE", 9, "Tom Mitchell", "", "Josh Kennedy (WCE)", "", "", ""],
         ["R20", "Flagpies", "GEE", 7, "GWS", 14, "ESS", 24, "WBD", 30, "COL", 9, "FRE", 10, "WCE", 15, "HAW", 10, "ADE", 20, "Dustin Martin (RIC)", "", "Taylor Walker (ADE)", "", "", ""],
