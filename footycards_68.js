@@ -228,7 +228,7 @@ var t_award = {
     [3465693,"22 - Joel Selwood","http://b3.ifrm.com/30609/91/0/p1093563/22_joelselwood.png","Geelong Cats - Captain","2016"],
     [3468145,"24 - Harry Taylor","http://z4.ifrm.com/30609/91/0/p1093565/24_harrytaylor.png","Geelong Cats - Defender","2016"],
     [3465693,"26 - Tom Lynch","http://z4.ifrm.com/30609/91/0/p1093567/26_tomlynch.png","Gold Coast - Forward","2016"],
-    [3417755,"27 - Callan Ward","http://z4.ifrm.com/30609/91/0/p1093568/27_dionprestia.png","Gold Coast - Midfielder","2016"],
+    [3417755,"27 - Dion Prestia","http://z4.ifrm.com/30609/91/0/p1093568/27_dionprestia.png","Gold Coast - Midfielder","2016"],
     [3417755,"28 - Callan Ward","http://z4.ifrm.com/30609/91/0/p1093569/28_callanward.png","GWS Giants - Co-Captain","2016"],
     [3417755,"28 - Callan Ward","http://z4.ifrm.com/30609/91/0/p1093569/28_callanward.png","GWS Giants - Co-Captain","2016"],
     [3465669,"29 - Heath Shaw","http://z4.ifrm.com/30609/91/0/p1093570/29_heathshaw.png","GWS Giants - Defender","2016"],
