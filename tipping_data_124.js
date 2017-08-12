@@ -2,7 +2,7 @@ var tipping_data = {
     round: "R21",
     admin: "Administrator",
     tips: [
-        ["R21", "Administrator", "GWS", 48, "SYD", 104, "GEE", 14, "", "", "", "", "", ""],
+        ["R21", "Administrator", "GWS", 48, "SYD", 104, "GEE", 14, "BRI", 58, "", "", "", "", "", ""],
         ["R20", "Administrator", "SYD", 46, "GWS", 35, "ESS", 8, "WBD", 14, "COL", 54, "FRE", 23, "STK", 8, "RIC", 29, "ADE", 84, "Jordan Lewis (MEL)/Tom Mitchell (HAW)", 35, "Josh Kennedy (WCE)", 31,"",""],
         ["R19", "Administrator", "HAW", 6, "NTH", 4, "GWS", 12, "PTA", 2, "RIC", 33, "GEE", 65, "WBD", 30, "DRW", 0, "WCE", 68, "Dayne Beams (BRI)", 41, "Joe Daniher (ESS)/Josh Kennedy (WCE)", 40, "", ""],
         ["R18", "Administrator", "ADE", 21, "ESS", 27, "MEL", 23, "WBD", 54, "SYD", 42, "HAW", 52, "RIC", 19, "COL", 8, "BRI", 30, "Callan Ward (GWS)/Tom Mitchell (HAW)/Sebastian Ross (STK)", 37, "Ben Brown (NTH)/Liam Picken (WBD)", 38, "", ""],
@@ -299,7 +299,7 @@ var tipping_data = {
         ["R21", "Jeanille01", "WBD", 4, "SYD", 29, "GEE", 10, "BRI", 17, "ADE", 21, "WCE", 27, "MEL", 19, "HAW", 35, "PTA", 24, "", "", "", "", "", ""],
         ["R21", "Mann", "GWS", 10, "SYD", 40, "RIC", 16, "BRI", 10, "ADE", 29, "WCE", 36, "MEL", 12, "HAW", 30, "PTA", 26, "Tom Mitchell (HAW)", "", "", "", "", ""],
         ["R21", "jamieling", "GWS", 13, "SYD", 55, "GEE", 22, "BRI", 16, "ADE", 21, "WCE", 50, "STK", 8, "HAW", 25, "PTA", 33, "Tom Mitchell (HAW)", "", "", "", "", ""],
-        ["R21", "Steve", "GWS", 32, "SYD", 46, "GEE", 5, "GCS", 32, "ADE", 22, "WCE", 25, "MEL", 19, "HAW", 36, "PTA", 28, "", "", "Lance Franklin (SYD)", "", "", ""],
+        ["R21", "Steve", "GWS", 32, "SYD", 46, "GEE", 5, "GCS", 32, "ADE", 22, "WCE", 25, "MEL", 19, "HAW", 36, "PTA", 28, "", "", "Lance Franklin (SYD)", 26, "", ""],
         ["R21", "Shaydog", "GWS", 35, "SYD", 20, "GEE", 16, "GCS", 17, "ESS", 5, "WCE", 23, "MEL", 27, "HAW", 17, "PTA", 37, "Patrick Dangerfield (GEE)", 30, "Josh Kennedy (WCE)", "", "", ""],
         ["R21", "Craig Terrington", "GWS", 12, "SYD", 30, "RIC", 12, "BRI", 6, "ADE", 36, "WCE", 30, "MEL", 12, "HAW", 22, "PTA", 30, "Tom Mitchell (HAW)", "", "Lance Franklin (SYD)", 26, "", ""]
     ],
