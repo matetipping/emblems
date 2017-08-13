@@ -291,7 +291,7 @@ var tipping_data = {
         ["R21", "Dannelboyz", "GWS", 4, "SYD", 58, "GEE", 1, "GCS", 14, "ADE", 27, "WCE", 47, "MEL", 17, "HAW", 38, "PTA", 40, "Tom Mitchell (HAW)", 35, "", "", "", ""],
         ["R21", "Flagpies", "WBD", 14, "SYD", 28, "RIC", 10, "GCS", 17, "ESS", 10, "WCE", 25, "MEL", 30, "HAW", 20, "COL", 10, "", "", "", "", "", ""],
         ["R21", "Bigbadbrucey", "GWS", 8, "SYD", 41, "GEE", 10, "BRI", 15, "ADE", 27, "WCE", 45, "STK", 10, "HAW", 33, "PTA", 16, "Tom Mitchell (HAW)", 35, "Josh Kennedy (WCE)", 39, "", ""],
-        ["R21", "ciniboi_12", "GWS", 21, "SYD", 42, "GEE", 4, "BRI", 3, "ADE", 28, "WCE", 37, "STK", 12, "HAW", 23, "PTA", 8, "Adam Treloar (COL)", "", "Lance Franklin (SYD)", 26, "", ""],
+        ["R21", "ciniboi_12", "GWS", 21, "SYD", 42, "GEE", 4, "BRI", 3, "ADE", 28, "WCE", 37, "STK", 12, "HAW", 23, "PTA", 8, "Adam Treloar (COL)", 31, "Lance Franklin (SYD)", 26, "", ""],
         ["R21", "Alex Rowland", "GWS", 21, "SYD", 45, "GEE", 18, "BRI", 5, "ADE", 25, "WCE", 35, "MEL", 16, "HAW", 19, "PTA", 24, "", "", "", "", "", ""],
         ["R21", "Harry Rowland", "GWS", 20, "SYD", 15, "GEE", 25, "GCS", 20, "ADE", 30, "WCE", 55, "MEL", 25, "HAW", 20, "PTA", 20, "Lachie Neale (FRE)", 9, "Patrick Dangerfield (GEE)", 1, "", ""],
         ["R21", "Jono22", "GWS", 8, "SYD", 35, "RIC", 9, "BRI", 30, "ADE", 21, "WCE", 21, "MEL", 7, "HAW", 40, "PTA", 18, "", "", "", "", "", ""],
