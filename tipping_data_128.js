@@ -2,7 +2,7 @@ var tipping_data = {
     round: "R21",
     admin: "Administrator",
     tips: [
-        ["R21", "Administrator", "GWS", 48, "SYD", 104, "GEE", 14, "BRI", 58, "ADE", 43, "WCE", 17, "STK", 24, "HAW", 27, "", "", "", "", "", ""],
+        ["R21", "Administrator", "GWS", 48, "SYD", 104, "GEE", 14, "BRI", 58, "ADE", 43, "WCE", 17, "MEL", 24, "HAW", 27, "", "", "", "", "", ""],
         ["R20", "Administrator", "SYD", 46, "GWS", 35, "ESS", 8, "WBD", 14, "COL", 54, "FRE", 23, "STK", 8, "RIC", 29, "ADE", 84, "Jordan Lewis (MEL)/Tom Mitchell (HAW)", 35, "Josh Kennedy (WCE)", 31,"",""],
         ["R19", "Administrator", "HAW", 6, "NTH", 4, "GWS", 12, "PTA", 2, "RIC", 33, "GEE", 65, "WBD", 30, "DRW", 0, "WCE", 68, "Dayne Beams (BRI)", 41, "Joe Daniher (ESS)/Josh Kennedy (WCE)", 40, "", ""],
         ["R18", "Administrator", "ADE", 21, "ESS", 27, "MEL", 23, "WBD", 54, "SYD", 42, "HAW", 52, "RIC", 19, "COL", 8, "BRI", 30, "Callan Ward (GWS)/Tom Mitchell (HAW)/Sebastian Ross (STK)", 37, "Ben Brown (NTH)/Liam Picken (WBD)", 38, "", ""],
