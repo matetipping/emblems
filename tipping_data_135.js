@@ -314,7 +314,8 @@ var tipping_data = {
         ["R22", "Alex Rowland", "ADE", 15, "WBD", 6, "GEE", 36, "GWS", 31, "ESS", 38, "HAW", 41, "MEL", 43, "STK", 22, "RIC", 28, "Tom Mitchell (HAW)", "", "Joe Daniher (ESS)", "", "", ""],
         ["R22", "Steve", "SYD", 10, "PTA", 13, "GEE", 32, "GWS", 38, "ESS", 18, "HAW", 40, "MEL", 24, "STK", 18, "RIC", 20, "Tom Mitchell (HAW)", "", "Lance Franklin (SYD)", "", "", ""],
         ["R22", "Craig Terrington", "ADE", 8, "WBD", 9, "GEE", 36, "GWS", 35, "ESS", 42, "HAW", 39, "MEL", 41, "STK", 27, "RIC", 37, "Tom Mitchell (HAW)", "", "Joe Daniher (ESS)", "", "", ""],
-        ["R22", "Shaydog", "ADE", 35, "PTA", 24, "GEE", 21, "GWS", 18, "ESS", 17, "CAR", 11, "MEL", 35, "STK", 8, "RIC", 19, "Patrick Dangerfield (GEE)", "", "Lachie Neale (FRE)", "", "", ""]
+        ["R22", "Shaydog", "ADE", 35, "PTA", 24, "GEE", 21, "GWS", 18, "ESS", 17, "CAR", 11, "MEL", 35, "STK", 8, "RIC", 19, "Patrick Dangerfield (GEE)", "", "Lachie Neale (FRE)", "", "", ""],
+        ["R22", "ciniboi_12", "ADE", 4, "WBD", 10, "GEE", 22, "GWS", 27, "ESS", 34, "HAW", 13, "MEL", 57, "STK", 38, "RIC", 17, "Clayton Oliver (MEL)", "", "Joe Daniher (ESS)", "", "", ""]
     ],
     fixtures: [
         ["R1", "Shaydog", "Dannelboyz", "Bigbadbrucey", "Flagpies", "Jono22", "ciniboi_12", "Craig Terrington", "Alex Rowland", "Mann", "Steve", "Harry Rowland", "Kaytley🐐", "jamieling", "Jeanille01"],
