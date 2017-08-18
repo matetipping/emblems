@@ -301,7 +301,7 @@ var tipping_data = {
         ["R21", "jamieling", "GWS", 13, "SYD", 55, "GEE", 22, "BRI", 16, "ADE", 21, "WCE", 50, "STK", 8, "HAW", 25, "PTA", 33, "Tom Mitchell (HAW)", 35, "", "", "", ""],
         ["R21", "Steve", "GWS", 32, "SYD", 46, "GEE", 5, "GCS", 32, "ADE", 22, "WCE", 25, "MEL", 19, "HAW", 36, "PTA", 28, "", "", "Lance Franklin (SYD)", 26, "", ""],
         ["R21", "Shaydog", "GWS", 35, "SYD", 20, "GEE", 16, "GCS", 17, "ESS", 5, "WCE", 23, "MEL", 27, "HAW", 17, "PTA", 37, "Patrick Dangerfield (GEE)", 30, "Josh Kennedy (WCE)", 39, "", ""],
-        ["R21", "Craig Terrington", "GWS", 12, "SYD", 30, "RIC", 12, "BRI", 6, "ADE", 36, "WCE", 30, "MEL", 12, "HAW", 22, "PTA", 30, "Tom Mitchell (HAW)", 35, "Lance Franklin (SYD)", 26, "", ""]
+        ["R21", "Craig Terrington", "GWS", 12, "SYD", 30, "RIC", 12, "BRI", 6, "ADE", 36, "WCE", 30, "MEL", 12, "HAW", 22, "PTA", 30, "Tom Mitchell (HAW)", 35, "Lance Franklin (SYD)", 26, "", ""],
         ["R22", "Jeanille01", "ADE", 8, "PTA", 15, "GEE", 18, "GWS", 30, "ESS", 20, "HAW", 20, "MEL", 40, "STK", 10, "RIC", 30, "", "", "", "", "", ""],
         ["R22", "Jono22", "ADE", 2, "PTA", 17, "COL", 5, "GWS", 16, "GCS", 9, "HAW", 36, "MEL", 60, "STK", 7, "RIC", 19, "", "", "", "", "", ""],
         ["R22", "Bigbadbrucey", "ADE", 11, "PTA", 12, "GEE", 22, "GWS", 28, "ESS", 25, "HAW", 30, "MEL", 38, "STK", 40, "RIC", 25, "Seb Ross (STK)", "", "Joe Daniher (ESS)", "", "", ""],
