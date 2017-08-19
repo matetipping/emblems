@@ -312,7 +312,7 @@ var tipping_data = {
         ["R22", "Kaytley🐐", "ADE", 15, "PTA", 25, "GEE", 15, "WCE", 25, "ESS", 20, "HAW", 20, "BRI", 10, "STK", 15, "RIC", 20, "Rory Laird (ADE)", 34, "Josh Kennedy (WCE)", 25, "", ""],
         ["R22", "Flagpies", "ADE", 16, "WBD", 20, "COL", 17, "GWS", 28, "ESS", 25, "HAW", 16, "MEL", 25, "STK", 17, "FRE", 12, "Tom Mitchell (HAW)", 44, "Jonathon Patton (GWS)", 8, "", ""],
         ["R22", "jamieling", "ADE", 16, "PTA", 19, "GEE", 27, "GWS", 38, "ESS", 34, "HAW", 30, "MEL", 35, "STK", 22, "RIC", 31, "Tom Mitchell (HAW)", 44, "Joe Daniher (ESS)", 6, "", ""],
-        ["R22", "Alex Rowland", "ADE", 15, "WBD", 6, "GEE", 36, "GWS", 31, "ESS", 38, "HAW", 41, "MEL", 43, "STK", 22, "RIC", 28, "Tom Mitchell (HAW)", 44, "Joe Daniher (ESS)", "6, "", ""],
+        ["R22", "Alex Rowland", "ADE", 15, "WBD", 6, "GEE", 36, "GWS", 31, "ESS", 38, "HAW", 41, "MEL", 43, "STK", 22, "RIC", 28, "Tom Mitchell (HAW)", 44, "Joe Daniher (ESS)", 6, "", ""],
         ["R22", "Steve", "SYD", 10, "PTA", 13, "GEE", 32, "GWS", 38, "ESS", 18, "HAW", 40, "MEL", 24, "STK", 18, "RIC", 20, "Tom Mitchell (HAW)", 44, "Lance Franklin (SYD)", 19, "", ""],
         ["R22", "Craig Terrington", "ADE", 8, "WBD", 9, "GEE", 36, "GWS", 35, "ESS", 42, "HAW", 39, "MEL", 41, "STK", 27, "RIC", 37, "Tom Mitchell (HAW)", 44, "Joe Daniher (ESS)", 6, "", ""],
         ["R22", "Shaydog", "ADE", 35, "PTA", 24, "GEE", 21, "GWS", 18, "ESS", 17, "CAR", 11, "MEL", 35, "STK", 8, "RIC", 19, "Patrick Dangerfield (GEE)", 32, "Lachie Neale (FRE)", "", "", ""],
