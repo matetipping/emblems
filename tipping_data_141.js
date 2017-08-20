@@ -2,7 +2,7 @@ var tipping_data = {
     round: "R22",
     admin: "Administrator",
     tips: [
-        ["R22", "Administrator", "SYD", 3, "PTA", 17, "GEE", 11, "GWS", 21, "ESS", 33, "CAR", 7, "MEL", 13, "STK", 39, "", "", "", "", "", ""],
+        ["R22", "Administrator", "SYD", 3, "PTA", 17, "GEE", 11, "GWS", 21, "ESS", 33, "CAR", 7, "MEL", 13, "STK", 39, "RIC", 104, "", "", "", "", "", ""],
         ["R21", "Administrator", "GWS", 48, "SYD", 104, "GEE", 14, "BRI", 58, "ADE", 43, "WCE", 17, "MEL", 24, "HAW", 27, "PTA", 27, "Matt Crouch (ADE)/Nathan Jones (MEL)/Tom Mitchell (HAW)", 35, "Josh Kennedy (WCE)", "39", "", ""],
         ["R20", "Administrator", "SYD", 46, "GWS", 35, "ESS", 8, "WBD", 14, "COL", 54, "FRE", 23, "STK", 8, "RIC", 29, "ADE", 84, "Jordan Lewis (MEL)/Tom Mitchell (HAW)", 35, "Josh Kennedy (WCE)", 31,"",""],
         ["R19", "Administrator", "HAW", 6, "NTH", 4, "GWS", 12, "PTA", 2, "RIC", 33, "GEE", 65, "WBD", 30, "DRW", 0, "WCE", 68, "Dayne Beams (BRI)", 41, "Joe Daniher (ESS)/Josh Kennedy (WCE)", 40, "", ""],
@@ -308,7 +308,7 @@ var tipping_data = {
         ["R22", "Bigbadbrucey", "ADE", 11, "PTA", 12, "GEE", 22, "GWS", 28, "ESS", 25, "HAW", 30, "MEL", 38, "STK", 40, "RIC", 25, "Seb Ross (STK)", 36, "Joe Daniher (ESS)", 6, "", ""],
         ["R22", "Dannelboyz", "SYD", 4, "PTA", 13, "GEE", 29, "GWS", 28, "ESS", 19, "HAW", 40, "MEL", 36, "STK", 22, "RIC", 28, "Tom Mitchell (HAW)", 44, "Joe Daniher (ESS)", 6, "", ""],
         ["R22", "Mann", "ADE", 30, "WBD", 20, "GEE", 40, "GWS", 40, "ESS", 50, "HAW", 40, "MEL", 40, "STK", 30, "RIC", 30, "", "", "", "", "", ""],
-        ["R22", "Harry Rowland", "ADE", 45, "PTA", 30, "GEE", 50, "GWS", 20, "ESS", 25, "HAW", 20, "MEL", 50, "STK", 40, "RIC", 30, "Luke Parker (SYD)", 30, "Dustin Martin (RIC)", "", "", ""],
+        ["R22", "Harry Rowland", "ADE", 45, "PTA", 30, "GEE", 50, "GWS", 20, "ESS", 25, "HAW", 20, "MEL", 50, "STK", 40, "RIC", 30, "Luke Parker (SYD)", 30, "Dustin Martin (RIC)", 12, "", ""],
         ["R22", "Kaytley🐐", "ADE", 15, "PTA", 25, "GEE", 15, "WCE", 25, "ESS", 20, "HAW", 20, "BRI", 10, "STK", 15, "RIC", 20, "Rory Laird (ADE)", 34, "Josh Kennedy (WCE)", 25, "", ""],
         ["R22", "Flagpies", "ADE", 16, "WBD", 20, "COL", 17, "GWS", 28, "ESS", 25, "HAW", 16, "MEL", 25, "STK", 17, "FRE", 12, "Tom Mitchell (HAW)", 44, "Jonathon Patton (GWS)", 8, "", ""],
         ["R22", "jamieling", "ADE", 16, "PTA", 19, "GEE", 27, "GWS", 38, "ESS", 34, "HAW", 30, "MEL", 35, "STK", 22, "RIC", 31, "Tom Mitchell (HAW)", 44, "Joe Daniher (ESS)", 6, "", ""],
