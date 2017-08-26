@@ -325,11 +325,11 @@ var tipping_data = {
         ["R23", "Flagpies", "HAW", 6, "COL", 10, "NTH", 11, "SYD", 24, "GEE", 24, "PTA", 24, "ESS", 32, "RIC", 20, "ADE", 28, "Dustin Martin (RIC)", "", "Tom Hawkins (GEE)", "", "", ""],
         ["R23", "Jono22", "HAW", 15, "MEL", 14, "BRI", 17, "SYD", 27, "GWS", 5, "PTA", 50, "ESS", 21, "RIC", 14, "ADE", 19, "", "", "", "", "", ""],
         ["R23", "Bigbadbrucey", "HAW", 5, "MEL", 5, "BRI", 25, "SYD", 27, "GEE", 10, "PTA", 38, "ESS", 15, "RIC", 5, "ADE", 22, "", "", "", "", "", ""],
-        ["R23", "Harry Rowland", "HAW", 15, "COL", 15, "NTH", 20, "SYD", 20, "GEE", 25, "PTA", 45, "ESS", 32, "RIC", 22, "ADE", 30, "Tom Mitchell (HAW)", "32", "Josh Kennedy (WCE)", "", "", ""],
-        ["R23", "Craig Terrington", "WBD", 5, "MEL", 23, "BRI", 21, "SYD", 42, "GWS", 8, "PTA", 38, "ESS", 32, "RIC", 35, "ADE", 29, "Tom Mitchell (HAW)", "32", "Lance Franklin (SYD)", "", "", ""],
-        ["R23", "ciniboi_12", "WBD", 14, "MEL", 26, "NTH", 7, "SYD", 39, "GWS", 9, "PTA", 34, "ESS", 22, "RIC", 12, "ADE", 19, "Tom Mitchell (HAW)", "32", "Lance Franklin (SYD)", "", "", ""],
-        ["R23", "Kaytley🐐", "HAW", 20, "MEL", 15, "NTH", 20, "SYD", 25, "GWS", 20, "PTA", 15, "ESS", 20, "RIC", 25, "WCE", 30, "Tom Mitchell (HAW)", "32", "Josh Kennedy (WCE)", "", "", ""],
-        ["R23", "jamieling", "HAW", 15, "MEL", 20, "BRI", 27, "SYD", 60, "GEE", 17, "PTA", 53, "ESS", 45, "RIC", 20, "ADE", 25, "Tom Mitchell (HAW)", "32", "Joe Daniher (ESS)", "", "", ""],
+        ["R23", "Harry Rowland", "HAW", 15, "COL", 15, "NTH", 20, "SYD", 20, "GEE", 25, "PTA", 45, "ESS", 32, "RIC", 22, "ADE", 30, "Tom Mitchell (HAW)", 32, "Josh Kennedy (WCE)", "", "", ""],
+        ["R23", "Craig Terrington", "WBD", 5, "MEL", 23, "BRI", 21, "SYD", 42, "GWS", 8, "PTA", 38, "ESS", 32, "RIC", 35, "ADE", 29, "Tom Mitchell (HAW)", 32, "Lance Franklin (SYD)", "", "", ""],
+        ["R23", "ciniboi_12", "WBD", 14, "MEL", 26, "NTH", 7, "SYD", 39, "GWS", 9, "PTA", 34, "ESS", 22, "RIC", 12, "ADE", 19, "Tom Mitchell (HAW)", 32, "Lance Franklin (SYD)", "", "", ""],
+        ["R23", "Kaytley🐐", "HAW", 20, "MEL", 15, "NTH", 20, "SYD", 25, "GWS", 20, "PTA", 15, "ESS", 20, "RIC", 25, "WCE", 30, "Tom Mitchell (HAW)", 32, "Josh Kennedy (WCE)", "", "", ""],
+        ["R23", "jamieling", "HAW", 15, "MEL", 20, "BRI", 27, "SYD", 60, "GEE", 17, "PTA", 53, "ESS", 45, "RIC", 20, "ADE", 25, "Tom Mitchell (HAW)", 32, "Joe Daniher (ESS)", "", "", ""],
         ["R23", "Alex Rowland", "HAW", 22, "MEL", 16, "BRI", 24, "SYD", 45, "GEE", 12, "PTA", 58, "ESS", 44, "STK", 15, "ADE", 20, "", "", "Joe Daniher (ESS)", "", "", ""],
         ["R23", "Shaydog", "HAW", 3, "COL", 30, "NTH", 12, "SYD", 27, "GEE", 24, "PTA", 24, "ESS", 21, "STK", 9, "ADE", 30, "", "", "", "", "", ""]
 
