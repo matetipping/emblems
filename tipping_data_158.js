@@ -356,6 +356,6 @@ var tipping_data = {
         ["R21", "Craig Terrington", "Dannelboyz", "Mann", "Jono22", "Harry Rowland", "Bigbadbrucey", "jamieling", "Shaydog", "Jeanille01", "Flagpies", "Kaytley🐐", "ciniboi_12", "Steve", "Alex Rowland"],
         ["R22", "Dannelboyz", "Alex Rowland", "ciniboi_12", "Steve", "Flagpies", "Kaytley🐐", "Shaydog", "Jeanille01", "Bigbadbrucey", "jamieling", "Jono22", "Harry Rowland", "Craig Terrington", "Mann"],
         ["R23", "Mann", "Dannelboyz", "Harry Rowland", "Craig Terrington", "jamieling", "Jono22", "Jeanille01", "Bigbadbrucey", "Kaytley🐐", "Shaydog", "Steve", "Flagpies", "Alex Rowland", "ciniboi_12"],
-        ["F1", "Craig Terrington", "ciniboi_12", "Kaytley🐐", "Dannelboyz", "jamieling", "Jono22", "Bigbadbrucey", "Mann", "Alex Rowland", "Jeanille01", "Harry Rowland", "Steve", "Shaydog", "Flagpies"],
+        ["F1", "Craig Terrington", "ciniboi_12", "Kaytley🐐", "Dannelboyz", "jamieling", "Jono22", "Bigbadbrucey", "Mann"],
     ]
 }
