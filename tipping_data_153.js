@@ -321,7 +321,7 @@ var tipping_data = {
         ["R23", "Jeanille01", "HAW", 15, "MEL", 20, "BRI", 5, "SYD", 24, "GWS", 4, "PTA", 45, "ESS", 40, "RIC", 8, "ADE", 30, "", "", "", "", "", ""],
         ["R23", "Dannelboyz", "HAW", 30, "MEL", 25, "BRI", 10, "SYD", 78, "GEE", 8, "PTA", 45, "ESS", 20, "RIC", 27, "ADE", 11, "", "", "", "", "", ""],
         ["R23", "Mann", "HAW", 20, "MEL", 18, "BRI", 10, "SYD", 45, "GWS", 8, "PTA", 50, "ESS", 46, "RIC", 18, "ADE", 20, "Sam Mitchell (WCE)", "", "Joe Daniher (ESS)", 15, "", ""],
-        ["R23", "Steve", "HAW", 32, "MEL", 15, "NTH", 18, "SYD", 38, "GEE", 8, "PTA", 26, "ESS", , "RIC", 20, "ADE", 28, "", "", "", "", "", ""],
+        ["R23", "Steve", "HAW", 32, "MEL", 15, "NTH", 18, "SYD", 38, "GEE", 8, "PTA", 26, "ESS", 0, "RIC", 20, "ADE", 28, "", "", "", "", "", ""],
         ["R23", "Flagpies", "HAW", 6, "COL", 10, "NTH", 11, "SYD", 24, "GEE", 24, "PTA", 24, "ESS", 32, "RIC", 20, "ADE", 28, "Dustin Martin (RIC)", 36, "Tom Hawkins (GEE)", 14, "", ""],
         ["R23", "Jono22", "HAW", 15, "MEL", 14, "BRI", 17, "SYD", 27, "GWS", 5, "PTA", 50, "ESS", 21, "RIC", 14, "ADE", 19, "", "", "", "", "", ""],
         ["R23", "Bigbadbrucey", "HAW", 5, "MEL", 5, "BRI", 25, "SYD", 27, "GEE", 10, "PTA", 38, "ESS", 15, "RIC", 5, "ADE", 22, "", "", "", "", "", ""],
