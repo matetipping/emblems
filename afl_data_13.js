@@ -232,7 +232,6 @@ var afl_data = {
         ["F1", "SYD", "ESS", "Full Time Margin"],
         ["F1", "PTA", "WCE", "Half Time Margin"],
         ["F1", "PTA", "WCE", "Full Time Margin"],
-        ["F1", "PTA", "WCE", "Full Time Margin"],
         ["F2", "", "", "Quarter Time Margin"],
         ["F2", "", "", "Half Time Margin"],
         ["F2", "", "", "Three-Quarter Time Margin"],
