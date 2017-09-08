@@ -2,7 +2,7 @@ var tipping_data = {
     round: "F1",
     admin: "Administrator",
     tips: [
-        ["F1", "Administrator", "ADE", 44, "ADE", 36, "RIC", 9, "", "", "", "", "", ""],
+        ["F1", "Administrator", "ADE", 44, "ADE", 36, "RIC", 9, "RIC", 51, "", "", "", "", "", ""],
         ["R23", "Administrator", "HAW", 9, "COL", 16, "NTH", 51, "SYD", 81, "GEE", 44, "PTA", 115, "ESS", 15, "RIC", 41, "WCE", 29, "Matt Crouch (ADE)", 41, "Lance Franklin (SYD)", 62, "", ""],
         ["R22", "Administrator", "SYD", 3, "PTA", 17, "GEE", 11, "GWS", 21, "ESS", 33, "CAR", 7, "MEL", 13, "STK", 39, "RIC", 104, "Tom Mitchell (HAW)", 44, "Jacob Townsend (RIC)", 37, "", ""],
         ["R21", "Administrator", "GWS", 48, "SYD", 104, "GEE", 14, "BRI", 58, "ADE", 43, "WCE", 17, "MEL", 24, "HAW", 27, "PTA", 27, "Matt Crouch (ADE)/Nathan Jones (MEL)/Tom Mitchell (HAW)", 35, "Josh Kennedy (WCE)", "39", "", ""],
@@ -333,14 +333,14 @@ var tipping_data = {
         ["R23", "jamieling", "HAW", 15, "MEL", 20, "BRI", 27, "SYD", 60, "GEE", 17, "PTA", 53, "ESS", 45, "RIC", 20, "ADE", 25, "Tom Mitchell (HAW)", 32, "Joe Daniher (ESS)", 15, "", ""],
         ["R23", "Alex Rowland", "HAW", 22, "MEL", 16, "BRI", 24, "SYD", 45, "GEE", 12, "PTA", 58, "ESS", 44, "STK", 15, "ADE", 20, "", "", "Joe Daniher (ESS)", 15, "", ""],
         ["R23", "Shaydog", "HAW", 3, "COL", 30, "NTH", 12, "SYD", 27, "GEE", 24, "PTA", 24, "ESS", 21, "STK", 9, "ADE", 30, "", "", "", "", "", ""],
-        ["F1", "Dannelboyz", "ADE", 14, "ADE", 6, "GEE", 20, "GEE", 14, "SYD", 22, "SYD", 34, "WCE", 4, "PTA", 29, "Dustin Martin (RIC)", "", "", "", "", ""],
-        ["F1", "Jono22", "ADE", 5, "GWS", 3, "GEE", 17, "RIC", 9, "SYD", 21, "SYD", 2, "WCE", 14, "WCE", 8, "Dustin Martin (RIC)", "", "", "", "", ""],
-        ["F1", "Bigbadbrucey", "ADE", 10, "ADE", 17, "GEE", 5, "RIC", 7, "SYD", 17, "SYD", 25, "PTA", 9, "PTA", 30, "Dustin Martin (RIC)", "", "Lance Franklin (SYD)", "", "", ""],
+        ["F1", "Dannelboyz", "ADE", 14, "ADE", 6, "GEE", 20, "GEE", 14, "SYD", 22, "SYD", 34, "WCE", 4, "PTA", 29, "Dustin Martin (RIC)", 28, "", "", "", ""],
+        ["F1", "Jono22", "ADE", 5, "GWS", 3, "GEE", 17, "RIC", 9, "SYD", 21, "SYD", 2, "WCE", 14, "WCE", 8, "Dustin Martin (RIC)", 28, "", "", "", ""],
+        ["F1", "Bigbadbrucey", "ADE", 10, "ADE", 17, "GEE", 5, "RIC", 7, "SYD", 17, "SYD", 25, "PTA", 9, "PTA", 30, "Dustin Martin (RIC)", 28, "Lance Franklin (SYD)", "", "", ""],
         ["F1", "ciniboi_12", "ADE", 14, "ADE", 28, "RIC", 4, "GEE", 17, "SYD", 36, "SYD", 21, "PTA", 19, "PTA", 3, "Matt Crouch (ADE)", 31, "", "", "", ""],
-        ["F1", "jamieling", "ADE", 6, "ADE", 17, "GEE", 8, "GEE", 16, "SYD", 16, "SYD", 25, "PTA", 3, "PTA", 19, "Patrick Dangerfield (GEE)", "", "Lance Franklin (SYD)", "", "", ""],
+        ["F1", "jamieling", "ADE", 6, "ADE", 17, "GEE", 8, "GEE", 16, "SYD", 16, "SYD", 25, "PTA", 3, "PTA", 19, "Patrick Dangerfield (GEE)", 31, "Lance Franklin (SYD)", "", "", ""],
         ["F1", "Craig Terrington", "ADE", 9, "ADE", 15, "RIC", 5, "GEE", 12, "SYD", 23, "SYD", 38, "PTA", 5, "PTA", 24, "Matt Crouch (ADE)", 31, "Lance Franklin (SYD)", "", "", ""],
-        ["F1", "Kaytley🐐", "GWS", 20, "ADE", 15, "GEE", 25, "RIC", 10, "SYD", 15, "SYD", 25, "PTA", 15, "PTA", 20, "Patrick Dangerfield (GEE)", "", "Josh Kennedy (WCE)", "", "", ""],
-        ["F1", "Mann", "GWS", 4, "ADE", 15, "RIC", 12, "RIC", 8, "ESS", 5, "SYD", 17, "PTA", 16, "PTA", 22, "Patrick Dangerfield (GEE)", "", "", "", "", ""]
+        ["F1", "Kaytley🐐", "GWS", 20, "ADE", 15, "GEE", 25, "RIC", 10, "SYD", 15, "SYD", 25, "PTA", 15, "PTA", 20, "Patrick Dangerfield (GEE)", 31, "Josh Kennedy (WCE)", "", "", ""],
+        ["F1", "Mann", "GWS", 4, "ADE", 15, "RIC", 12, "RIC", 8, "ESS", 5, "SYD", 17, "PTA", 16, "PTA", 22, "Patrick Dangerfield (GEE)", 31, "", "", "", ""]
     ],
     fixtures: [
         ["R1", "Shaydog", "Dannelboyz", "Bigbadbrucey", "Flagpies", "Jono22", "ciniboi_12", "Craig Terrington", "Alex Rowland", "Mann", "Steve", "Harry Rowland", "Kaytley🐐", "jamieling", "Jeanille01"],
