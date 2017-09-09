@@ -2,7 +2,7 @@ var tipping_data = {
     round: "F1",
     admin: "Administrator",
     tips: [
-        ["F1", "Administrator", "ADE", 44, "ADE", 36, "RIC", 9, "RIC", 51, "SYD", 61, "SYD", 65, "WCE", 11, "", "", "", "", "", ""],
+        ["F1", "Administrator", "ADE", 44, "ADE", 36, "RIC", 9, "RIC", 51, "SYD", 61, "SYD", 65, "WCE", 11, "WCE", 2, "", "", "", "", "", ""],
         ["R23", "Administrator", "HAW", 9, "COL", 16, "NTH", 51, "SYD", 81, "GEE", 44, "PTA", 115, "ESS", 15, "RIC", 41, "WCE", 29, "Matt Crouch (ADE)", 41, "Lance Franklin (SYD)", 62, "", ""],
         ["R22", "Administrator", "SYD", 3, "PTA", 17, "GEE", 11, "GWS", 21, "ESS", 33, "CAR", 7, "MEL", 13, "STK", 39, "RIC", 104, "Tom Mitchell (HAW)", 44, "Jacob Townsend (RIC)", 37, "", ""],
         ["R21", "Administrator", "GWS", 48, "SYD", 104, "GEE", 14, "BRI", 58, "ADE", 43, "WCE", 17, "MEL", 24, "HAW", 27, "PTA", 27, "Matt Crouch (ADE)/Nathan Jones (MEL)/Tom Mitchell (HAW)", 35, "Josh Kennedy (WCE)", "39", "", ""],
@@ -339,7 +339,7 @@ var tipping_data = {
         ["F1", "ciniboi_12", "ADE", 14, "ADE", 28, "RIC", 4, "GEE", 17, "SYD", 36, "SYD", 21, "PTA", 19, "PTA", 3, "Matt Crouch (ADE)", 31, "", "", "", ""],
         ["F1", "jamieling", "ADE", 6, "ADE", 17, "GEE", 8, "GEE", 16, "SYD", 16, "SYD", 25, "PTA", 3, "PTA", 19, "Patrick Dangerfield (GEE)", 31, "Lance Franklin (SYD)", 25, "", ""],
         ["F1", "Craig Terrington", "ADE", 9, "ADE", 15, "RIC", 5, "GEE", 12, "SYD", 23, "SYD", 38, "PTA", 5, "PTA", 24, "Matt Crouch (ADE)", 31, "Lance Franklin (SYD)", 25, "", ""],
-        ["F1", "Kaytley🐐", "GWS", 20, "ADE", 15, "GEE", 25, "RIC", 10, "SYD", 15, "SYD", 25, "PTA", 15, "PTA", 20, "Patrick Dangerfield (GEE)", 31, "Josh Kennedy (WCE)", "", "", ""],
+        ["F1", "Kaytley🐐", "GWS", 20, "ADE", 15, "GEE", 25, "RIC", 10, "SYD", 15, "SYD", 25, "PTA", 15, "PTA", 20, "Patrick Dangerfield (GEE)", 31, "Josh Kennedy (WCE)", 18, "", ""],
         ["F1", "Mann", "GWS", 4, "ADE", 15, "RIC", 12, "RIC", 8, "ESS", 5, "SYD", 17, "PTA", 16, "PTA", 22, "Patrick Dangerfield (GEE)", 31, "", "", "", ""]
     ],
     fixtures: [
