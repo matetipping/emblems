@@ -340,7 +340,11 @@ var tipping_data = {
         ["F1", "jamieling", "ADE", 6, "ADE", 17, "GEE", 8, "GEE", 16, "SYD", 16, "SYD", 25, "PTA", 3, "PTA", 19, "Patrick Dangerfield (GEE)", 31, "Lance Franklin (SYD)", 25, "", ""],
         ["F1", "Craig Terrington", "ADE", 9, "ADE", 15, "RIC", 5, "GEE", 12, "SYD", 23, "SYD", 38, "PTA", 5, "PTA", 24, "Matt Crouch (ADE)", 31, "Lance Franklin (SYD)", 25, "", ""],
         ["F1", "Kaytley🐐", "GWS", 20, "ADE", 15, "GEE", 25, "RIC", 10, "SYD", 15, "SYD", 25, "PTA", 15, "PTA", 20, "Patrick Dangerfield (GEE)", 31, "Josh Kennedy (WCE)", 18, "", ""],
-        ["F1", "Mann", "GWS", 4, "ADE", 15, "RIC", 12, "RIC", 8, "ESS", 5, "SYD", 17, "PTA", 16, "PTA", 22, "Patrick Dangerfield (GEE)", 31, "", "", "", ""]
+        ["F1", "Mann", "GWS", 4, "ADE", 15, "RIC", 12, "RIC", 8, "ESS", 5, "SYD", 17, "PTA", 16, "PTA", 22, "Patrick Dangerfield (GEE)", 31, "", "", "", ""],
+        ["F2", "Bigbadbrucey", "SYD", 8, "GEE", 7, "SYD", 10, "GEE", 5, "GWS", 15, "GWS", 19, "GWS", 25, "GWS", 20, "Patrick Dangerfield (GEE)", "", "", "", "", ""],
+        ["F2", "Dannelboyz", "SYD", 5, "SYD", 10, "GEE", 7, "SYD", 19, "GWS", 1, "WCE", 3, "GWS", 15, "GWS", 20, "Patrick Dangerfield (GEE)", "", "Lance Franklin (SYD)", "", "", ""],
+        ["F2", "jamieling", "SYD", 5, "GEE", 2, "GEE", 5, "GEE", 17, "WCE", 2, "GWS", 3, "GWS", 5, "GWS", 6, "Patrick Dangerfield (GEE)", "", "", "", "", ""],
+        ["F2", "ciniboi_12", "GEE", 10, "SYD", 4, "SYD", 23, "SYD", 13, "GWS", 26, "GWS", 33, "GWS", 17, "GWS", 36, "Josh Kelly (GWS)", "", "Jonathon Patton (GWS)", "", "", ""]
     ],
     fixtures: [
         ["R1", "Shaydog", "Dannelboyz", "Bigbadbrucey", "Flagpies", "Jono22", "ciniboi_12", "Craig Terrington", "Alex Rowland", "Mann", "Steve", "Harry Rowland", "Kaytley🐐", "jamieling", "Jeanille01"],
