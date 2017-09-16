@@ -24,7 +24,9 @@ var afl_data = {
         ["R22", "August 18, 2017 19:20:00 GMT+930"],
         ["R23", "August 25, 2017 19:50:00 GMT+1000"],
         ["F1", "September 7, 2017 19:50:00 GMT+1000"],
-        ["F2", "September 15, 2017 19:50:00 GMT+1000"]
+        ["F2", "September 15, 2017 19:50:00 GMT+1000"],
+        ["F3", "September 22, 2017 19:50:00 GMT+1000"],
+        ["F4", "September 30, 2017 14:30:00 GMT+1000"]
     ],
     fixtures: [
         ["R1", "CAR", "RIC", "MCG - Thursday, March 23 - 7:20 PM"],
