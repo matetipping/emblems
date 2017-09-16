@@ -2,7 +2,7 @@ var tipping_data = {
     round: "F2",
     admin: "Administrator",
     tips: [
-        ["F2", "Administrator", "GEE", 5, "GEE", 36, "GEE", 49, "GEE", 59, "GWS", 16, "GWS", 35, "GWS", 62, "", "", "", "", "", ""],
+        ["F2", "Administrator", "GEE", 5, "GEE", 36, "GEE", 49, "GEE", 59, "GWS", 16, "GWS", 35, "GWS", 68, "GWS", 67, "", "", "", "", "", ""],
         ["F1", "Administrator", "ADE", 44, "ADE", 36, "RIC", 9, "RIC", 51, "SYD", 61, "SYD", 65, "WCE", 11, "WCE", 2, "Andrew Gaff (WCE)", 34, "Lance Franklin (SYD)", 25, "", ""],
         ["R23", "Administrator", "HAW", 9, "COL", 16, "NTH", 51, "SYD", 81, "GEE", 44, "PTA", 115, "ESS", 15, "RIC", 41, "WCE", 29, "Matt Crouch (ADE)", 41, "Lance Franklin (SYD)", 62, "", ""],
         ["R22", "Administrator", "SYD", 3, "PTA", 17, "GEE", 11, "GWS", 21, "ESS", 33, "CAR", 7, "MEL", 13, "STK", 39, "RIC", 104, "Tom Mitchell (HAW)", 44, "Jacob Townsend (RIC)", 37, "", ""],
@@ -345,7 +345,7 @@ var tipping_data = {
         ["F2", "Bigbadbrucey", "SYD", 8, "GEE", 7, "SYD", 10, "GEE", 5, "GWS", 15, "GWS", 19, "GWS", 25, "GWS", 20, "Patrick Dangerfield (GEE)", 26, "", "", "", ""],
         ["F2", "Dannelboyz", "SYD", 5, "SYD", 10, "GEE", 7, "SYD", 19, "GWS", 1, "WCE", 3, "GWS", 15, "GWS", 20, "Patrick Dangerfield (GEE)", 26, "Lance Franklin (SYD)", 3, "", ""],
         ["F2", "jamieling", "SYD", 5, "GEE", 2, "GEE", 5, "GEE", 17, "WCE", 2, "GWS", 3, "GWS", 5, "GWS", 6, "Patrick Dangerfield (GEE)", 26, "", "", "", ""],
-        ["F2", "ciniboi_12", "GEE", 10, "SYD", 4, "SYD", 23, "SYD", 13, "GWS", 26, "GWS", 33, "GWS", 17, "GWS", 36, "Josh Kelly (GWS)", "", "Jonathon Patton (GWS)", "", "", ""]
+        ["F2", "ciniboi_12", "GEE", 10, "SYD", 4, "SYD", 23, "SYD", 13, "GWS", 26, "GWS", 33, "GWS", 17, "GWS", 36, "Josh Kelly (GWS)", 33, "Jonathon Patton (GWS)", 14, "", ""]
     ],
     fixtures: [
         ["R1", "Shaydog", "Dannelboyz", "Bigbadbrucey", "Flagpies", "Jono22", "ciniboi_12", "Craig Terrington", "Alex Rowland", "Mann", "Steve", "Harry Rowland", "Kaytley🐐", "jamieling", "Jeanille01"],
