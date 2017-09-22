@@ -2,6 +2,7 @@ var tipping_data = {
     round: "F3",
     admin: "Administrator",
     tips: [
+        ["F3", "Administrator", "ADE", 31, "ADE", 35, "ADE", 35, "ADE", 61, "", "", "", "", "", ""],
         ["F2", "Administrator", "GEE", 5, "GEE", 36, "GEE", 49, "GEE", 59, "GWS", 16, "GWS", 35, "GWS", 68, "GWS", 67, "", "", "", "", "", ""],
         ["F1", "Administrator", "ADE", 44, "ADE", 36, "RIC", 9, "RIC", 51, "SYD", 61, "SYD", 65, "WCE", 11, "WCE", 2, "Andrew Gaff (WCE)", 34, "Lance Franklin (SYD)", 25, "", ""],
         ["R23", "Administrator", "HAW", 9, "COL", 16, "NTH", 51, "SYD", 81, "GEE", 44, "PTA", 115, "ESS", 15, "RIC", 41, "WCE", 29, "Matt Crouch (ADE)", 41, "Lance Franklin (SYD)", 62, "", ""],
