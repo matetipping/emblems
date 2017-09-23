@@ -251,9 +251,9 @@ var afl_data = {
         ["F3", "RIC", "GWS", "Half Time Margin"],
         ["F3", "RIC", "GWS", "Three-Quarter Time Margin"],
         ["F3", "RIC", "GWS", "Full Time Margin"],
-        ["F4", "", "", "Quarter Time Margin"],
-        ["F4", "", "", "Half Time Margin"],
-        ["F4", "", "", "Three-Quarter Time Margin"],
-        ["F4", "", "", "Full Time Margin"],
+        ["F4", "ADE", "RIC", "Quarter Time Margin"],
+        ["F4", "ADE", "RIC", "Half Time Margin"],
+        ["F4", "ADE", "RIC", "Three-Quarter Time Margin"],
+        ["F4", "ADE", "RIC", "Full Time Margin"],
     ]
 }
