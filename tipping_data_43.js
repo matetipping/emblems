@@ -2,7 +2,7 @@ var tipping_data = {
     round: "F4",
     admin: "Administrator",
     tips: [
-        ["F4", "Administrator", "ADE", 11, "", "", "", "", "Dustin Martin (RIC)", 20],
+        ["F4", "Administrator", "ADE", 11, "", "", "", "", "", ""],
         ["F3", "Administrator", "ADE", 31, "ADE", 35, "ADE", 35, "ADE", 61,"RIC", 6, "RIC", 1,"RIC", 31,"RIC", 36, "", "", "", "", "", ""],
         ["F2", "Administrator", "GEE", 5, "GEE", 36, "GEE", 49, "GEE", 59, "GWS", 16, "GWS", 35, "GWS", 68, "GWS", 67, "", "", "", "", "", ""],
         ["F1", "Administrator", "ADE", 44, "ADE", 36, "RIC", 9, "RIC", 51, "SYD", 61, "SYD", 65, "WCE", 11, "WCE", 2, "Andrew Gaff (WCE)", 34, "Lance Franklin (SYD)", 25, "", ""],
@@ -352,8 +352,8 @@ var tipping_data = {
         ["F3", "ciniboi_12", "GEE", 14, "ADE", 6, "ADE", 17, "ADE", 26, "RIC", 21, "GWS", 2, "RIC", 24, "RIC", 31, "Dustin Martin (RIC)", 20, "", "", "", ""],
         ["F3", "Kaytley🐐", "ADE", 15, "GEE", 5, "ADE", 20, "ADE", 15, "RIC", 10, "RIC", 5, "GWS", 15, "GWS", 20, "Rory Laird (ADE)", 32, "Josh Jenkins (ADE)", 24, "", ""],
         ["F3", "Craig Terrington", "ADE", 2, "ADE", 9, "ADE", 18, "ADE", 21, "RIC", 6, "RIC", 12, "RIC", 17, "RIC", 19, "Josh Kelly (GWS)", 28, "Eddie Betts (ADE)", 12, "", ""],
-        ["F4", "ciniboi_12", "RIC", 13, "ADE", 6, "ADE", 18, "ADE", 37, "Rory Laird (ADE)", "", "Taylor Walker (ADE)", "", "Matt Crouch (ADE)", 6],
-        ["F4", "Craig Terrington", "RIC", 2, "ADE", 5, "ADE", 8, "ADE", 12, "Matt Crouch (ADE)", "", "Eddie Betts (ADE)", "", "Dustin Martin (RIC)", 20]
+        ["F4", "ciniboi_12", "RIC", 13, "ADE", 6, "ADE", 18, "ADE", 37, "Rory Laird (ADE)", "", "Taylor Walker (ADE)", "", "Matt Crouch (ADE)", ""],
+        ["F4", "Craig Terrington", "RIC", 2, "ADE", 5, "ADE", 8, "ADE", 12, "Matt Crouch (ADE)", "", "Eddie Betts (ADE)", "", "Dustin Martin (RIC)", ""]
     ],
     fixtures: [
         ["R1", "Shaydog", "Dannelboyz", "Bigbadbrucey", "Flagpies", "Jono22", "ciniboi_12", "Craig Terrington", "Alex Rowland", "Mann", "Steve", "Harry Rowland", "Kaytley🐐", "jamieling", "Jeanille01"],
