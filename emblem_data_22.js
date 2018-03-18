@@ -15,9 +15,9 @@ var emblem_data = {
         ["jamieling", "rgb(250, 198, 196)", "http://b3.ifrm.com/30609/91/0/p3003804/emblemdesigns_amber.png", "-450px -450px", "180", "none", "-600px -300px", "90"],
         ["SCOTT", "rgb(23, 55, 94)", "http://b3.ifrm.com/30609/91/0/p3003816/emblemdesigns_teal.png", "0px -300px", "0", "http://b3.ifrm.com/30609/91/0/p3003817/emblemdesigns_yellow.png", "0px -300px", "0"],
         ["Bill Rowland", "rgb(242, 66, 66)", "http://b3.ifrm.com/30609/91/0/p3003824/emblemdesigns_navy.png", "-150px 0px", "0", "http://b3.ifrm.com/30609/91/0/p3003817/emblemdesigns_yellow.png", "-450px -150px", "0"],
-        ["Kaytley🐐", "rgb(242, 242, 242)", "http://b3.ifrm.com/30609/91/0/p3005719/emblemdesigns_splurtle.png", "-750px -450px", "0", "http://b3.ifrm.com/30609/91/0/p3003755/emblemdesigns_white.png", "-750px -450px", "0"],
         ["Steve", "rgb(13, 13, 13)", "http://b3.ifrm.com/30609/91/0/p3003807/emblemdesigns_orange.png", "0px -450px", "270", "http://b3.ifrm.com/30609/91/0/p3005724/emblemdesigns_blood.png", "-450px -150px", "0"],
-        ["Kerrynterra", "rgb(31, 188, 0)", "http://b3.ifrm.com/30609/91/0/p3005721/emblemdesigns_midnight.png", "-600px 0px", "0", "http://b3.ifrm.com/30609/91/0/p3003755/emblemdesigns_white.png", "-450px -450px", "0"]
+        ["Kerrynterra", "rgb(31, 188, 0)", "http://b3.ifrm.com/30609/91/0/p3005721/emblemdesigns_midnight.png", "-600px 0px", "0", "http://b3.ifrm.com/30609/91/0/p3003755/emblemdesigns_white.png", "-450px -450px", "0"],
+        ["Kaytley🐐", "rgb(128, 28, 90)", "http://b3.ifrm.com/30609/91/0/p3003804/emblemdesigns_amber.png", "-750px -450px", "0", "http://b3.ifrm.com/30609/91/0/p3003812/emblemdesigns_gold.png", "-450px -300px", "0"]
     ]
 }
 
