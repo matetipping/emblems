@@ -16,7 +16,9 @@ var emblem_data = {
         ["jamieling", "rgb(250, 198, 196)", "http://b3.ifrm.com/30609/91/0/p3003804/emblemdesigns_amber.png", "-450px -450px", "180", "none", "-600px -300px", "90"],
         ["Kaytley🐐", "rgb(120, 0, 43)", "http://b3.ifrm.com/30609/91/0/p3003755/emblemdesigns_white.png", "0px -450px", "0", "http://b3.ifrm.com/30609/91/0/p3005719/emblemdesigns_splurtle.png", "-450px -450px", "0"],
         ["SCOTT", "rgb(23, 55, 94)", "http://b3.ifrm.com/30609/91/0/p3003816/emblemdesigns_teal.png", "0px -300px", "0", "http://b3.ifrm.com/30609/91/0/p3003817/emblemdesigns_yellow.png", "0px -300px", "0"],
-        ["Kerrynterra", "rgb(56, 249, 109)", "http://b3.ifrm.com/30609/91/0/p3003830/emblemdesigns_violet.png", "-150px -300px", "0", "http://b3.ifrm.com/30609/91/0/p3003828/emblemdesigns_pink.png", "-450px -300px", "0"]
+        ["Kerrynterra", "rgb(56, 249, 109)", "http://b3.ifrm.com/30609/91/0/p3003830/emblemdesigns_violet.png", "-150px -300px", "0", "http://b3.ifrm.com/30609/91/0/p3003828/emblemdesigns_pink.png", "-450px -300px", "0"],
+        ["Bill Rowland", "rgb(242, 66, 66)", "http://b3.ifrm.com/30609/91/0/p3003824/emblemdesigns_navy.png", "-150px 0px", "0", "http://b3.ifrm.com/30609/91/0/p3003817/emblemdesigns_yellow.png", "-450px -150px", "0"],
+        ["Kaytley🐐", "rgb(128, 28, 90)", "http://b3.ifrm.com/30609/91/0/p3003804/emblemdesigns_amber.png", "-750px -450px", "0", "http://b3.ifrm.com/30609/91/0/p3003812/emblemdesigns_gold.png", "-450px -300px", "0"]
     ]
 }
 
