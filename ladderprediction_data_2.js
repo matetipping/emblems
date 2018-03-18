@@ -9,6 +9,7 @@ var ladder_data = {
         ["Flagpies", "GEE", "GWS", "ADE", "RIC", "ESS", "WCE", "WBD", "MEL", "COL", "SYD", "PTA", "FRE", "HAW", "CAR", "NTH", "BRI", "GCS", "STK"],
         ["Alex Rowland", "GWS", "ADE", "GEE", "SYD", "RIC", "PTA", "MEL", "ESS", "STK", "HAW", "WBD", "WCE", "FRE", "CAR", "COL", "NTH", "BRI", "GCS"],
         ["Kerrynterra", "RIC", "GEE", "SYD", "WBD", "MEL", "HAW", "ADE", "FRE", "WCE", "ESS", "COL", "NTH", "STK", "BRI", "GWS", "PTA", "GCS", "CAR"],
+        ["Jono22", "GEE", "RIC", "ADE", "GWS", "SYD", "ESS", "PTA", "MEL", "STK", "WBD", "HAW", "FRE", "COL", "CAR", "GCS", "BRI", "NTH", "WCE"],
         ["Bill Rowland", "GWS", "RIC", "ADE", "PTA", "SYD", "GEE", "HAW", "MEL", "ESS", "FRE", "WBD", "STK", "COL", "CAR", "GCS", "WCE", "BRI", "NTH"],
         ["Harry Rowland", "ADE", "RIC", "GEE", "GWS", "HAW", "PTA", "WBD", "STK", "ESS", "WCE", "SYD", "FRE", "COL", "GCS", "CAR", "MEL", "BRI", "NTH"],
         ["Kaytley🐐", "HAW", "RIC", "WBD", "SYD", "GEE", "PTA", "WCE", "STK", "FRE", "COL", "MEL", "ESS", "NTH", "ADE", "BRI", "GWS", "CAR", "GCS"]
