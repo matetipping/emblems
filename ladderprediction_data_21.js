@@ -13,6 +13,8 @@ var ladder_data = {
         ["Bill Rowland", "GWS", "RIC", "ADE", "PTA", "SYD", "GEE", "HAW", "MEL", "ESS", "FRE", "WBD", "STK", "COL", "CAR", "GCS", "WCE", "BRI", "NTH"],
         ["Harry Rowland", "ADE", "RIC", "GEE", "GWS", "HAW", "PTA", "WBD", "STK", "ESS", "WCE", "SYD", "FRE", "COL", "GCS", "CAR", "MEL", "BRI", "NTH"],
         ["Kaytley🐐", "HAW", "RIC", "WBD", "SYD", "GEE", "PTA", "WCE", "STK", "FRE", "COL", "MEL", "ESS", "NTH", "ADE", "BRI", "GWS", "CAR", "GCS"],
+        ["Craig Terrington", "GWS", "ADE", "PTA", "MEL", "RIC", "STK", "HAW", "SYD", "GEE", "WBD", "WCE", "ESS", "CAR", "COL", "FRE", "GCS", "BRI", "NTH"],
+        ["Steve", "ADE", "GWS", "GEE", "SYD", "MEL", "RIC", "STK", "ESS", "HAW", "NTH", "WBD", "COL", "WCE", "GCS", "PTA", "FRE", "CAR", "BRI"],
         ["Shaydog", "GEE", "HAW", "WBD", "SYD", "ESS", "ADE", "COL", "PTA", "GWS", "NTH", "FRE", "GCS", "CAR", "BRI", "STK", "WCE", "MEL", "RIC"],
         ["Jeanille01", "GWS", "WBD", "SYD", "HAW", "ADE", "WCE", "STK", "PTA", "GEE", "MEL", "CAR", "FRE", "COL", "ESS", "GCS", "NTH", "RIC", "BRI"],
         ["jamieling", "GEE", "GWS", "SYD", "WBD", "ADE", "STK", "HAW", "WCE", "RIC", "NTH", "ESS", "FRE", "GCS", "PTA", "COL", "MEL", "CAR", "BRI"]
