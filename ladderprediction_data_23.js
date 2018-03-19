@@ -17,6 +17,7 @@ var ladder_data = {
         ["Steve", "ADE", "GWS", "GEE", "SYD", "MEL", "RIC", "STK", "ESS", "HAW", "NTH", "WBD", "COL", "WCE", "GCS", "PTA", "FRE", "CAR", "BRI"],
         ["Shaydog", "GEE", "HAW", "WBD", "SYD", "ESS", "ADE", "COL", "PTA", "GWS", "NTH", "FRE", "GCS", "CAR", "BRI", "STK", "WCE", "MEL", "RIC"],
         ["Jeanille01", "GWS", "ADE", "RIC", "SYD", "WBD", "GEE", "MEL", "ESS", "STK", "HAW", "PTA", "FRE", "CAR", "COL", "BRI", "GCS", "WCE", "NTH"],
-        ["jamieling", "GEE", "GWS", "SYD", "WBD", "ADE", "STK", "HAW", "WCE", "RIC", "NTH", "ESS", "FRE", "GCS", "PTA", "COL", "MEL", "CAR", "BRI"]
+        ["jamieling", "GEE", "GWS", "SYD", "WBD", "ADE", "STK", "HAW", "WCE", "RIC", "NTH", "ESS", "FRE", "GCS", "PTA", "COL", "MEL", "CAR", "BRI"],
+        ["Susan", "SYD", "GWS", "GEE", "ADE", "RIC", "MEL", "PTA", "HAW", "WBD", "ESS", "FRE", "STK", "COL", "NTH", "WCE", "BRI", "GCS", "CAR"]
     ]
 }
