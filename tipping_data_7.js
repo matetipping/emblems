@@ -6,6 +6,6 @@ var tipping_data = {
         ["R1", "Kaytley🐐", "RIC", 10, "ADE", 15, "STK", 5, "PTA", 10, "NTH", 5, "HAW", 20, "WBD", 10, "GEE", 12, "WCE", 10, "", "", "", "", "", ""]
     ],
     fixtures: [
-        ["R1", "Craig Terrington", "Kaytley🐐", "Dannelboyz", "ciniboi_12", "jamieling", "Bigbadbrucey", "Mann", "Jono22", "Alex Rowland", "Jeanille01", "Harry Rowland", "Steve", "Flagpies", "SCOTT", "Kerrynterra", "Bill Rowland"]
+        ["R1", "Craig Terrington", "Kaytley🐐", "Dannelboyz", "ciniboi_12", "Bigbadbrucey", "Mann", "Jono22", "Alex Rowland", "Jeanille01", "Harry Rowland", "Steve", "Flagpies", "SCOTT", "Kerrynterra", "Bill Rowland", "Susan"]
     ]
 }
