@@ -16,7 +16,7 @@ var ladder_data = {
         ["Craig Terrington", "GWS", "ADE", "PTA", "MEL", "RIC", "STK", "HAW", "SYD", "GEE", "WBD", "WCE", "ESS", "CAR", "COL", "FRE", "GCS", "BRI", "NTH"],
         ["Steve", "ADE", "GWS", "GEE", "SYD", "MEL", "RIC", "STK", "ESS", "HAW", "NTH", "WBD", "COL", "WCE", "GCS", "PTA", "FRE", "CAR", "BRI"],
         ["Jeanille01", "GWS", "ADE", "RIC", "SYD", "WBD", "GEE", "MEL", "ESS", "STK", "HAW", "PTA", "FRE", "CAR", "COL", "BRI", "GCS", "WCE", "NTH"],
-        ["jamieling", "GEE", "GWS", "SYD", "WBD", "ADE", "STK", "HAW", "WCE", "RIC", "NTH", "ESS", "FRE", "GCS", "PTA", "COL", "MEL", "CAR", "BRI"],
+        ["jamieling", "GEE", "GWS", "ADE", "SYD", "RIC", "ESS", "PTA", "MEL", "STK", "WBD", "HAW", "FRE", "GCS", "BRI", "NTH", "CAR", "COL", "WCE"],
         ["Susan", "SYD", "GWS", "GEE", "ADE", "RIC", "MEL", "PTA", "HAW", "WBD", "ESS", "FRE", "STK", "COL", "NTH", "WCE", "BRI", "GCS", "CAR"],
         ["AThomasz", "FRE", "SYD", "GEE", "GWS", "STK", "RIC", "ADE", "ESS", "WBD", "HAW", "NTH", "WCE", "BRI", "CAR", "PTA", "GCS", "COL", "MEL"],
         ["Sliced_Bread", "ADE", "GWS", "RIC", "SYD", "PTA", "MEL", "WBD", "ESS", "GEE", "HAW", "COL", "WCE", "STK", "FRE", "BRI", "CAR", "NTH", "GCS"],
