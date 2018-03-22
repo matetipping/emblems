@@ -19,7 +19,6 @@ var tipping_data = {
         ["R1", "Mann", "RIC", 32, "ESS", 7, "STK", 27, "PTA", 27, "GCS", 7, "HAW", 21, "GWS", 16, "MEL", 5, "SYD", 26, "", "", "", "", "", ""]
     ],
     fixtures: [
-        ["R1", "Craig Terrington", "Kaytley🐐", "Dannelboyz", "ciniboi_12", "jamieling", "Bigbadbrucey", "Mann", "Jono22", "Alex Rowland", "Jeanille01", "Harry Rowland", "Steve", "Flagpies", "SCOTT", "Kerrynterra", "Bill Rowland", "Susan", "AThomasz", "Sliced_Bread", "olliedub"],
-        
+        ["R1", "olliedub", "Kerrynterra", "Bill Rowland", "SCOTT", "Susan", "Flagpies", "AThomasz", "Steve", "Sliced_Bread", "Harry Rowland", "Craig Terrington", "Jeanille01", "Kaytley🐐", "Alex Rowland", "Dannelboyz", "Jono22", "ciniboi_12", "Mann", "jamieling", "Bigbadbrucey"]
     ]
 }
