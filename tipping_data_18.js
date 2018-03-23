@@ -7,7 +7,7 @@ var tipping_data = {
         ["R1", "Kaytley🐐", "RIC", 10, "ADE", 15, "STK", 5, "PTA", 10, "NTH", 5, "HAW", 20, "WBD", 10, "GEE", 12, "WCE", 10, "", "", "", "", "", ""],
         ["R1", "Dannelboyz", "RIC", 55, "ADE", 22, "STK", 31, "PTA", 28, "NTH", 8, "HAW", 14, "GWS", 23, "GEE", 17, "SYD", 42, "", "", "Josh Kennedy (WCE)", "", "", ""],
         ["R1", "Susan", "RIC", 54, "ADE", 24, "STK", 45, "PTA", 51, "GCS", 6, "HAW", 9, "GWS", 30, "GEE", 24, "SYD", 42, "", "", "", "", "", ""],
-        ["R1", "Bill Rowland", "RIC", 33, "ADE", 25, "STK", 13, "PTA", 21, "GCS", 9, "HAW", 15, "GWS", 31, "MEL", 12, "SYD", 12, "", "", "Eddie Betts (ADE)", "", "", ""],
+        ["R1", "Bill Rowland", "RIC", 33, "ADE", 25, "STK", 13, "PTA", 21, "GCS", 9, "HAW", 15, "GWS", 31, "MEL", 12, "SYD", 12, "", "", "Eddie Betts (ADE)", 2, "", ""],
         ["R1", "Harry Rowland", "RIC", 35, "ADE", 37, "STK", 23, "PTA", 12, "GCS", 25, "HAW", 20, "GWS", 34, "GEE", 25, "SYD", 18, "", "", "", "", "", ""],
         ["R1", "AThomasz", "RIC", 24, "ADE", 4, "STK", 40, "PTA", 4, "GCS", 4, "HAW", 24, "GWS", 14, "GEE", 34, "SYD", 34, "", "", "", "", "", ""],
         ["R1", "Sliced_Bread", "RIC", 20, "ADE", 20, "STK", 20, "PTA", 30, "NTH", 10, "HAW", 10, "GWS", 30, "MEL", 10, "SYD", 20, "", "", "", "", "", ""],
