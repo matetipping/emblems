@@ -25,6 +25,8 @@ var tipping_data = {
         ["R1", "ciniboi_12", "RIC", 27, "ADE", 3, "STK", 33, "PTA", 38, "NTH", 6, "COL", 13, "WBD", 4, "GEE", 17, "SYD", 25, "", "", "", "", "", ""]
     ],
     fixtures: [
-        ["R1", "olliedub", "Kerrynterra", "Bill Rowland", "SCOTT", "Susan", "Flagpies", "AThomasz", "Steve", "Sliced_Bread", "Harry Rowland", "Craig Terrington", "Jeanille01", "Kaytley🐐", "Alex Rowland", "Dannelboyz", "Jono22", "ciniboi_12", "Mann", "jamieling", "Bigbadbrucey"]
+        ["R1", "olliedub", "Kerrynterra", "Bill Rowland", "SCOTT", "Susan", "Flagpies", "AThomasz", "Steve", "Sliced_Bread", "Harry Rowland", "Craig Terrington", "Jeanille01", "Kaytley🐐", "Alex Rowland", "Dannelboyz", "Jono22", "ciniboi_12", "Mann", "jamieling", "Bigbadbrucey"],
+        ["R2", "Steve", "Jeanille01", "olliedub", "Harry Rowland", "Flagpies", "Alex Rowland", "SCOTT", "Jono22", "Kerrynterra", "Mann", "Bill Rowland", "Bigbadbrucey", "Susan", "jamieling", "AThomasz", "ciniboi_12", "Sliced_Bread", "Dannelboyz", "Craig Terrington", "Kaytley🐐"],
+        ["R3", "olliedub", "Steve", "Flagpies", "Harry Rowland", "SCOTT", "Jeanille01", "Kerrynterra", "Alex Rowland", "Bill Rowland", "Jono22", "Susan", "Mann", "AThomasz", "Bigbadbrucey", "Sliced_Bread", "jamieling", "Craig Terrington", "ciniboi_12", "Kaytley🐐", "Dannelboyz"]
     ]
 }
