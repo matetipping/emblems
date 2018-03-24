@@ -1,4 +1,4 @@
-var tipping_data = {
+var tipping_data_2017 = {
     round: "F4",
     admin: "Administrator",
     tips: [
