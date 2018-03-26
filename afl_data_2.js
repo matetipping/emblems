@@ -2,7 +2,7 @@ var afl_data = {
     repeater: null,
     dates: [
         ["R1", "March 22, 2018 19:25:00 GMT+1100"]
-//        ["R2", "March 30, 2017 19:20:00 GMT+1100"],
+        ["R2", "March 29, 2018 19:20:00 GMT+1030"],
 //        ["R3", "April 7, 2017 19:50:00 GMT+1000"],
 //        ["R4", "April 13, 2017 18:10:00 GMT+0800"],
 //        ["R5", "April 21, 2017 19:20:00 GMT+0930"],
@@ -33,6 +33,15 @@ var afl_data = {
         ["R1", "HAW", "COL", "MCG - Saturday, March 24 - 7:25 PM"],
         ["R1", "GWS", "WBD", "UNSW - Sunday, March 25 - 1:10 PM"],
         ["R1", "MEL", "GEE", "MCG - Sunday, March 25 - 3:20 PM"],
-        ["R1", "WCE", "SYD", "OS - Sunday, March 25 - 4:20 PM"]
+        ["R1", "WCE", "SYD", "OS - Sunday, March 25 - 4:20 PM"],
+        ["R2", "ADE", "RIC", "AO - Thursday, March 29 - 7:20 PM"],
+        ["R2", "NTH", "STK", "ES - Friday, March 30 - 4:20 PM"],
+        ["R2", "CAR", "GCS", "ES - Saturday, March 31 - 1:45 PM"],
+        ["R2", "COL", "GWS", "MCG - Saturday, March 31 - 4:35 PM"],
+        ["R2", "BRI", "MEL", "G - Saturday, March 31 - 6:25 PM"],
+        ["R2", "FRE", "ESS", "OS - Saturday, March 31 - 5:10 PM"],
+        ["R2", "WBD", "WCE", "ES - Sunday, April 1 - 3:20 PM"],
+        ["R2", "SYD", "PTA", "SCG - Sunday, April 1 - 4:40 PM"],
+        ["R2", "GEE", "HAW", "MCG - Monday, April 2 - 3:20 PM"],
     ]
 }
