@@ -23,7 +23,7 @@ var tipping_data = {
         ["R1", "Jeanille01", "RIC", 20, "ADE", 14, "STK", 21, "PTA", 15, "GCS", 18, "HAW", 22, "GWS", 10, "GEE", 15, "SYD", 20, "", "", "", "", "", ""],
         ["R1", "Steve", "RIC", 29, "ADE", 36, "STK", 25, "PTA", 42, "GCS", 18, "HAW", 33, "GWS", 31, "GEE", 27, "SYD", 36, "", "", "", "", "", ""],
         ["R1", "ciniboi_12", "RIC", 27, "ADE", 3, "STK", 33, "PTA", 38, "NTH", 6, "COL", 13, "WBD", 4, "GEE", 17, "SYD", 25, "", "", "", "", "", ""],
-        ["R2", "Administrator", "ADE", 36, "NTH", 52, "GCS", 34, "GWS", 16, "MEL", 26, "FRE", 16, "", "", "", "", "", ""],
+        ["R2", "Administrator", "ADE", 36, "NTH", 52, "GCS", 34, "GWS", 16, "MEL", 26, "FRE", 16, "WCE", 51, "", "", "", "", "", ""],
         ["R2", "Kaytley🐐", "RIC", 10, "STK", 25, "CAR", 20, "COL", 12, "MEL", 20, "FRE", 20, "WCE", 30, "SYD", 20, "HAW", 30, "", "", "", "", "", ""],
         ["R2", "Bill Rowland", "ADE", 1, "STK", 21, "CAR", 17, "GWS", 50, "MEL", 17, "FRE", 9, "WBD", 11, "SYD", 13, "HAW", 5, "", "", "Jeremy Cameron (GWS)", 19, "", ""],
         ["R2", "olliedub", "ADE", 14, "STK", 18, "CAR", 18, "GWS", 42, "MEL", 22, "ESS", 8, "WBD", 14, "SYD", 28, "GEE", 34, "", "", "", "", "", ""],
