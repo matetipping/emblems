@@ -48,6 +48,7 @@ var tipping_data = {
     fixtures: [
         ["R1", "olliedub", "Kerrynterra", "Bill Rowland", "SCOTT", "Susan", "Flagpies", "AThomasz", "Steve", "Sliced_Bread", "Harry Rowland", "Craig Terrington", "Jeanille01", "Kaytley🐐", "Alex Rowland", "Dannelboyz", "Jono22", "ciniboi_12", "Mann", "jamieling", "Bigbadbrucey"],
         ["R2", "Steve", "Jeanille01", "olliedub", "Harry Rowland", "Flagpies", "Alex Rowland", "SCOTT", "Jono22", "Kerrynterra", "Mann", "Bill Rowland", "Bigbadbrucey", "Susan", "jamieling", "AThomasz", "ciniboi_12", "Sliced_Bread", "Dannelboyz", "Craig Terrington", "Kaytley🐐"],
-        ["R3", "olliedub", "Steve", "Flagpies", "Harry Rowland", "SCOTT", "Jeanille01", "Kerrynterra", "Alex Rowland", "Bill Rowland", "Jono22", "Susan", "Mann", "AThomasz", "Bigbadbrucey", "Sliced_Bread", "jamieling", "Craig Terrington", "ciniboi_12", "Kaytley🐐", "Dannelboyz"]
+        ["R3", "Kerrynterra", "Alex Rowland", "Bill Rowland", "Jono22", "Susan", "Mann", "olliedub", "Steve", "Flagpies", "Harry Rowland", "SCOTT", "Jeanille01", "AThomasz", "Bigbadbrucey", "Sliced_Bread", "jamieling", "Craig Terrington", "ciniboi_12", "Kaytley🐐", "Dannelboyz"],
+        ["R4", "Susan", "Harry Rowland", "Dannelboyz", "Bigbadbrucey", "ciniboi_12", "jamieling", "olliedub", "SCOTT", "Kerrynterra", "Flagpies", "Bill Rowland", "Steve", "AThomasz", "Jeanille01", "Sliced_Bread", "Alex Rowland", "Craig Terrington", "Jono22", "Kaytley🐐", "Mann"]
     ]
 }
