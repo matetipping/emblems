@@ -51,7 +51,7 @@ var afl_data = {
         ["R3", "STK", "ADE", "ES - Saturday, April 7 - 7:25 PM"],
         ["R3", "RIC", "HAW", "MCG - Sunday, April 8 - 1:10 PM"],
         ["R3", "WBD", "ESS", "ES - Sunday, April 8 - 3:20 PM"],
-        ["R3", "WCE", "GEE", "AO - Sunday, April 8 - 2:40 PM"],
+        ["R3", "WCE", "GEE", "OS - Sunday, April 8 - 2:40 PM"],
         ["R4", "ADE", "COL", "AO - Friday, April 16 - 7:20 PM"],
         ["R4", "GWS", "FRE", "UNSW - Saturday, April 17 - 1:45 PM"],
         ["R4", "RIC", "BRI", "MCG - Saturday, April 17 - 2:10 PM"],
