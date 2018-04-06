@@ -61,7 +61,7 @@ var tipping_data = {
         ["R3", "Alex Rowland", "CAR", 12, "PTA", 35, "MEL", 25, "FRE", 18, "GWS", 14, "ADE", 40, "RIC", 10, "ESS", 16, "GEE", 23, "", "", "", "", "", ""],
         ["R3", "Harry Rowland", "CAR", 10, "PTA", 49, "MEL", 12, "GCS", 23, "GWS", 16, "ADE", 11, "HAW", 11, "ESS", 13, "WCE", 14, "", "", "Eddie Betts (ADE)", "", "", ""],
         ["R3", "jamieling", "COL", 12, "PTA", 52, "MEL", 26, "FRE", 18, "GWS", 22, "ADE", 27, "HAW", 9, "ESS", 40, "GEE", 17, "", "", "Joe Daniher (ESS)", "", "", ""],
-        ["R3", "Susan", "COL", 9, "PTA", 72, "MEL", 24, "FRE", 12, "SYD", 7, "ADE", 27, "HAW", 1, "ESS", 18, "GEE", 12, "Ollie Wines (PTA)", "", "", "", "", ""]
+        ["R3", "Susan", "COL", 9, "PTA", 72, "MEL", 24, "FRE", 12, "SYD", 7, "ADE", 27, "HAW", 1, "ESS", 18, "GEE", 12, "Ollie Wines (PTA)", "", "", "", "", ""],
         ["R4", "Administrator", "", "", "", "", "", ""],
         ["R4", "Jono22", "ADE", 21, "GWS", 25, "RIC", 23, "WBD", 7, "NTH", 11, "WCE", 14, "ESS", 14, "HAW", 3, "GEE", 22, "", "", "", "", "", ""],
         ["R4", "Jeanille01", "ADE", 7, "GWS", 8, "RIC", 32, "WBD", 5, "NTH", 8, "WCE", 11, "ESS", 19, "HAW", 1, "GEE", 23, "", "", "", "", "", ""]
