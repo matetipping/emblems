@@ -45,7 +45,7 @@ var tipping_data = {
         ["R2", "Steve", "ADE", 32, "STK", 14, "GCS", 21, "GWS", 36, "MEL", 24, "ESS", 25, "WBD", 23, "SYD", 18, "GEE", 8, "", "", "", "", "", ""],
         ["R2", "ciniboi_12", "ADE", 16, "STK", 36, "CAR", 15, "GWS", 29, "MEL", 12, "ESS", 34, "WBD", 3, "PTA", 11, "GEE", 9, "", "", "", "", "", ""],
         ["R3", "Administrator", "", "", "", "", "", ""],
-        ["R3", "Bigbadbrucey", "COL", 20, "PTA", 33, "MEL", 15, "GCS", 1, "GWS", 10, "ADE", 50, "RIC", 16, "ESS", 27, "GEE", 15, "Tom Mitchell (HAW)", "", "", "", "", ""],
+        ["R3", "Bigbadbrucey", "COL", 20, "PTA", 33, "MEL", 15, "FRE", 17, "GWS", 10, "ADE", 50, "RIC", 16, "ESS", 27, "GEE", 15, "Tom Mitchell (HAW)", "", "", "", "", ""],
         ["R3", "Kaytley🐐", "COL", 15, "PTA", 25, "NTH", 25, "GCS", 25, "SYD", 20, "ADE", 15, "HAW", 15, "WBD", 20, "GEE", 30, "", "", "", "", "", ""],
         ["R3", "Sliced_Bread", "CAR", 17, "PTA", 38, "MEL", 19, "GCS", 10, "GWS", 17, "ADE", 33, "RIC", 12, "ESS", 11, "GEE", 6, "", "", "", "", "", ""],
         ["R3", "olliedub", "CAR", 14, "PTA", 36, "MEL", 8, "FRE", 24, "GWS", 12, "ADE", 16, "RIC", 11, "WBD", 6, "WCE", 12, "", "", "", "", "", ""],
@@ -63,6 +63,8 @@ var tipping_data = {
         ["R3", "jamieling", "COL", 12, "PTA", 52, "MEL", 26, "FRE", 18, "GWS", 22, "ADE", 27, "HAW", 9, "ESS", 40, "GEE", 17, "", "", "Joe Daniher (ESS)", "", "", ""],
         ["R3", "Susan", "COL", 9, "PTA", 72, "MEL", 24, "FRE", 12, "SYD", 7, "ADE", 27, "HAW", 1, "ESS", 18, "GEE", 12, "Ollie Wines (PTA)", "", "", "", "", ""],
         ["R3", "Kerrynterra", "COL", 5, "PTA", 16, "MEL", 12, "GCS", 3, "GWS", 8, "ADE", 7, "HAW", 16, "ESS", 5, "GEE", 5, "", "", "", "", "", ""],
+        ["R3", "ciniboi_12", "COL", 2, "PTA", 29, "MEL", 18, "FRE", 15, "SYD", 12, "ADE", 40, "HAW", 4, "ESS", 21, "GEE", 16, "", "", "Tom Lynch (GCS)", "", "", ""],
+        ["R3", "AThomasz", "CAR", 4, "PTA", 46, "NTH", 12, "FRE", 14, "SYD", 15, "STK", 7, "RIC", 4, "WBD", 20, "WCE", 4, "Josh Kelly (GWS)", "", "Dustin Martin (RIC)", "", "", ""],
         ["R4", "Administrator", "", "", "", "", "", ""],
         ["R4", "Jono22", "ADE", 21, "GWS", 25, "RIC", 23, "WBD", 7, "NTH", 11, "WCE", 14, "ESS", 14, "HAW", 3, "GEE", 22, "", "", "", "", "", ""],
         ["R4", "Jeanille01", "ADE", 7, "GWS", 8, "RIC", 32, "WBD", 5, "NTH", 8, "WCE", 11, "ESS", 19, "HAW", 1, "GEE", 23, "", "", "", "", "", ""]
