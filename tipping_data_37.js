@@ -58,6 +58,10 @@ var tipping_data = {
         ["R3", "Jeanille01", "CAR", 5, "PTA", 34, "MEL", 19, "FRE", 9, "GWS", 5, "ADE", 8, "HAW", 4, "ESS", 26, "GEE", 29, "", "", "", "", "", ""],
         ["R3", "Dannelboyz", "COL", 6, "PTA", 60, "MEL", 22, "FRE", 15, "SYD", 3, "ADE", 18, "HAW", 4, "ESS", 25, "GEE", 26, "", "", "", "", "", ""],
         ["R3", "Mann", "CAR", 1, "PTA", 45, "MEL", 23, "FRE", 15, "GWS", 5, "ADE", 26, "HAW", 2, "ESS", 21, "GEE", 20, "", "", "", "", "", ""],
+        ["R3", "Alex Rowland", "CAR", 12, "PTA", 35, "MEL", 25, "FRE", 18, "GWS", 14, "ADE", 40, "RIC", 10, "ESS", 16, "GEE", 23, "", "", "", "", "", ""],
+        ["R3", "Harry Rowland", "CAR", 10, "PTA", 49, "MEL", 12, "GCS", 23, "GWS", 16, "ADE", 11, "HAW", 11, "ESS", 13, "WCE", 14, "", "", "Eddie Betts (ADE)", "", "", ""],
+        ["R3", "jamieling", "COL", 12, "PTA", 52, "MEL", 26, "FRE", 18, "GWS", 22, "ADE", 27, "HAW", 9, "ESS", 40, "GEE", 17, "", "", "Joe Daniher (ESS)", "", "", ""],
+        ["R3", "Susan", "COL", 9, "PTA", 72, "MEL", 24, "FRE", 12, "SYD", 7, "ADE", 27, "HAW", 1, "ESS", 18, "GEE", 12, "Ollie Wines (PTA)", "", "", "", "", ""]
         ["R4", "Administrator", "", "", "", "", "", ""],
         ["R4", "Jono22", "ADE", 21, "GWS", 25, "RIC", 23, "WBD", 7, "NTH", 11, "WCE", 14, "ESS", 14, "HAW", 3, "GEE", 22, "", "", "", "", "", ""],
         ["R4", "Jeanille01", "ADE", 7, "GWS", 8, "RIC", 32, "WBD", 5, "NTH", 8, "WCE", 11, "ESS", 19, "HAW", 1, "GEE", 23, "", "", "", "", "", ""]
