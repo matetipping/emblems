@@ -103,7 +103,10 @@ var tipping_data = {
         ["R5", "jamieling", "SYD", 30, "GWS", 45, "WCE", 36, "GEE", 7, "FRE", 14, "HAW", 22, "BRI", 9, "RIC", 26, "COL", 10, "", "", "", "", "", ""],
         ["R5", "Harry Rowland", "ADE", 10, "GWS", 6, "WCE", 15, "PTA", 36, "FRE", 25, "HAW", 12, "GCS", 34, "MEL", 12, "ESS", 6, "", "", "Eddie Betts (ADE)", "", "", ""],
         ["R5", "Steve", "ADE", 21, "GWS", 32, "WCE", 44, "GEE", 28, "WBD", 12, "HAW", 18, "GCS", 32, "RIC", 16, "ESS", 18, "", "", "", "", "", ""],
-        ["R5", "Kerrynterra", "SYD", 8, "GWS", 21, "WCE", 14, "PTA", 10, "WBD", 5, "HAW", 25, "GCS", 16, "RIC", 18, "ESS", 7, "", "", "", "", "", ""]
+        ["R5", "Kerrynterra", "SYD", 8, "GWS", 21, "WCE", 14, "PTA", 10, "WBD", 5, "HAW", 25, "GCS", 16, "RIC", 18, "ESS", 7, "", "", "", "", "", ""],
+        ["R5", "ciniboi_12", "ADE", 5, "GWS", 33, "WCE", 1, "PTA", 15, "FRE", 8, "HAW", 28, "BRI", 12, "MEL", 22, "ESS", 4, "Stephen Coniglio (GWS)", "", "", "", "", ""],
+        ["R5", "Susan", "SYD", 12, "GWS", 42, "WCE", 48, "PTA", 24, "FRE", 21, "HAW", 27,"BRI", 6, "RIC", 30, "COL", 7, "", "", "", "", "", ""],
+        ["R5", "Sliced_Bread", "ADE", 9, "GWS", 33, "WCE", 12, "PTA", 12, "WBD", 21, "HAW", 21, "BRI", 9, "RIC", 3, "ESS", 9, "", "", "", "", "", ""]
     ],
     fixtures: [
         ["R1", "olliedub", "Kerrynterra", "Bill Rowland", "SCOTT", "Susan", "Flagpies", "AThomasz", "Steve", "Sliced_Bread", "Harry Rowland", "Craig Terrington", "Jeanille01", "Kaytley🐐", "Alex Rowland", "Dannelboyz", "Jono22", "ciniboi_12", "Mann", "jamieling", "Bigbadbrucey"],
