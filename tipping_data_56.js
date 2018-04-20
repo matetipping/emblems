@@ -92,7 +92,7 @@ var tipping_data = {
         ["R5", "Bigbadbrucey", "SYD", 6, "GWS", 17, "WCE", 27, "GEE", 5, "FRE", 1, "HAW", 13, "BRI", 11, "MEL", 17, "COL", 16, "Jack Steven (STK)", "", "Ben Brown (NTH)", "", "", ""],
         ["R5", "Flagpies", "SYD", 12, "GWS", 10, "WCE", 15, "GEE", 20, "FRE", 18, "HAW", 20, "BRI", 16, "RIC", 25, "COL", 14, "Adam Treloar (COL)", "", "", "", "", ""],
         ["R5", "Jono22", "SYD", 16, "GWS", 8, "WCE", 9, "PTA", 4, "FRE", 13, "HAW", 24, "BRI", 5, "RIC", 10, "ESS", 15, "", "", "", "", "", ""],
-        ["R5", "Dannelboyz", "ADE", 2, "GWS", 45, "WCE", 23, "PTA", 12, "FRE", 6, "HAW", 20, "BRI", 6, "RIC", 24, "ESS", 13, "", "", "Joe Daniher (ESS)", "", "", ""],
+        ["R5", "Dannelboyz", "ADE", 2, "GWS", 45, "WCE", 23, "PTA", 12, "FRE", 6, "HAW", 20, "BRI", 6, "RIC", 24, "ESS", 13, "", "", "Josh Kennedy (WCE)", "", "", ""],
         ["R5", "Jeanille01", "SYD", 10, "GWS", 5, "WCE", 18, "PTA", 16, "WBD", 8, "HAW", 30, "BRI", 13, "MEL", 10, "ESS", 15, "", "", "Lance Franklin (SYD)", "", "", ""],
         ["R5", "Mann", "SYD", 11, "GWS", 27, "WCE", 25, "PTA", 5, "FRE", 12, "HAW", 12, "GCS", 8, "RIC", 10, "ESS", 2, "", "", "", "", "", ""],
         ["R5", "AThomasz", "SYD", 4, "GWS", 45, "WCE", 64, "PTA", 14, "FRE", 18, "HAW", 4, "BRI", 14, "RIC", 12, "ESS", 13, "Darcy Byrne-Jones (PTA)", "", "Jack Riewoldt (RIC)", "", "", ""],
