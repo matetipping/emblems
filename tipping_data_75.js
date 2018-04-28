@@ -109,7 +109,7 @@ var tipping_data = {
         ["R5", "Sliced_Bread", "ADE", 9, "GWS", 33, "WCE", 12, "PTA", 12, "WBD", 21, "HAW", 21, "BRI", 9, "RIC", 3, "ESS", 9, "", "", "", "", "", ""],
         ["R6", "Administrator", "WBD", 21, "SYD", 17, "PTA", 33, "GWS", 34, "HAW", 35, "ADE", 48, "", "", "", "", "", ""],
         ["R6", "SCOTT", "WBD", 10, "GEE", 10, "NTH", 10, "GWS", 30, "HAW", 20, "ADE", 25, "MEL", 15, "RIC", 25, "WCE", 20, "", "", "", "", "", ""],
-        ["R6", "Kaytley🐐", "WBD", 25, "SYD", 15, "NTH", 20, "GWS", , "HAW", , "GCS", 23, "MEL", 13, "COL", 20, "WCE", 17, "", "", "", "", "", ""],
+        ["R6", "Kaytley🐐", "WBD", 25, "SYD", 15, "NTH", 20, "GWS", 0, "HAW", 0, "GCS", 23, "MEL", 13, "COL", 20, "WCE", 17, "", "", "", "", "", ""],
         ["R6", "olliedub", "WBD", 44, "GEE", 4, "PTA", 12, "GWS", 52, "STK", 8, "ADE", 34, "MEL", 14, "RIC", 22, "FRE", 8, "", "", "", "", "", ""],
         ["R6", "Mann", "WBD", 10, "GEE", 21, "NTH", 1, "GWS", 44, "HAW", 16, "ADE", 36, "MEL", 12, "RIC", 18, "WCE", 12, "Rory Laird (ADE)", 34, "Jeremy Cameron (GWS)", 7, "", ""],
         ["R6", "Steve", "WBD", 28, "SYD", 18, "NTH", 22, "GWS", 36, "HAW", 18, "ADE", 11, "ESS", 28, "RIC", 31, "FRE", 11, "Tom Mitchell (HAW)", 45, "", "", "", ""],
