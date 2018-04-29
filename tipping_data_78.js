@@ -107,7 +107,7 @@ var tipping_data = {
         ["R5", "ciniboi_12", "ADE", 5, "GWS", 33, "WCE", 1, "PTA", 15, "FRE", 8, "HAW", 28, "BRI", 12, "MEL", 22, "ESS", 4, "Stephen Coniglio (GWS)", 29, "", "", "", ""],
         ["R5", "Susan", "SYD", 12, "GWS", 42, "WCE", 48, "PTA", 24, "FRE", 21, "HAW", 27,"BRI", 6, "RIC", 30, "COL", 7, "", "", "", "", "", ""],
         ["R5", "Sliced_Bread", "ADE", 9, "GWS", 33, "WCE", 12, "PTA", 12, "WBD", 21, "HAW", 21, "BRI", 9, "RIC", 3, "ESS", 9, "", "", "", "", "", ""],
-        ["R6", "Administrator", "WBD", 21, "SYD", 17, "PTA", 33, "GWS", 34, "HAW", 35, "ADE", 48, "MEL", 36, "RIC", 43, "", "", "", "", "", ""],
+        ["R6", "Administrator", "WBD", 21, "SYD", 17, "PTA", 33, "GWS", 34, "HAW", 35, "ADE", 48, "MEL", 36, "RIC", 43, "WCE", 8, "", "", "", "", "", ""],
         ["R6", "SCOTT", "WBD", 10, "GEE", 10, "NTH", 10, "GWS", 30, "HAW", 20, "ADE", 25, "MEL", 15, "RIC", 25, "WCE", 20, "", "", "", "", "", ""],
         ["R6", "Kaytley🐐", "WBD", 25, "SYD", 15, "NTH", 20, "GWS", 0, "HAW", 0, "GCS", 23, "MEL", 13, "COL", 20, "WCE", 17, "", "", "", "", "", ""],
         ["R6", "olliedub", "WBD", 44, "GEE", 4, "PTA", 12, "GWS", 52, "STK", 8, "ADE", 34, "MEL", 14, "RIC", 22, "FRE", 8, "", "", "", "", "", ""],
