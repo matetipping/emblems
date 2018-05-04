@@ -144,7 +144,9 @@ var tipping_data = {
         ["R7", "Flagpies", "GEE", 6, "WBD", 12, "HAW", 24, "WCE", 16, "SYD", 28, "ADE", 50, "RIC", 17, "MEL", 13, "COL", 36, "", "", "", "", "", ""],
         ["R7", "Bigbadbrucey", "GEE", 14, "WBD", 10, "HAW", 20, "WCE", 2, "SYD", 28, "ADE", 45, "RIC", 28, "STK", 2, "BRI", 15, "Adam Treloar (COL)", "", "Josh Kennedy (WCE)", "", "", ""],
         ["R7", "Susan", "GEE", 21, "WBD", 33, "HAW", 13, "WCE", 18, "SYD", 30, "ADE", 55, "RIC", 38, "MEL", 23, "COL", 25, "", "", "", "", "", ""],
-        ["R7", "Kerrynterra", "GEE", 11, "WBD", 5, "HAW", 21, "WCE", 3, "SYD", 23, "ADE", 7, "RIC", 19, "MEL", 14, "COL", 8, "", "", "", "", "", ""]
+        ["R7", "Kerrynterra", "GEE", 11, "WBD", 5, "HAW", 21, "WCE", 3, "SYD", 23, "ADE", 7, "RIC", 19, "MEL", 14, "COL", 8, "", "", "", "", "", ""],
+        ["R7", "Alex Rowland", "GWS", 10, "WBD", 24, "HAW", 22, "WCE", 10, "SYD", 38, "ADE", 41, "RIC", 28, "MEL", 20, "COL", 36, "", "", "", "", "", ""],
+        ["R7", "Harry Rowland", "GWS", 13, "WBD", 6, "HAW", 18, "WCE", 23, "SYD", 15, "ADE", 12, "RIC", 31, "STK", 6, "COL", 6, "", "", "", "", "", ""],
         
     ],
     fixtures: [
