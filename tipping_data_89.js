@@ -148,8 +148,20 @@ var tipping_data = {
         ["R7", "Alex Rowland", "GWS", 10, "WBD", 24, "HAW", 22, "WCE", 10, "SYD", 38, "ADE", 41, "RIC", 28, "MEL", 20, "COL", 36, "", "", "", "", "", ""],
         ["R7", "Harry Rowland", "GWS", 13, "WBD", 6, "HAW", 18, "WCE", 23, "SYD", 15, "ADE", 12, "RIC", 31, "STK", 6, "COL", 6, "", "", "", "", "", ""],
         ["R7", "Steve", "GWS", 15, "WBD", 18, "HAW", 18, "PTA", 21, "SYD", 33, "ADE", 21, "RIC", 33, "STK", 12, "COL", 11, "", "", "", "", "", ""],
-        ["R7", "ciniboi_12", "GWS", 7, "WBD", 26, "ESS", 4, "PTA", 15, "SYD", 32, "ADE", 42, "RIC", 23, "MEL", 13, "COL", 37, "", "", "", "", "", ""]
-        
+        ["R7", "ciniboi_12", "GWS", 7, "WBD", 26, "ESS", 4, "PTA", 15, "SYD", 32, "ADE", 42, "RIC", 23, "MEL", 13, "COL", 37, "", "", "", "", "", ""],
+        ["R8", "Administrator", "", "", "", "", "", ""],
+        ["R8", "Bigbadbrucey", "HAW", 7, "GWS", 13, "ESS", 25, "MEL", 23, "ADE", 25, "WBD", 17, "FRE", 37, "RIC", 24, "GEE", 13, "", "", "", "", "", ""],
+        ["R8", "olliedub", "SYD", 14, "GWS", 18, "ESS", 8, "MEL", 24, "ADE", 11, "WBD", 46, "FRE", 32, "RIC", 32, "GEE", 16, "", "", "", "", "", ""],
+        ["R8", "Sliced_Bread", "HAW", 15, "GWS", 10, "ESS", 25, "MEL", 10, "PTA", 20, "WBD", 30, "FRE", 15, "RIC", 20, "COL", 10, "", "", "", "", "", ""],
+        ["R8", "Flagpies", "HAW", 3, "GWS", 13, "ESS", 18, "MEL", 15, "ADE", 6, "WBD", 8, "FRE", 20, "RIC", 24, "COL", 7, "", "", "", "", "", ""],
+        ["R8", "SCOTT", "HAW", 10, "GWS", 15, "ESS", 20, "MEL", 15, "ADE", 20, "WBD", 25, "FRE", 20, "RIC", 20, "COL", 10, "", "", "", "", "", ""],
+        ["R8", "Mann", "HAW", 8, "GWS", 17, "ESS", 13, "MEL", 22, "ADE", 20, "WBD", 10, "FRE", 19, "RIC", 22, "GEE", 19, "Tom Mitchell (HAW)", "", "", "", "", ""],
+        ["R8", "Dannelboyz", "HAW", 3, "GWS", 15, "ESS", 27, "MEL", 30, "ADE", 10, "WBD", 22, "FRE", 11, "RIC", 35, "GEE", 10, "Jack Macrae (WBD)", "", "", "", "", ""],
+        ["R8", "Kerrynterra", "HAW", 19, "GWS", 7, "ESS", 22, "MEL", 14, "PTA", 5, "WBD", 19, "FRE", 17, "RIC", 26, "GEE", 11, "", "", "Luke Breust (HAW)", "", "", ""],
+        ["R8", "Kaytley🐐", "HAW", 18, "GWS", 18, "ESS", 20, "GCS", 25, "PTA", 32, "BRI", 12, "STK", 21, "RIC", 22, "COL", 28, "", "", "", "", "", ""],
+        ["R8", "Bill Rowland", "HAW", 5, "WCE", 11, "ESS", 15, "MEL", 22, "ADE", 15, "WBD", 17, "FRE", 23, "RIC", 45, "GEE", 11, "", "", "", "", "", ""],
+        ["R8", "Steve", "HAW", 18, "GWS", 12, "ESS", 33, "MEL", 15, "ADE", 22, "WBD", 12, "FRE", 32, "RIC", 33, "GEE", 29, "", "", "", "", "", ""],
+        ["R8", "Craig Terrington", "SYD", 5, "GWS", 20, "ESS", 25, "MEL", 20, "ADE", 15, "WBD", 20, "FRE", 20, "RIC", 25, "GEE", 10, "Lachie Neale (FRE)", "", "Luke Breust (HAW)", "", "", ""]       
     ],
     fixtures: [
         ["R1", "olliedub", "Kerrynterra", "Bill Rowland", "SCOTT", "Susan", "Flagpies", "AThomasz", "Steve", "Sliced_Bread", "Harry Rowland", "Craig Terrington", "Jeanille01", "Kaytley🐐", "Alex Rowland", "Dannelboyz", "Jono22", "ciniboi_12", "Mann", "jamieling", "Bigbadbrucey"],
