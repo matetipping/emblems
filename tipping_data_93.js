@@ -149,7 +149,7 @@ var tipping_data = {
         ["R7", "Harry Rowland", "GWS", 13, "WBD", 6, "HAW", 18, "WCE", 23, "SYD", 15, "ADE", 12, "RIC", 31, "STK", 6, "COL", 6, "", "", "", "", "", ""],
         ["R7", "Steve", "GWS", 15, "WBD", 18, "HAW", 18, "PTA", 21, "SYD", 33, "ADE", 21, "RIC", 33, "STK", 12, "COL", 11, "", "", "", "", "", ""],
         ["R7", "ciniboi_12", "GWS", 7, "WBD", 26, "ESS", 4, "PTA", 15, "SYD", 32, "ADE", 42, "RIC", 23, "MEL", 13, "COL", 37, "", "", "", "", "", ""],
-        ["R8", "Administrator", "SYD", 8, "", "", "", "", "", ""],
+        ["R8", "Administrator", "SYD", 8, "WCE", 25, "CAR", 13, "", "", "", "", "", ""],
         ["R8", "Bigbadbrucey", "HAW", 7, "GWS", 13, "ESS", 25, "MEL", 23, "ADE", 25, "WBD", 17, "FRE", 37, "RIC", 24, "GEE", 13, "", "", "", "", "", ""],
         ["R8", "olliedub", "SYD", 14, "GWS", 18, "ESS", 8, "MEL", 24, "ADE", 11, "WBD", 46, "FRE", 32, "RIC", 32, "GEE", 16, "", "", "", "", "", ""],
         ["R8", "Sliced_Bread", "HAW", 15, "GWS", 10, "ESS", 25, "MEL", 10, "PTA", 20, "WBD", 30, "FRE", 15, "RIC", 20, "COL", 10, "", "", "", "", "", ""],
@@ -163,13 +163,13 @@ var tipping_data = {
         ["R8", "Steve", "HAW", 18, "GWS", 12, "ESS", 33, "MEL", 15, "ADE", 22, "WBD", 12, "FRE", 32, "RIC", 33, "GEE", 29, "", "", "", "", "", ""],
         ["R8", "Craig Terrington", "SYD", 5, "GWS", 20, "ESS", 25, "MEL", 20, "ADE", 15, "WBD", 20, "FRE", 20, "RIC", 25, "GEE", 10, "Lachie Neale (FRE)", "", "Luke Breust (HAW)", 19, "", ""],
         ["R8", "Susan", "HAW", 10, "GWS", 12, "ESS", 18, "MEL", 19, "ADE", 11, "WBD", 17, "FRE", 23, "RIC", 24, "GEE", 11, "", "", "", "", "", ""],
-        ["R8", "AThomasz", "HAW", 27, "GWS", 4, "ESS", 24, "GCS", 40, "PTA", 50, "WBD", 3, "FRE", 16, "RIC", 54, "COL", 74, "Adam Treloar", "", "Taylor Adams", "", "", ""],
-        ["R8", "jamieling", "SYD", 13, "WCE", 22, "ESS", 20, "MEL", 30, "ADE", 27, "WBD", 29, "FRE", 44, "RIC", 47, "GEE", 16, "Josh Kennedy (SYD)", 19, "Josh Kennedy (WCE)", "", "", ""],
-        ["R8", "Harry Rowland", "HAW", 18, "GWS", 6, "ESS", 24, "MEL", 12, "ADE", 6, "WBD", 18, "STK", 12, "RIC", 36, "GEE", 24, "Gary Ablett", "", "", "", "", ""],
+        ["R8", "AThomasz", "HAW", 27, "GWS", 4, "ESS", 24, "GCS", 40, "PTA", 50, "WBD", 3, "FRE", 16, "RIC", 54, "COL", 74, "Adam Treloar (COL)", "", "Taylor Adams (COL)", "", "", ""],
+        ["R8", "jamieling", "SYD", 13, "GWS", 22, "ESS", 20, "MEL", 30, "ADE", 27, "WBD", 29, "FRE", 44, "RIC", 47, "GEE", 16, "Josh Kennedy (SYD)", 19, "Jeremy Cameron (GWS)", 12, "", ""],
+        ["R8", "Harry Rowland", "HAW", 18, "GWS", 6, "ESS", 24, "MEL", 12, "ADE", 6, "WBD", 18, "STK", 12, "RIC", 36, "GEE", 24, "Gary Ablett (GEE)", "", "", "", "", ""],
         ["R8", "Alex Rowland", "SYD", 10, "GWS", 23, "ESS", 16, "MEL", 28, "ADE", 33, "WBD", 35, "FRE", 32, "RIC", 21, "GEE", 22, "", "", "", "", "", ""],
         ["R8", "ciniboi_12", "SYD", 4, "GWS", 17, "ESS", 24, "MEL", 13, "ADE", 3, "WBD", 33, "FRE", 19, "RIC", 21, "COL", 7, "Jack Macrae (WBD)", "", "", "", "", ""],
-        ["R8", "Jono22", "HAW", 10, "GWS", 11, "ESS", 7, "MEL", 8, "ADE", 0, "WBD", 12, "FRE", 10, "RIC", 18, "COL", 8, "", "", "", "", "", ""],
-        ["R8", "Jono22", "HAW", 10, "GWS", 11, "ESS", 7, "MEL", 8, "ADE", 0, "WBD", 12, "FRE", 10, "RIC", 18, "COL", 8, "", "", "", "", "", ""]
+        ["R8", "Jono22", "HAW", 10, "GWS", 11, "ESS", 7, "MEL", 8, "PTA", 5, "WBD", 12, "FRE", 10, "RIC", 18, "COL", 8, "", "", "", "", "", ""],
+        ["R8", "Jono22", "HAW", 10, "GWS", 11, "ESS", 7, "MEL", 8, "PTA", 5, "WBD", 12, "FRE", 10, "RIC", 18, "COL", 8, "", "", "", "", "", ""]
     ],
     fixtures: [
         ["R1", "olliedub", "Kerrynterra", "Bill Rowland", "SCOTT", "Susan", "Flagpies", "AThomasz", "Steve", "Sliced_Bread", "Harry Rowland", "Craig Terrington", "Jeanille01", "Kaytley🐐", "Alex Rowland", "Dannelboyz", "Jono22", "ciniboi_12", "Mann", "jamieling", "Bigbadbrucey"],
