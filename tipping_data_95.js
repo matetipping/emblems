@@ -149,7 +149,7 @@ var tipping_data = {
         ["R7", "Harry Rowland", "GWS", 13, "WBD", 6, "HAW", 18, "WCE", 23, "SYD", 15, "ADE", 12, "RIC", 31, "STK", 6, "COL", 6, "", "", "", "", "", ""],
         ["R7", "Steve", "GWS", 15, "WBD", 18, "HAW", 18, "PTA", 21, "SYD", 33, "ADE", 21, "RIC", 33, "STK", 12, "COL", 11, "", "", "", "", "", ""],
         ["R7", "ciniboi_12", "GWS", 7, "WBD", 26, "ESS", 4, "PTA", 15, "SYD", 32, "ADE", 42, "RIC", 23, "MEL", 13, "COL", 37, "", "", "", "", "", ""],
-        ["R8", "Administrator", "SYD", 8, "WCE", 25, "CAR", 13, "", "", "", "", "", ""],
+        ["R8", "Administrator", "SYD", 8, "WCE", 25, "CAR", 13, "MEL", 69, "PTA", 5, "", "", "", "", "", ""],
         ["R8", "Bigbadbrucey", "HAW", 7, "GWS", 13, "ESS", 25, "MEL", 23, "ADE", 25, "WBD", 17, "FRE", 37, "RIC", 24, "GEE", 13, "", "", "", "", "", ""],
         ["R8", "olliedub", "SYD", 14, "GWS", 18, "ESS", 8, "MEL", 24, "ADE", 11, "WBD", 46, "FRE", 32, "RIC", 32, "GEE", 16, "", "", "", "", "", ""],
         ["R8", "Sliced_Bread", "HAW", 15, "GWS", 10, "ESS", 25, "MEL", 10, "PTA", 20, "WBD", 30, "FRE", 15, "RIC", 20, "COL", 10, "", "", "", "", "", ""],
