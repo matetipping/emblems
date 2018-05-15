@@ -163,7 +163,7 @@ var tipping_data = {
         ["R8", "Steve", "HAW", 18, "GWS", 12, "ESS", 33, "MEL", 15, "ADE", 22, "WBD", 12, "FRE", 32, "RIC", 33, "GEE", 29, "", "", "", "", "", ""],
         ["R8", "Craig Terrington", "SYD", 5, "GWS", 20, "ESS", 25, "MEL", 20, "ADE", 15, "WBD", 20, "FRE", 20, "RIC", 25, "GEE", 10, "Lachie Neale (FRE)", 32, "Luke Breust (HAW)", 19, "", ""],
         ["R8", "Susan", "HAW", 10, "GWS", 12, "ESS", 18, "MEL", 19, "ADE", 11, "WBD", 17, "FRE", 23, "RIC", 24, "GEE", 11, "", "", "", "", "", ""],
-        ["R8", "AThomasz", "HAW", 27, "GWS", 4, "ESS", 24, "GCS", 40, "PTA", 50, "WBD", 3, "FRE", 16, "RIC", 54, "COL", 74, "Adam Treloar (COL)", 34, "Taylor Adams (COL)", 0, "", ""],
+        ["R8", "AThomasz", "HAW", 27, "GWS", 4, "ESS", 24, "GCS", 40, "PTA", 50, "WBD", 3, "FRE", 16, "RIC", 54, "COL", 74, "Adam Treloar (COL)", "", "Taylor Adams (COL)", 0, "", ""],
         ["R8", "jamieling", "SYD", 13, "GWS", 22, "ESS", 20, "MEL", 30, "ADE", 27, "WBD", 29, "FRE", 44, "RIC", 47, "GEE", 16, "Josh Kennedy (SYD)", 19, "Jeremy Cameron (GWS)", 12, "", ""],
         ["R8", "Harry Rowland", "HAW", 18, "GWS", 6, "ESS", 24, "MEL", 12, "ADE", 6, "WBD", 18, "STK", 12, "RIC", 36, "GEE", 24, "Gary Ablett (GEE)", 31, "", "", "", ""],
         ["R8", "Alex Rowland", "SYD", 10, "GWS", 23, "ESS", 16, "MEL", 28, "ADE", 33, "WBD", 35, "FRE", 32, "RIC", 21, "GEE", 22, "", "", "", "", "", ""],
