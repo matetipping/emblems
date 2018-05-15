@@ -169,7 +169,8 @@ var tipping_data = {
         ["R8", "Alex Rowland", "SYD", 10, "GWS", 23, "ESS", 16, "MEL", 28, "ADE", 33, "WBD", 35, "FRE", 32, "RIC", 21, "GEE", 22, "", "", "", "", "", ""],
         ["R8", "ciniboi_12", "SYD", 4, "GWS", 17, "ESS", 24, "MEL", 13, "ADE", 3, "WBD", 33, "FRE", 19, "RIC", 21, "COL", 7, "Jack Macrae (WBD)", 47, "", "", "", ""],
         ["R8", "Jono22", "HAW", 10, "GWS", 11, "ESS", 7, "MEL", 8, "PTA", 5, "WBD", 12, "FRE", 10, "RIC", 18, "COL", 8, "", "", "", "", "", ""],
-        ["R8", "Jeanille01", "HAW", 10, "GWS", 11, "ESS", 7, "MEL", 8, "PTA", 5, "WBD", 12, "FRE", 10, "RIC", 18, "COL", 8, "", "", "", "", "", ""]
+        ["R8", "Jeanille01", "HAW", 10, "GWS", 11, "ESS", 7, "MEL", 8, "PTA", 5, "WBD", 12, "FRE", 10, "RIC", 18, "COL", 8, "", "", "", "", "", ""],
+        ["R9", "Administrator", "", "", "", "", "", ""]
     ],
     fixtures: [
         ["R1", "olliedub", "Kerrynterra", "Bill Rowland", "SCOTT", "Susan", "Flagpies", "AThomasz", "Steve", "Sliced_Bread", "Harry Rowland", "Craig Terrington", "Jeanille01", "Kaytley🐐", "Alex Rowland", "Dannelboyz", "Jono22", "ciniboi_12", "Mann", "jamieling", "Bigbadbrucey"],
@@ -179,6 +180,7 @@ var tipping_data = {
         ["R5", "Jono22", "Alex Rowland", "Craig Terrington", "Bill Rowland", "Kaytley🐐", "Kerrynterra", "Dannelboyz", "SCOTT", "ciniboi_12", "Flagpies", "jamieling", "Steve", "Bigbadbrucey", "Harry Rowland", "Mann", "Jeanille01", "olliedub", "AThomasz", "Sliced_Bread", "Susan"],
         ["R6", "Harry Rowland", "Alex Rowland", "Steve", "Jono22", "Jeanille01", "olliedub", "Flagpies", "Mann", "SCOTT", "Bigbadbrucey", "Kerrynterra", "jamieling", "Bill Rowland", "ciniboi_12", "Susan", "Dannelboyz", "AThomasz", "Kaytley🐐", "Sliced_Bread", "Craig Terrington"],
         ["R7", "olliedub", "Flagpies", "SCOTT", "Steve", "Kerrynterra", "Harry Rowland", "Bill Rowland", "Jeanille01", "Susan", "Alex Rowland", "AThomasz", "Jono22", "Sliced_Bread", "Mann", "Craig Terrington", "Bigbadbrucey", "Kaytley🐐", "jamieling", "Dannelboyz", "ciniboi_12"],
-        ["R8", "Craig Terrington", "AThomasz", "ciniboi_12", "Kerrynterra", "jamieling", "SCOTT", "olliedub", "Sliced_Bread", "Kaytley🐐", "Susan", "Dannelboyz", "Bill Rowland", "Bigbadbrucey", "Flagpies", "Mann", "Steve", "Jono22", "Harry Rowland", "Alex Rowland", "Jeanille01"]
+        ["R8", "Craig Terrington", "AThomasz", "ciniboi_12", "Kerrynterra", "jamieling", "SCOTT", "olliedub", "Sliced_Bread", "Kaytley🐐", "Susan", "Dannelboyz", "Bill Rowland", "Bigbadbrucey", "Flagpies", "Mann", "Steve", "Jono22", "Harry Rowland", "Alex Rowland", "Jeanille01"],
+        ["R9", "Alex Rowland", "Craig Terrington", "Jeanille01", "Sliced_Bread", "Harry Rowland", "AThomasz", "Steve", "Susan", "Flagpies", "Bill Rowland", "SCOTT", "Kerrynterra", "jamieling", "olliedub", "Bigbadbrucey", "ciniboi_12", "Mann", "Dannelboyz", "Jono22", "Kaytley🐐"]
     ]
 }
