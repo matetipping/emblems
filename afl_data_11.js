@@ -8,12 +8,8 @@ var afl_data = {
         ["R5", "April 20, 2018 19:50:00 GMT+1000"],
         ["R6", "April 27, 2018 19:50:00 GMT+1000"],
         ["R7", "May 4, 2018 19:50:00 GMT+1000"],
-        ["R8", "May 11, 2018 19:50:00 GMT+1000"]
-//        ["R5", "April 21, 2017 19:20:00 GMT+0930"],
-//        ["R6", "April 28, 2017 19:50:00 GMT+1000"],
-//        ["R7", "May 5, 2017 19:50:00 GMT+1000"],
-//        ["R8", "May 12, 2017 18:10:00 GMT+0800"],
-//        ["R9", "May 19, 2017 19:50:00 GMT+1000"],
+        ["R8", "May 11, 2018 19:50:00 GMT+1000"],
+        ["R9", "May 18, 2018 19:20:00 GMT+0930"]
 //        ["R10", "May 26, 2017 19:50:00 GMT+1000"],
 //        ["B1", "June 2, 2017 19:50:00 GMT+1000"],
 //        ["B2", "June 10, 2017 19:25:00 GMT+1000"],
@@ -101,5 +97,14 @@ var afl_data = {
         ["R8", "FRE", "STK", "OS - Sunday, May 12 - 6:10 PM"],
         ["R8", "NTH", "RIC", "ES - Sunday, May 13 - 1:10 PM"],
         ["R8", "COL", "GEE", "MCG - Sunday, May 13 - 3:20 PM"],
+        ["R9", "ADE", "WBD", "AO - Friday, May 18 - 7:20 PM"],
+        ["R9", "NTH", "GWS", "BA - Saturday, May 19 - 1:45 PM"],
+        ["R9", "GCS", "PTA", "AAJS - Satuday, May 19 - 1:15 PM"],
+        ["R9", "ESS", "GEE", "MCG - Saturday, May 19 - 4:35 PM"],
+        ["R9", "SYD", "FRE", "SCG - Saturday, May 19 - 7:25 PM"],
+        ["R9", "STK", "COL", "ES - Saturday, May 19 - 7:25 PM"],
+        ["R9", "CAR", "MEL", "MCG - Sunday, May 20 - 1:10 PM"],
+        ["R9", "BRI", "HAW", "G - Sunday, May 20 - 3:20 PM"],
+        ["R9", "WCE", "RIC", "OS - Sunday, May 20 - 2:40 PM"]
     ]
 }
