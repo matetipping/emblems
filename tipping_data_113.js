@@ -223,6 +223,10 @@ var tipping_data = {
         ["R7", "olliedub", "Flagpies", "SCOTT", "Steve", "Kerrynterra", "Harry Rowland", "Bill Rowland", "Jeanille01", "Susan", "Alex Rowland", "AThomasz", "Jono22", "Sliced_Bread", "Mann", "Craig Terrington", "Bigbadbrucey", "Kaytley🐐", "jamieling", "Dannelboyz", "ciniboi_12"],
         ["R8", "Craig Terrington", "AThomasz", "ciniboi_12", "Kerrynterra", "jamieling", "SCOTT", "olliedub", "Sliced_Bread", "Kaytley🐐", "Susan", "Dannelboyz", "Bill Rowland", "Bigbadbrucey", "Flagpies", "Mann", "Steve", "Jono22", "Harry Rowland", "Alex Rowland", "Jeanille01"],
         ["R9", "Alex Rowland", "Craig Terrington", "Jeanille01", "Sliced_Bread", "Harry Rowland", "AThomasz", "Steve", "Susan", "Flagpies", "Bill Rowland", "SCOTT", "Kerrynterra", "jamieling", "olliedub", "Bigbadbrucey", "ciniboi_12", "Mann", "Dannelboyz", "Jono22", "Kaytley🐐"],
-        ["R10", "Alex Rowland", "olliedub", "Jeanille01", "Jono22", "Harry Rowland", "Mann", "Steve", "Bigbadbrucey", "Flagpies", "jamieling", "SCOTT", "ciniboi_12", "Kerrynterra", "Dannelboyz", "Bill Rowland", "Kaytley🐐", "Susan", "Craig Terrington", "AThomasz", "Sliced_Bread"]
+        ["R10", "Alex Rowland", "olliedub", "Jeanille01", "Jono22", "Harry Rowland", "Mann", "Steve", "Bigbadbrucey", "Flagpies", "jamieling", "SCOTT", "ciniboi_12", "Kerrynterra", "Dannelboyz", "Bill Rowland", "Kaytley🐐", "Susan", "Craig Terrington", "AThomasz", "Sliced_Bread"],
+        ["R11", "Bigbadbrucey", "olliedub", "Mann", "jamieling", "Jono22", "ciniboi_12", "Alex Rowland", "Dannelboyz", "Jeanille01", "Kaytley🐐", "Harry Rowland", "Craig Terrington", "Steve", "Sliced_Bread", "Flagpies", "AThomasz", "SCOTT", "Susan", "Kerrynterra", "Bill Rowland"],
+        ["B1", "AThomasz", "SCOTT", "Sliced_Bread", "Flagpies", "olliedub", "Bill Rowland", "Susan", "Kerrynterra", "Craig Terrington", "Steve", "Kaytley🐐", "Harry Rowland", "Dannelboyz", "Jeanille01", "ciniboi_12", "Alex Rowland", "jamieling", "Jono22", "Bigbadbrucey", "Mann"],
+        ["B2", "Jeanille01", "ciniboi_12", "Harry Rowland", "Dannelboyz", "Mann", "olliedub", "Jono22", "Bigbadbrucey", "Alex Rowland", "jamieling", "Steve", "Kaytley🐐", "Flagpies", "Craig Terrington", "SCOTT", "Sliced_Bread", "Kerrynterra", "AThomasz", "Bill Rowland", "Susan"]
+        
     ]
 }
