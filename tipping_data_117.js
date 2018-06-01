@@ -204,7 +204,7 @@ var tipping_data = {
         ["R10", "ciniboi_12", "WBD", 18, "RIC", 35, "SYD", 42, "GEE", 27, "GWS", 6, "WCE", 14, "ADE", 2, "FRE", 10, "SYD", 28, "Patrick Dangerfield (GEE)", 29, "Jack Riewoldt (RIC)", 0, "", ""],
         ["R10", "Bigbadbrucey", "COL", 6, "RIC", 40, "SYD", 23, "GEE", 38, "GWS", 17, "WCE", 18, "ADE", 6, "NTH", 17, "SYD", 33, "Sebastian Ross (STK)", 37, "Jack Darling (WCE)", 0, "", ""],
         ["R10", "Dannelboyz", "COL", 19, "RIC", 48, "SYD", 36, "GEE", 65, "GWS", 16, "HAW", 1, "ADE", 26, "NTH", 28, "SYD", 46, "", "", "Lance Franklin (SYD)", 20, "", ""],
-        ["R10", "Susan", "COL", 17, "RIC", 39, "SYD", 19, "GEE", 48, "GWS", 16, "WCE", 9, "MEL", 8, "FRE", 6, "SYD", 52, "", "", "Lance Franklin (SYD), 20, "", ""],
+        ["R10", "Susan", "COL", 17, "RIC", 39, "SYD", 19, "GEE", 48, "GWS", 16, "WCE", 9, "MEL", 8, "FRE", 6, "SYD", 52, "", "", "Lance Franklin (SYD)", 20, "", ""],
         ["R10", "Kaytley🐐", "COL", 20, "RIC", 15, "SYD", 20, "CAR", 40, "ESS", 20, "HAW", 35, "MEL", 25, "NTH", 30, "SYD", 48, "", "", "", "", "", ""],
         ["R10", "Flagpies", "COL", 3, "RIC", 30, "SYD", 6, "GEE", 48, "ESS", 18, "HAW", 10, "ADE", 20, "FRE", 9, "SYD", 25, "Jack Macrae (WBD)", 30, "Jack Riewoldt (RIC)", 0, "", ""],
         ["R10", "Kerrynterra", "COL", 22, "RIC", 31, "SYD", 13, "GEE", 32, "ESS", 8, "HAW", 13, "MEL", 16, "FRE", 13, "SYD", 29, "Steele Sidebottom (COL)", 24, "Ben Brown (NTH)", 13, "", ""],
