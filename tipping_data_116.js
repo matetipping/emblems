@@ -211,7 +211,8 @@ var tipping_data = {
         ["R10", "Alex Rowland", "WBD", 15, "RIC", 45, "SYD", 43, "GEE", 36, "GWS", 12, "HAW", 22, "ADE", 25, "NTH", 14, "SYD", 42, "Adam Treloar (COL)", 40, "", "", "", ""],
         ["R10", "Sliced_Bread", "COL", 25, "RIC", 25, "SYD", 25, "GEE", 25, "GWS", 25, "WCE", 25, "ADE", 25, "NTH", 25, "SYD", 50, "", "", "", "", "", ""],
         ["R10", "jamieling", "COL", 26, "RIC", 44, "SYD", 36, "GEE", 72, "GWS", 24, "WCE", 19, "MEL", 9, "FRE", 11, "SYD", 62, "Gary Ablett (GEE)", 25, "Lance Franklin (SYD)", 20, "", ""],
-        ["R10", "SCOTT", "WBD", 10, "RIC", 30, "SYD", 25, "GEE", 30, "GWS", 20, "WCE", 15, "ADE", 10, "NTH", 10, "SYD", 35, "", "", "", "", "", ""]
+        ["R10", "SCOTT", "WBD", 10, "RIC", 30, "SYD", 25, "GEE", 30, "GWS", 20, "WCE", 15, "ADE", 10, "NTH", 10, "SYD", 35, "", "", "", "", "", ""],
+        ["R11", "Administrator", "", "", "", "", "", ""]
     ],
     fixtures: [
         ["R1", "olliedub", "Kerrynterra", "Bill Rowland", "SCOTT", "Susan", "Flagpies", "AThomasz", "Steve", "Sliced_Bread", "Harry Rowland", "Craig Terrington", "Jeanille01", "Kaytley🐐", "Alex Rowland", "Dannelboyz", "Jono22", "ciniboi_12", "Mann", "jamieling", "Bigbadbrucey"],
