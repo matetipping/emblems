@@ -231,7 +231,8 @@ var tipping_data = {
         ["R11", "ciniboi_12", "MEL", 10, "HAW", 15, "GEE", 28, "RIC", 4, "WCE", 42, "NTH", 19, "COL", 29, "ADE", 26, "PTA", 5, "", "", "Jack Darling (WCE)", "", "", ""],
         ["R11", "Kerrynterra", "MEL", 18, "HAW", 7, "GEE", 21, "RIC", 17, "WCE", 22, "NTH", 19, "COL", 10, "ADE", 16, "RIC", 14, "Adam Treloar (COL)", "", "", "", "", ""],
         ["R11", "Craig Terrington", "MEL", 40, "PTA", 10, "GEE", 35, "RIC", 35, "WCE", 45, "NTH", 40, "COL", 15, "ADE", 35, "RIC", 10, "", "", "", "", "", ""],
-        ["R11", "Susan", "MEL", 33, "PTA", 7, "GEE", 21, "RIC", 19, "WCE", 49, "NTH", 24, "COL", 31, "ADE", 21, "PTA", 6, "Rory Laird (ADE)", "", "Ben Brown (NTH)", "", "", ""]
+        ["R11", "Susan", "MEL", 33, "PTA", 7, "GEE", 21, "RIC", 19, "WCE", 49, "NTH", 24, "COL", 31, "ADE", 21, "PTA", 6, "Rory Laird (ADE)", "", "Ben Brown (NTH)", "", "", ""],
+        ["R11", "AThomasz", "WBD", 27, "HAW", 15, "GEE", 39, "RIC", 6, "STK", 21, "NTH", 6, "FRE", 48, "GWS", 9, "RIC", 27, "", "", "", "", "", ""]
     ],
     fixtures: [
         ["R1", "olliedub", "Kerrynterra", "Bill Rowland", "SCOTT", "Susan", "Flagpies", "AThomasz", "Steve", "Sliced_Bread", "Harry Rowland", "Craig Terrington", "Jeanille01", "Kaytley🐐", "Alex Rowland", "Dannelboyz", "Jono22", "ciniboi_12", "Mann", "jamieling", "Bigbadbrucey"],
