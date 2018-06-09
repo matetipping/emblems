@@ -244,7 +244,7 @@ var tipping_data = {
         ["B1", "Susan", "GEE", 16, "GWS", 46, "SYD", 25, "ESS", 10, "ADE", 17, "MEL", 12, "PTA", 32, "SYD", 10, "FRE", 11, "Adam Treloar (COL)", "", "Jeremy Cameron (GWS)", 39, "", ""],
         ["B1", "Dannelboyz", "GEE", 25, "GWS", 36, "SYD", 30, "ESS", 28, "ADE", 49, "MEL", 19, "PTA", 22, "SYD", 1, "FRE", 14, "Adam Treloar (COL)", "", "", "", "", ""],
         ["B1", "Mann", "GEE", 4, "GWS", 38, "SYD", 35, "ESS", 1, "ADE", 22, "MEL", 19, "PTA", 33, "WCE", 1, "FRE", 15, "", "", "Lance Franklin (SYD) - 1st", 28, "", ""],
-        ["B1", "Jono22", "GEE", 15, "GWS", 34, "STK", , "ESS", 10, "ADE", 32, "MEL", 17, "PTA", 20, "SYD", 16, "CAR", , "Gary Ablett (GEE)", 34, "Jeremy Cameron (GWS)", 39, "", ""],
+        ["B1", "Jono22", "GEE", 15, "GWS", 34, "STK", 0, "ESS", 10, "ADE", 32, "MEL", 17, "PTA", 20, "SYD", 16, "CAR", , "Gary Ablett (GEE)", 34, "Jeremy Cameron (GWS)", 39, "", ""],
         ["B1", "Jeanille01", "GEE", 20, "GWS", 30, "SYD", 16, "ESS", 18, "ADE", 28, "MEL", 14, "PTA", 24, "SYD", 13, "FRE", 18, "Jack Macrae (WBD)", "", "", "", "", ""],
         ["B1", "Harry Rowland", "GEE", 24, "GWS", 36, "SYD", 42, "ESS", 18, "ADE", 30, "MEL", 18, "PTA", 24, "SYD", , "FRE", 2, "", "", "", "", "", ""],
         ["B1", "Alex Rowland", "GEE", 12, "GWS", 25, "SYD", 36, "ESS", 22, "ADE", 33, "MEL", 10, "PTA", 24, "SYD", 13, "CAR", 11, "Steele Sidebottom (COL)", "", "Lance Franklin (SYD) - 1st", 28, "", ""],
