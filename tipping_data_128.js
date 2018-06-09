@@ -234,9 +234,9 @@ var tipping_data = {
         ["R11", "Susan", "MEL", 33, "PTA", 7, "GEE", 21, "RIC", 19, "WCE", 49, "NTH", 24, "COL", 31, "ADE", 21, "PTA", 6, "Rory Laird (ADE)", 30, "Ben Brown (NTH)", 12, "", ""],
         ["R11", "AThomasz", "WBD", 27, "HAW", 15, "GEE", 39, "RIC", 6, "STK", 21, "NTH", 6, "FRE", 48, "GWS", 9, "RIC", 27, "", "", "", "", "", ""],
         ["B1", "Administrator", "", "", "", "", "", ""], 
-        ["B1", "Bigbadbrucey", "GEE", 17, "GWS", 45, "SYD", 25, "ESS", 3, "ADE", 22, "COL", 3, "PTA", 25, "SYD", 5, "FRE", 11, "Tom Phillips ", "", "Tim Membrey ", "", "", ""],
-        ["B1", "Bill Rowland", "NTH", 5, "GWS", 17, "SYD", 44, "BRI", 2, "ADE", 3, "MEL", 25, "PTA", 29, "SYD", 3, "FRE", 15, "lachie neale", "", "", "", "", ""],
-        ["B1", "Kerrynterra", "GEE", 16, "GWS", 23, "SYD", 28, "ESS", 32, "FRE", 13, "MEL", 15, "PTA", 24, "SYD", 17, "FRE", 28, "Lachie neale", "", "Lance franklin 2nd", "", "", ""],
+        ["B1", "Bigbadbrucey", "GEE", 17, "GWS", 45, "SYD", 25, "ESS", 3, "ADE", 22, "COL", 3, "PTA", 25, "SYD", 5, "FRE", 11, "Tom Phillips (COL)", "", "Tim Membrey (STK)", "", "", ""],
+        ["B1", "Bill Rowland", "NTH", 5, "GWS", 17, "SYD", 44, "BRI", 2, "ADE", 3, "MEL", 25, "PTA", 29, "SYD", 3, "FRE", 15, "Lachie Neale (FRE)", "", "", "", "", ""],
+        ["B1", "Kerrynterra", "GEE", 16, "GWS", 23, "SYD", 28, "ESS", 32, "FRE", 13, "MEL", 15, "PTA", 24, "SYD", 17, "FRE", 28, "Lachie Neale (FRE)", "", "Lance Franklin (SYD) (2nd)", "", "", ""],
         ["B1", "Craig Terrington", "GEE", 25, "GWS", 50, "SYD", 35, "ESS", 20, "ADE", 25, "MEL", 15, "PTA", 35, "SYD", 15, "FRE", 20, "Gary Ablett (GEE)", "", "", "", "", ""],
         ["B1", "Kaytley🐐", "GEE", 23, "GWS", 26, "SYD", 34, "ESS", 20, "ADE", 23, "COL", 16, "WBD", 34, "WCE", 27, "CAR", 12, "Patrick Dangerfield (GEE)", "", "Tom Mitchell (HAW)", "", "", ""],
         ["B1", "SCOTT", "GEE", 20, "GWS", 25, "SYD", 25, "ESS", 15, "ADE", 15, "MEL", 5, "PTA", 25, "SYD", 5, "FRE", 10, "Adam Treloar (COL)", "", "Ben Brown (NTH)", "", "", ""],
@@ -252,7 +252,7 @@ var tipping_data = {
         ["B1", "olliedub", "GEE", 21, "GWS", 17, "SYD", 31, "BRI", 12, "ADE", 11, "MEL", 26, "PTA", 18, "SYD", 9, "FRE", 12, "Lachie Neale (FRE)", "", "Jonathon Patton (GWS)", "", "", ""],
         ["B1", "Steve", "GEE", 21, "GWS", 35, "SYD", 25, "ESS", 33, "ADE", 14, "COL", 22, "WBD", 5, "SYD", 22, "FRE", 21, "Rory Laird (ADE)", "", "", "", "", ""],
         ["B1", "ciniboi_12", "GEE", 8, "GWS", 28, "SYD", 22, "ESS", 10, "ADE", 5, "COL", 6, "PTA", 16, "SYD", 3, "CAR", 14, "Lachie Neale (FRE) (2nd)", "", "Jesse Hogan (MEL)", "", "", ""],
-        ["B1", "Flagpies", "GEE", 20, "GWS", 12, "SYD", 30, "ESS", 3, "ADE", 15, "COL", 10, "PTA", 24, "WCE", 5, "FRE", , "Dan Hanneberry (SYD) ", "", "Ben Brown (NTH)", "", "", ""]
+        ["B1", "Flagpies", "GEE", 20, "GWS", 12, "SYD", 30, "ESS", 3, "ADE", 15, "COL", 10, "PTA", 24, "WCE", 5, "FRE", 0, "Dan Hanneberry (SYD) ", "", "Ben Brown (NTH)", "", "", ""]
     ],
     fixtures: [
         ["R1", "olliedub", "Kerrynterra", "Bill Rowland", "SCOTT", "Susan", "Flagpies", "AThomasz", "Steve", "Sliced_Bread", "Harry Rowland", "Craig Terrington", "Jeanille01", "Kaytley🐐", "Alex Rowland", "Dannelboyz", "Jono22", "ciniboi_12", "Mann", "jamieling", "Bigbadbrucey"],
