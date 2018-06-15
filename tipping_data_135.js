@@ -246,7 +246,7 @@ var tipping_data = {
         ["B1", "Mann", "GEE", 4, "GWS", 38, "SYD", 35, "ESS", 1, "ADE", 22, "MEL", 19, "PTA", 33, "WCE", 1, "FRE", 15, "", "", "Lance Franklin (SYD) - 1st", 28, "", ""],
         ["B1", "Jono22", "GEE", 15, "GWS", 34, "STK", 0, "ESS", 10, "ADE", 32, "MEL", 17, "PTA", 20, "SYD", 16, "FRE", 27, "Gary Ablett (GEE)", 34, "Jeremy Cameron (GWS)", 39, "", ""],
         ["B1", "Jeanille01", "GEE", 20, "GWS", 30, "SYD", 16, "ESS", 18, "ADE", 28, "MEL", 14, "PTA", 24, "SYD", 13, "FRE", 18, "Jack Macrae (WBD)", 12, "", "", "", ""],
-        ["B1", "Harry Rowland", "GEE", 24, "GWS", 36, "SYD", 42, "ESS", 18, "ADE", 30, "MEL", 18, "PTA", 24, "SYD", , "FRE", 2, "", "", "", "", "", ""],
+        ["B1", "Harry Rowland", "GEE", 24, "GWS", 36, "SYD", 42, "ESS", 18, "ADE", 30, "MEL", 18, "PTA", 24, "SYD", 0, "FRE", 2, "", "", "", "", "", ""],
         ["B1", "Alex Rowland", "GEE", 12, "GWS", 25, "SYD", 36, "ESS", 22, "ADE", 33, "MEL", 10, "PTA", 24, "SYD", 13, "CAR", 11, "Steele Sidebottom (COL)", 32, "Lance Franklin (SYD) - 1st", 28, "", ""],
         ["B1", "jamieling", "GEE", 33, "GWS", 22, "SYD", 20, "ESS", 17, "ADE", 28, "MEL", 35, "PTA", 40, "SYD", 14, "FRE", 9, "Patrick Dangerfield (GEE)", 24, "Robbie Gray (PTA)", 19, "", ""],
         ["B1", "olliedub", "GEE", 21, "GWS", 17, "SYD", 31, "BRI", 12, "ADE", 11, "MEL", 26, "PTA", 18, "SYD", 9, "FRE", 12, "Lachie Neale (FRE)", 32, "Jonathon Patton (GWS)", 6, "", ""],
