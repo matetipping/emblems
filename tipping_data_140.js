@@ -271,7 +271,7 @@ var tipping_data = {
         ["B2", "Mann", "STK", 11, "HAW", 11, "RIC", 11, "WCE", 37, "PTA", 4, "HAW", 42, "GWS", 30, "NTH", 35, "COL", 49, "", "", "", "", "", ""],
         ["B2", "Susan", "STK", 11, "HAW", 13, "RIC", 12, "WCE", 26, "PTA", 12, "HAW", 36, "GWS", 22, "NTH", 20, "COL", 36, "Steele Sidebottom (COL)", "", "Josh Kennedy (WCE)", "", "", ""],
         ["B2", "Harry Rowland", "GCS", 6, "HAW", 24, "RIC", 12, "WCE", 30, "MEL", 16, "HAW", 30, "GWS", 48, "NTH", 16, "COL", 6, "Dustin Martin", "", "", "", "", ""],
-        ["B2", "Craig Terrington", "STK", 30, "HAW", 22, "RIC", 22, "WCE", 40, "PTA", 22, "HAW", 35, "GWS", 40, "NM", 40, "COL", , "", "", "Josh Kennedy (WCE)", "", "", ""]
+        ["B2", "Craig Terrington", "STK", 30, "HAW", 22, "RIC", 22, "WCE", 40, "PTA", 22, "HAW", 35, "GWS", 40, "NTH", 40, "COL", , "", "", "Josh Kennedy (WCE)", "", "", ""]
     ],
     fixtures: [
         ["R1", "olliedub", "Kerrynterra", "Bill Rowland", "SCOTT", "Susan", "Flagpies", "AThomasz", "Steve", "Sliced_Bread", "Harry Rowland", "Craig Terrington", "Jeanille01", "Kaytley🐐", "Alex Rowland", "Dannelboyz", "Jono22", "ciniboi_12", "Mann", "jamieling", "Bigbadbrucey"],
