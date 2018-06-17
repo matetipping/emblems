@@ -257,7 +257,7 @@ var tipping_data = {
         ["B2", "Administrator", "STK", 2, "HAW", 56, "", "", "", "", "", ""], 
         ["B2", "Kaytley🐐", "STK", 12, "HAW", 28, "RIC", 32, "WCE", 41, "MEL", 20, "HAW", 25, "GWS", 29, "WBD", 32, "CAR", 25, "Patrick Dangerfield (GEE)", "", "Matt Crouch (ADE)", 0, "", ""],
         ["B2", "SCOTT", "STK", 15, "HAW", 5, "RIC", 10, "WCE", 25, "PTA", 5, "HAW", 25, "GWS", 30, "NTH", 20, "COL", 20, "", "", "", "", "", ""],
-        ["B2", "Bigbadbrucey", "STK", 36, "HAW", 7, "RIC", 2, "WCE", 27, "PTA", 2, "HAW", 38, "BRI", 15, "NTH", 25, "COL", 29, "Gary Ablett (GEE)", "", "Will Hoskin-Elliot (COL)", "", "", ""],
+        ["B2", "Bigbadbrucey", "STK", 36, "HAW", 7, "RIC", 2, "WCE", 27, "PTA", 2, "HAW", 38, "GWS", 15, "NTH", 25, "COL", 29, "Gary Ablett (GEE)", "", "Will Hoskin-Elliot (COL)", "", "", ""],
         ["B2", "Steve", "STK", 12, "HAW", 33, "RIC", 39, "WCE", 52, "PTA", 28, "HAW", 42, "GWS", 25, "WBD", 15, "CAR", 28, "", "", "", "", "", ""],
         ["B2", "Dannelboyz", "STK", 19, "HAW", 1, "RIC", 23, "WCE", 35, "MEL", 1, "HAW", 36, "GWS", 28, "NTH", 19, "COL", 35, "", "", "Jesse Hogan (MEL)", "", "", ""],
         ["B2", "Kerrynterra", "GCS", 8, "HAW", 12, "RIC", 7, "WCE", 31, "MEL", 24, "HAW", 28, "GWS", 24, "NTH", 17, "COL", 31, "Clayton Oliver(MEL)", "", "Jeremy Cameron (GWS)", "", "", ""],
