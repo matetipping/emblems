@@ -275,7 +275,7 @@ var tipping_data = {
         ["B2", "Alex Rowland", "STK", 27, "ADE", 24, "GEE", 6, "ESS", 12, "PTA", 3, "HAW", 24, "GWS", 48, "WBD", 15, "CAR", 3, "", "", "", "", "", ""],
         ["B2", "AThomasz", "STK", 33, "ADE", 9, "GEE", 9, "ESS", 12, "PTA", 9, "HAW", 18, "GWS", 27, "WBD", 6, "CAR", 9, "", "", "", "", "", ""],
         ["B2", "Sliced_Bread", "STK", 24, "ADE", 27, "RIC", 18, "ESS", 12, "PTA", 3, "HAW", 24, "GWS", 39, "WBD", 30, "COL", 15, "", "", "", "", "", ""],
-        ["R15", "Administrator", "RIC", 26, "", "", "", "", "", ""],
+        ["R15", "Administrator", "RIC", 26, "WBD", 2, "", "", "", "", "", ""],
         ["R15", "Flagpies", "RIC", 20, "GEE", 30, "PTA", 10, "ADE", 5, "COL", 25, "HAW", 12, "MEL", 30, "NTH", 4, "FRE", 14, "", "", "", "", "", ""],
         ["R15", "olliedub", "SYD", 14, "GEE", 10, "PTA", 32, "ADE", 15, "COL", 27, "GWS", 22, "MEL", 38, "NTH", 7, "FRE", 34, "", "", "Charlie Dixon (PTA)", "", "", ""],
         ["R15", "Craig Terrington", "RIC", 10, "GEE", 35, "PTA", 45, "ADE", 5, "COL", 35, "GWS", 15, "MEL", 35, "NTH", 5, "FRE", 35, "Josh Kelly (GWS)", "", "Tom Lynch (GCS)", "", "", ""],
