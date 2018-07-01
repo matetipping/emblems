@@ -291,7 +291,7 @@ var tipping_data = {
         ["R15", "jamieling", "SYD", 7, "GEE", 33, "PTA", 42, "WCE", 11, "COL", 40, "GWS", 14, "MEL", 46, "ESS", 5, "FRE", 33, "", "", "", "", "", ""],
         ["R15", "Dannelboyz", "SYD", 1, "GEE", 25, "PTA", 46, "WCE", 19, "COL", 38, "HAW", 3, "MEL", 23, "ESS", 6, "FRE", 33, "Steele Sidebottom (COL)", 24, "Joe Daniher (ESS)", "", "", ""],
         ["R15", "ciniboi_12", "RIC", 11, "GEE", 26, "PTA", 15, "WCE", 23, "COL", 37, "HAW", 4, "MEL", 28, "NTH", 10, "FRE", 46, "", "", "Ben Brown (NTH)", 15, "", ""],
-        ["R15", "Susan", "RIC", 13, "GEE", 28, "PTA", 36, "ADE", 13, "COL", 34, "GWS", 8, "MEL", 34, "ESS", 0, "FRE", 23, "", "", "", "", "", ""],
+        ["R15", "Susan", "RIC", 13, "GEE", 28, "PTA", 36, "ADE", 13, "COL", 34, "GWS", 8, "MEL", 34, "NTH", 0, "FRE", 23, "", "", "", "", "", ""],
         ["R15", "SCOTT", "RIC", 10, "GEE", 25, "PTA", 30, "WCE", 5, "COL", 25, "GWS", 5, "MEL", 25, "NTH", 5, "FRE", 20, "", "", "", "", "", ""],
         ["R15", "Sliced_Bread", "RIC", 22, "GEE", 15, "PTA", 20, "ADE", 20, "COL", 25, "HAW", 20, "MEL", 25, "NTH", 20, "FRE", 20, "", "", "", "", "", ""],
         ["R15", "Steve", "RIC", 21, "GEE", 34, "PTA", 28, "WCE", 32, "COL", 21, "HAW", 33, "MEL", 21, "NTH", 15, "FRE", 28, "Steele Sidebottom (COL)", 24, "Lance Franklin (SYD)", 24, "", ""],
