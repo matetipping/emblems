@@ -316,8 +316,7 @@ var tipping_data = {
         ["R16", "Kerrynterra", "SYD", 12, "RIC", 26, "BRI", 18, "PTA", 32, "HAW", 23, "MEL", 27, "NTH", 23, "ESS", 26, "WCE", 8, "", "", "", "", "", ""],
         ["R16", "Mann", "SYD", 1, "RIC", 24, "BRI", 15, "PTA", 44, "HAW", 30, "MEL", 31, "NTH", 46, "COL", 19, "WCE", 11, "Lachie Neale (FRE)", "", "Ben Brown (NTH)", "", "", ""]
         
-
-
+      ]
     
         fixtures: [
         ["R1", "olliedub", "Kerrynterra", "Bill Rowland", "SCOTT", "Susan", "Flagpies", "AThomasz", "Steve", "Sliced_Bread", "Harry Rowland", "Craig Terrington", "Jeanille01", "Kaytley🐐", "Alex Rowland", "Dannelboyz", "Jono22", "ciniboi_12", "Mann", "jamieling", "Bigbadbrucey"],
