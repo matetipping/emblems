@@ -296,7 +296,7 @@ var tipping_data = {
         ["R15", "Sliced_Bread", "RIC", 22, "GEE", 15, "PTA", 20, "ADE", 20, "COL", 25, "HAW", 20, "MEL", 25, "NTH", 20, "FRE", 20, "", "", "", "", "", ""],
         ["R15", "Steve", "RIC", 21, "GEE", 34, "PTA", 28, "WCE", 32, "COL", 21, "HAW", 33, "MEL", 21, "NTH", 15, "FRE", 28, "Steele Sidebottom (COL)", 24, "Lance Franklin (SYD)", 24, "", ""],
         ["R15", "AThomasz", "SYD", 12, "GEE", 18, "CAR", 3, "ADE", 15, "GCS", 3, "GWS", 18, "STK", 39, "ESS", 9, "FRE", 36, "", "", "", "", "", ""],
-        ["R16", "Administrator", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
+        ["R16", "Administrator", " ", " ", " ", " ", " ", " ",],
         ["R16", "Harry Rowland", "SYD", 12, "RIC", 24, "BRI", 2, "PTA", 30, "HAW", 24, "MEL", 24, "NTH", 18, "ESS", 21, "WCE", 8, "", "", "Luke Breust (HAW)", "", "", ""],
         ["R16", "Bill Rowland", "SYD", 9, "ADE", 3, "BRI", 17, "PTA", 33, "HAW", 17, "MEL", 21, "NTH", 33, "COL", 7, "WCE", 7, "", "", "Robbie Gray (PTA)", "", "", ""],
         ["R16", "Dannelboyz", "SYD", 1, "RIC", 21, "BRI", 3, "PTA", 35, "HAW", 19, "MEL", 40, "NTH", 22, "COL", 2, "WCE", 7, "Lachie Neale (FRE)", "", "Jeremy Cameron (GWS)", "", "", ""],
