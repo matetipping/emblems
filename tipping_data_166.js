@@ -296,7 +296,7 @@ var tipping_data = {
         ["R15", "Sliced_Bread", "RIC", 22, "GEE", 15, "PTA", 20, "ADE", 20, "COL", 25, "HAW", 20, "MEL", 25, "NTH", 20, "FRE", 20, "", "", "", "", "", ""],
         ["R15", "Steve", "RIC", 21, "GEE", 34, "PTA", 28, "WCE", 32, "COL", 21, "HAW", 33, "MEL", 21, "NTH", 15, "FRE", 28, "Steele Sidebottom (COL)", 24, "Lance Franklin (SYD)", 24, "", ""],
         ["R15", "AThomasz", "SYD", 12, "GEE", 18, "CAR", 3, "ADE", 15, "GCS", 3, "GWS", 18, "STK", 39, "ESS", 9, "FRE", 36, "", "", "", "", "", ""],
-        ["R16", "Administrator","GEE", 12, " ", " ", " ", " ", " ", " ",],
+        ["R16", "Administrator","GEE", 12, "", "", "", "", "", "",],
         ["R16", "Harry Rowland", "SYD", 12, "RIC", 24, "BRI", 2, "PTA", 30, "HAW", 24, "MEL", 24, "NTH", 18, "ESS", 21, "WCE", 8, "", "", "Luke Breust (HAW)", "", "", ""],
         ["R16", "Bill Rowland", "SYD", 9, "ADE", 3, "BRI", 17, "PTA", 33, "HAW", 17, "MEL", 21, "NTH", 33, "COL", 7, "WCE", 7, "", "", "Robbie Gray (PTA)", "", "", ""],
         ["R16", "Dannelboyz", "SYD", 1, "RIC", 21, "BRI", 3, "PTA", 35, "HAW", 19, "MEL", 40, "NTH", 22, "COL", 2, "WCE", 7, "Lachie Neale (FRE)", "", "Jeremy Cameron (GWS)", "", "", ""],
@@ -314,9 +314,9 @@ var tipping_data = {
         ["R16", "Jeanille01", "SYD", 15, "RIC", 14, "BRI", 13, "PTA", 12, "HAW", 11, "MEL", 16, "NTH", 17, "ESS", 10, "WCE", 9, "Matt Crouch (ADE)", "", "Josh Jenkins (ADE)", "", "", ""],
         ["R16", "Craig Terrington", "SYD", 29, "RIC", 24, "BRI", 19, "PTA", 49, "HAW", 23, "MEL", 29, "NTH", 53, "ESS", 21, "WCE", 19, "", "", "Robbie Gray (PTA)", "", "", ""],
         ["R16", "Kerrynterra", "SYD", 12, "RIC", 26, "BRI", 18, "PTA", 32, "HAW", 23, "MEL", 27, "NTH", 23, "ESS", 26, "WCE", 8, "", "", "", "", "", ""],
-        ["R16", "Mann", "SYD", 1, "RIC", 24, "BRI", 15, "PTA", 44, "HAW", 30, "MEL", 31, "NTH", 46, "COL", 19, "WCE", 11, "Lachie Neale (FRE)", "", "Ben Brown (NTH)", "", "", ""]
-        ["R16", "Alex Rowland", "GEE", 3, "ADE", 9, "CAR", 9, "PTA", 9, "HAW", 3, "MEL", 18, "NTH", 6, "ESS", 21, "GWS", 33, " ", " ", " ", " ", " ", " "],
-        ["R16", "Kaytley🐐", "SYD", 3, "RIC", 36, "BRI", 6, "PTA", 6, "HAW", 6, "FRE", 6, "NTH", 15, "COL", 6, "WCE", 27, " ", " ", " ", " ", " ", " "]
+        ["R16", "Mann", "SYD", 1, "RIC", 24, "BRI", 15, "PTA", 44, "HAW", 30, "MEL", 31, "NTH", 46, "COL", 19, "WCE", 11, "Lachie Neale (FRE)", "", "Ben Brown (NTH)", "", "", ""],
+        ["R16", "Alex Rowland", "GEE", 3, "ADE", 9, "CAR", 9, "PTA", 9, "HAW", 3, "MEL", 18, "NTH", 6, "ESS", 21, "GWS", 33, "", "", "", "", "", ""],
+        ["R16", "Kaytley🐐", "SYD", 3, "RIC", 36, "BRI", 6, "PTA", 6, "HAW", 6, "FRE", 6, "NTH", 15, "COL", 6, "WCE", 27, "", "", "", "", "", ""]
         
       ],
     
