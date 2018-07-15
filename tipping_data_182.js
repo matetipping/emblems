@@ -327,7 +327,7 @@ var tipping_data = {
         ["R17", "Bill Rowland", "ADE", 9, "STK", 22, "HAW", 21, "WBD", 5, "ESS", 33, "RIC", 25, "COL", 19, "NTH", 7, "PTA", 23, "", "", "", "", "", ""],
         ["R17", "Bigbadbrucey", "GEE", 12, "STK", 30, "HAW", 40, "MEL", 37, "ESS", 32, "RIC", 21, "COL", 25, "NTH", 4, "PTA", 23, "", "", "", "", "", ""],
         ["R17", "olliedub", "ADE", 14, "STK", 33, "HAW", 24, "MEL", 44, "ESS", 36, "RIC", 18, "COL", 29, "NTH", 15, "PTA", 47, "Zach Merrett (ESS)", 37, "Jack Gunston (HAW)", 12, "", ""],
-        ["R17", "Flagpies", "ADE", 3, "STK", 5, "HAW", 24, "MEL", 20, "ESS", 26, "RIC", 38, "COL", 10, "SYD", 6, "FRE", 12, "Patrick Dangerfield (GEE)", 33, "Lance Franklin (SYD)", "", "", ""],
+        ["R17", "Flagpies", "ADE", 3, "STK", 5, "HAW", 24, "MEL", 20, "ESS", 26, "RIC", 38, "COL", 10, "SYD", 6, "FRE", 12, "Patrick Dangerfield (GEE)", 33, "Lance Franklin (SYD)", 19, "", ""],
         ["R17", "Dannelboyz", "GEE", 10, "STK", 24, "HAW", 31, "MEL", 40, "ESS", 30, "RIC", 16, "COL", 3, "SYD", 15, "PTA", 26, "Rory Laird (ADE)", 43, "Tom McDonald (MEL)", 19, "", ""],
         ["R17", "Susan", "GEE", 7, "STK", 19, "HAW", 23, "MEL", 31, "ESS", 24, "RIC", 13, "COL", 14, "SYD", 7, "PTA", 21, "", "", "Luke Breust (HAW)", 2, "", ""],
         ["R17", "Alex Rowland", "ADE", 10, "STK", 15, "HAW", 42, "MEL", 21, "ESS", 33, "RIC", 18, "COL", 12, "SYD", 14, "PTA", 25, "Tom Mitchell (HAW)", 43, "Luke Breust (HAW)", 2, "", ""],
