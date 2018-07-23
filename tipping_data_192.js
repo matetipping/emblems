@@ -1,5 +1,5 @@
 var tipping_data = {
-    round: "R18",
+    round: "R19",
     admin: "Administrator",
     tips: [
         ["R1", "Administrator", "RIC", 26, "ESS", 12, "STK", 25, "PTA", 50, "GCS", 16, "HAW", 34, "GWS", 82, "GEE", 3, "SYD", 29, "", "", "", "", "", ""],
@@ -354,7 +354,7 @@ var tipping_data = {
         ["R18", "Bigbadbrucey", "RIC", 32, "COL", 4, "SYD", 60, "ESS", 34, "BRI", 3, "GEE", 6, "HAW", 45, "WCE", 37, "GWS", 7, "", "", "", "", "", ""],
         ["R18", "Susan", "RIC", 35, "COL", 12, "SYD", 52, "ESS", 32, "ADE", 10, "GEE", 11, "HAW", 34, "WCE", 38, "PTA", 8, "Andrew Gaff (WCE)", 35, "Josh Kennedy (WCE)", 14, "", ""],
         ["R18", "ciniboi_12", "RIC", 12, "COL", 26, "SYD", 47, "ESS", 23, "ADE", 34, "MEL", 3, "HAW", 53, "WCE", 17, "GWS", 5, "Rory Laird (ADE)", 29, "Lance Franklin (SYD)", 3, "", ""],
-        ["R18", "Flagpies", "RIC", 32, "COL", 16, "SYD", 27, "ESS", 17, "ADE", 3, "GEE", 23, "HAW", 45, "WCE", 39, "PTA", 15, "Tom Mitchell (HAW)", 46, "Jack Darling (WCE)", "", "", ""],
+        ["R18", "Flagpies", "RIC", 32, "COL", 16, "SYD", 27, "ESS", 17, "ADE", 3, "GEE", 23, "HAW", 45, "WCE", 39, "PTA", 15, "Tom Mitchell (HAW)", 46, "Jack Darling (WCE)", 21, "", ""],
         ["R18", "jamieling", "RIC", 44, "COL", 10, "SYD", 67, "ESS", 42, "ADE", 25, "GEE", 11, "HAW", 46, "WCE", 39, "GWS", 6, "", "", "Josh Kennedy (WCE)", 14, "", ""],
         ["R18", "Alex Rowland", "RIC", 34, "COL", 18, "SYD", 32, "ESS", 20, "ADE", 33, "GEE", 15, "HAW", 36, "WCE", 32, "PTA", 14, "Jack Macrae (WBD)", 22, "Josh Kennedy (WCE)", 14, "", ""],
         ["R18", "Harry Rowland", "RIC", 40, "COL", 36, "SYD", 36, "ESS", 6, "ADE", 18, "GEE", 6, "HAW", 36, "WCE", 50, "PTA", 12, "", "", "Jack Riewoldt (RIC)", 25, "", ""],
