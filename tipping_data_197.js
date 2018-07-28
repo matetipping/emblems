@@ -359,7 +359,7 @@ var tipping_data = {
         ["R18", "Alex Rowland", "RIC", 34, "COL", 18, "SYD", 32, "ESS", 20, "ADE", 33, "GEE", 15, "HAW", 36, "WCE", 32, "PTA", 14, "Jack Macrae (WBD)", 22, "Josh Kennedy (WCE)", 14, "", ""],
         ["R18", "Harry Rowland", "RIC", 40, "COL", 36, "SYD", 36, "ESS", 6, "ADE", 18, "GEE", 6, "HAW", 36, "WCE", 50, "PTA", 12, "", "", "Jack Riewoldt (RIC)", 25, "", ""],
         ["R18", "AThomasz", "STK", 3, "NTH", 18, "SYD", 42, "FRE", 21, "ADE", 18, "GEE", 45, "HAW", 12, "WBD", 9, "GWS", 33, "", "", "", "", "", ""],
-        ["R19", "Administrator", "ESS", 43, "RIC", 28, "GEE", 42, "GWS", 25, "CAR", 35, "MEL", 13, "", "", "", "", ""],
+        ["R19", "Administrator", "ESS", 43, "RIC", 28, "GEE", 42, "GWS", 25, "CAR", 35, "MEL", 13, "", "", "", "", "", ""],
         ["R19", "Susan", "ESS", 10, "RIC", 19, "GEE", 28, "GWS", 34, "GCS", 18, "ADE", 8, "WCE", 8, "PTA", 19, "HAW", 15, "Lachie Neale (FRE)", "", "Tom Hawkins (GEE)", 43, "", ""],
         ["R19", "SCOTT", "SYD", 20, "RIC", 25, "GEE", 30, "GWS", 30, "GCS", 5, "ADE", 10, "WCE", 10, "PTA", 15, "HAW", 20, "Andrew Gaff (WCE)", "", "Jeremy Cameron (GWS)", "", "", ""],
         ["R19", "Mann", "SYD", 10, "RIC", 18, "GEE", 30, "GWS", 27, "GCS", 18, "MEL", 12, "WCE", 7, "PTA", 31, "HAW", 27, "Matt Crouch (ADE)", 32, "", "", "", ""],
