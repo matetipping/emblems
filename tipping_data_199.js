@@ -1,5 +1,5 @@
 var tipping_data = {
-    round: "R19",
+    round: "F1",
     admin: "Administrator",
     tips: [
         ["R1", "Administrator", "RIC", 26, "ESS", 12, "STK", 25, "PTA", 50, "GCS", 16, "HAW", 34, "GWS", 82, "GEE", 3, "SYD", 29, "", "", "", "", "", ""],
@@ -400,6 +400,7 @@ var tipping_data = {
         ["R16", "Sliced_Bread", "Kerrynterra", "Craig Terrington", "SCOTT", "olliedub", "Susan", "AThomasz", "Bill Rowland", "Kaytley🐐", "Flagpies", "Dannelboyz", "Steve", "ciniboi_12", "Harry Rowland", "jamieling", "Jeanille01", "Bigbadbrucey", "Alex Rowland", "Mann", "Jono22"],
         ["R17", "Mann", "Craig Terrington", "Jono22", "Sliced_Bread", "ciniboi_12", "olliedub", "jamieling", "Dannelboyz", "Bigbadbrucey", "Kaytley🐐", "Alex Rowland", "AThomasz", "Jeanille01", "Susan", "Harry Rowland", "Bill Rowland", "Steve", "Kerrynterra", "Flagpies", "SCOTT"],
         ["R18", "Bigbadbrucey", "Sliced_Bread", "Mann", "AThomasz", "Jono22", "Susan", "Alex Rowland", "Bill Rowland", "Dannelboyz", "olliedub", "ciniboi_12", "Kaytley🐐", "jamieling", "Craig Terrington", "Jeanille01", "Kerrynterra", "Harry Rowland", "SCOTT", "Steve", "Flagpies"],
-        ["R19", "Alex Rowland", "SCOTT", "Jeanille01", "Flagpies", "Harry Rowland", "Steve", "Kaytley🐐", "olliedub", "Dannelboyz", "Craig Terrington", "ciniboi_12", "Sliced_Bread", "jamieling", "AThomasz", "Bigbadbrucey", "Susan", "Mann", "Bill Rowland", "Jono22", "Kerrynterra"]
+        ["R19", "Alex Rowland", "SCOTT", "Jeanille01", "Flagpies", "Harry Rowland", "Steve", "Kaytley🐐", "olliedub", "Dannelboyz", "Craig Terrington", "ciniboi_12", "Sliced_Bread", "jamieling", "AThomasz", "Bigbadbrucey", "Susan", "Mann", "Bill Rowland", "Jono22", "Kerrynterra"],
+        ["F1", "SCOTT", "Flagpies", "Susan", "Mann", "jamieling", "Jono22", "Jeanille01", "Bigbadbrucey"]
     ]
 }
