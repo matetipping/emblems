@@ -379,7 +379,22 @@ var tipping_data = {
         ["R19", "Craig Terrington", "SYD", 12, "RIC", 22, "GEE", 36, "GWS", 48, "GCS", 22, "ADE", 22, "WCE", 12, "PTA", 39, "HAW", 15, "", "", "Tom Hawkins (GEE)", 43, "", ""],
         ["R19", "Steve", "SYD", 28, "RIC", 33, "GEE", 36, "GWS", 32, "GCS", 18, "MEL", 26, "WCE", 19, "PTA", 12, "HAW", 36, "Gary Ablett (GEE)", 38, "Jeremy Cameron (GWS)", "", "", ""],
         ["R19", "AThomasz", "SYD", 18, "RIC", 33, "GEE", 30, "GWS", 3, "CAR", 6, "ADE", 33, "NTH", 3, "PTA", 6, "FRE", 27, "", "", "", "", "", ""],
-        ["R19", "Sliced_Bread", "SYD", 12, "RIC", 42, "GEE", 18, "GWS", 33, "CAR", 6, "ADE", 15, "WCE", 15, "PTA", 6, "HAW", 12, "", "", "", "", "", ""]
+        ["R19", "Sliced_Bread", "SYD", 12, "RIC", 42, "GEE", 18, "GWS", 33, "CAR", 6, "ADE", 15, "WCE", 15, "PTA", 6, "HAW", 12, "", "", "", "", "", ""],
+        ["F1", "Administrator", "RIC", 3, "", "", "", "", "", ""],
+        ["F1", "Flagpies", "RIC", 30, "HAW", 6, "NTH", 12, "ADE", 17, "WBD", 3, "COL", 10, "GWS", 28, "MEL", 32, "WCE", 15, "Tom Mitchell (HAW)", "", "", "", "", ""],
+        ["F1", "Mann", "RIC", 10, "HAW", 12, "NTH", 1, "PTA", 10, "STK", 4, "SYD", 3, "GWS", 47, "MEL", 66, "WCE", 35, "Tom Mitchell (HAW)", "", "", "", "", ""],
+        ["F1", "Harry Rowland", "RIC", 24, "HAW", 12, "NTH", 30, "ADE", 24, "WBD", 12, "SYD", 36, "GWS", 50, "MEL", 36, "WCE", 24, "", "", "", "", "", ""],
+        ["F1", "Bill Rowland", "RIC", 25, "HAW", 13, "NTH", 35, "ADE", 7, "STK", 13, "COL", 27, "GWS", 45, "MEL", 55, "WCE", 26, "", "", "", "", "", ""],
+        ["F1", "Steve", "RIC", 18, "HAW", 32, "NTH", 28, "ADE", 33, "WBD", 16, "SYD", 33, "GWS", 24, "MEL", 18, "WCE", 34, "", "", "", "", "", ""],
+        ["F1", "Bigbadbrucey", "GEE", 2, "ESS", 4, "NTH", 7, "PTA", 12, "STK", 13, "COL", 9, "GWS", 35, "MEL", 55, "WCE", 17, "", "", "", "", "", ""],
+        ["F1", "jamieling", "GEE", 1, "ESS", 7, "BRI", 8, "ADE", 11, "STK", 24, "COL", 9, "GWS", 44, "MEL", 72, "WCE", 27, "", "", "", "", "", ""],
+        ["F1", "olliedub", "RIC", 31, "ESS", 9, "NTH", 9, "PTA", 22, "WBD", 5, "SYD", 18, "GWS", 57, "MEL", 65, "WCE", 23, "", "", "", "", "", ""],
+        ["F1", "Jono22", "RIC", 20, "HAW", 1, "NTH", 17, "ADE", 20, "WBD", 7, "COL", 13, "GWS", 32, "MEL", 45, "WCE", 28, "", "", "", "", "", ""],
+        ["F1", "Jeanille01", "RIC", 24, "HAW", 4, "NTH", 20, "ADE", 15, "WBD", 7, "COL", 8, "GWS", 30, "MEL", 42, "WCE", 12, "", "", "", "", "", ""],
+        ["F1", "SCOTT", "RIC", 10, "HAW", 15, "NTH", 10, "PTA", 10, "STK", 10, "SYD", 5, "GWS", 25, "MEL", 25, "WCE", 30, "", "", "", "", "", ""],
+        ["F1", "Alex Rowland", "RIC", 18, "ESS", 15, "NTH", 22, "ADE", 24, "STK", 20, "COL", 16, "GWS", 32, "MEL", 35, "WCE", 33, "", "", "", "", "", ""],
+        ["F1", "Dannelboyz", "GEE", 1, "HAW", 25, "NTH", 33, "PTA", 6, "STK", 3, "COL", 11, "GWS", 42, "MEL", 36, "WCE", 19, "", "", "", "", "", ""],
+        ["F1", "Susan", "RIC", 16, "ESS", 7, "BRI", 7, "PTA", 7, "STK", 11, "SYD", 9, "GWS", 42, "MEL", 53, "WCE", 31, "", "", "", "", "", ""]
       ],
     
         fixtures: [
