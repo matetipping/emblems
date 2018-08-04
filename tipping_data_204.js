@@ -391,8 +391,8 @@ var tipping_data = {
         ["F1", "olliedub", "RIC", 31, "ESS", 9, "NTH", 9, "PTA", 22, "WBD", 5, "SYD", 18, "GWS", 57, "MEL", 65, "WCE", 23, "", "", "", "", "", ""],
         ["F1", "Jono22", "RIC", 20, "HAW", 1, "NTH", 17, "ADE", 20, "WBD", 7, "COL", 13, "GWS", 32, "MEL", 45, "WCE", 28, "Tom Mitchell (HAW)", 43, "", "", "", ""],
         ["F1", "Jeanille01", "RIC", 24, "HAW", 4, "NTH", 20, "ADE", 15, "WBD", 7, "COL", 8, "GWS", 30, "MEL", 42, "WCE", 12, "Gary Ablett (GEE)", 24, "", "", "", ""],
-        ["F1", "SCOTT", "RIC", 10, "HAW", 15, "NTH", 10, "PTA", 10, "STK", 10, "SYD", 5, "GWS", 25, "MEL", 25, "WCE", 30, "Stephen Coniglio (GWS)", "", "Jesse Hogan (MEL)", "", "", ""],
-        ["F1", "Alex Rowland", "RIC", 18, "ESS", 15, "NTH", 22, "ADE", 24, "STK", 20, "COL", 16, "GWS", 32, "MEL", 35, "WCE", 33, "Tom Mitchell (HAW)", 43, "Jade Gresham (STK)", "", "", ""],
+        ["F1", "SCOTT", "RIC", 10, "HAW", 15, "NTH", 10, "PTA", 10, "STK", 10, "SYD", 5, "GWS", 25, "MEL", 25, "WCE", 30, "Stephen Coniglio (GWS)", "", "Jesse Hogan (MEL)", "", ""],
+        ["F1", "Alex Rowland", "RIC", 18, "ESS", 15, "NTH", 22, "ADE", 24, "STK", 20, "COL", 16, "GWS", 32, "MEL", 35, "WCE", 33, "Tom Mitchell (HAW)", 43, "Jade Gresham (STK)", "", ""],
         ["F1", "Dannelboyz", "GEE", 1, "HAW", 25, "NTH", 33, "PTA", 6, "STK", 3, "COL", 11, "GWS", 42, "MEL", 36, "WCE", 19, "Tom Mitchell (HAW)", 43, "Ben Brown (NTH)", 6, "", ""],
         ["F1", "Susan", "RIC", 16, "ESS", 7, "BRI", 7, "PTA", 7, "STK", 11, "SYD", 9, "GWS", 42, "MEL", 53, "WCE", 31, "Tom Mitchell (HAW)", 43, "Ben Brown (NTH)", 6, "", ""]
       ],
