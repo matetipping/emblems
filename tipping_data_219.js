@@ -404,7 +404,7 @@ var tipping_data = {
         ["F2", "Jono22", "ESS", 28, "GEE", 2, "RIC", 50, "PTA", 12, "COL", 13, "GWS", 19, "NTH", 20, "SYD", 10, "FRE", 18, "Lachie Neale (FRE)", 34, "", "", "", ""],
         ["F2", "Bill Rowland", "ESS", 35, "HAW", 5, "RIC", 45, "WCE", 11, "COL", 23, "ADE", 5, "NTH", 15, "MEL", 15, "FRE", 15, "", "", "", "", ""],
         ["F2", "SCOTT", "ESS", 25, "HAW", 10, "RIC", 30, "WCE", 10, "COL", 20, "GWS", 25, "NTH", 25, "MEL", 10, "FRE", 15, "", "", "", "", ""],
-        ["F2", "Susan", "ESS", 29, "GEE", 9, "RIC", 57, "PTA", 15, "COL", 22, "GWS", 14, "NTH", 19, "MEL", 17, "FRE", 24, "Tom Mitchell (HAW)", 32, "Ben Brown (NTH)", "", "", ""]  
+        ["F2", "Susan", "ESS", 29, "GEE", 9, "RIC", 57, "PTA", 15, "COL", 22, "GWS", 14, "NTH", 19, "MEL", 17, "FRE", 24, "Tom Mitchell (HAW)", 32, "Ben Brown (NTH)", 24, "", ""]  
       ],
     
         fixtures: [
