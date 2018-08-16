@@ -204,6 +204,15 @@ var afl_data = {
         ["F2", "GWS", "ADE", "UNSW - Saturday, August 11 - 7:25 PM"],
         ["F2", "NTH", "WBD", "ES - Sunday, August 12 - 1:10 PM"],
         ["F2", "MEL", "SYD", "MCG - Sunday, August 12 - 3:20 PM"],
-        ["F2", "FRE", "CAR", "OS - Sunday, August 12 - 2:40 PM"]
+        ["F2", "FRE", "CAR", "OS - Sunday, August 12 - 2:40 PM"],
+        ["F3", "RIC", "ESS", "MCG - Friday, August 17 - 7:50 PM"],
+        ["F3", "COL", "PTA", "MCG - Saturday, August 18 - 1:45 PM"],
+        ["F3", "GEE", "FRE", "GS - Saturday, August 18 - 2:10 PM"],
+        ["F3", "GWS", "SYD", "SPO - Saturday, August 18 - 4:35 PM"],
+        ["F3", "GCS", "BRI", "MS - Saturday, August 18 - 7:25 PM"],
+        ["F3", "STK", "HAW", "ES - Saturday, August 18 - 7:25 PM"],
+        ["F3", "CAR", "WBD", "ES - Sunday, August 19 - 1:10 PM"],
+        ["F3", "WCE", "MEL", "OS - Sunday, August 19 - 1:20 PM"],
+        ["F3", "ADE", "NTH", "AO - Sunday, August 19 - 4:10 PM"]
     ]
 }
