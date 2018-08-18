@@ -405,12 +405,12 @@ var tipping_data = {
         ["F2", "Bill Rowland", "ESS", 35, "HAW", 5, "RIC", 45, "WCE", 11, "COL", 23, "ADE", 5, "NTH", 15, "MEL", 15, "FRE", 15, "", "", "", "", ""],
         ["F2", "SCOTT", "ESS", 25, "HAW", 10, "RIC", 30, "WCE", 10, "COL", 20, "GWS", 25, "NTH", 25, "MEL", 10, "FRE", 15, "", "", "", "", ""],
         ["F2", "Susan", "ESS", 29, "GEE", 9, "RIC", 57, "PTA", 15, "COL", 22, "GWS", 14, "NTH", 19, "MEL", 17, "FRE", 24, "Tom Mitchell (HAW)", 32, "Ben Brown (NTH)", 24, "", ""],
-        ["F3", "Administrator", "RIC", 8, "", "", "", "", "", ""],
+        ["F3", "Administrator", "RIC", 8, "COL", 51, "GEE", 133, "", "", "", "", "", ""],
         ["F3", "SCOTT", "RIC", 20, "COL", 5, "GEE", 25, "GWS", 5, "BRI", 10, "HAW", 25, "WBD", 10, "WCE", 20, "ADE", 10, "", "", "", "", "", ""],
         ["F3", "Susan", "RIC", 16, "COL", 15, "GEE", 47, "GWS", 8, "BRI", 26, "HAW", 31, "WBD", 26, "WCE", 10, "ADE", 17, "Tom Mitchell (HAW)", "", "", "", "", ""],
-        ["F3", "Mann", "RIC", 12, "PTA", 1, "GEE", 42, "GWS", 1, "BRI", 28, "HAW", 40, "WBD", 21, "MEL", 1, "ADE", 1, "Tom Mitchell (HAW)", "", "Tom Hawkins (GEE)", "", "", ""],
-        ["F3", "Jono22", "RIC", 6, "PTA", , "GEE", 25, "GWS", 10, "BRI", 9, "HAW", 20, "WBD", 36, "WCE", 11, "NTH", 7, "Jack Macrae (WBD)", "", "", "", "", ""],
-        ["F3", "Bill Rowland", "RIC", 25, "COL", 15, "GEE", 55, "GWS", 13, "BRI", 22, "HAW", 33, "WBD", 29, "WCE", 7, "ADE", 14, "Gary Ablett", "", "", "", "", ""],
+        ["F3", "Mann", "RIC", 12, "PTA", 1, "GEE", 42, "GWS", 1, "BRI", 28, "HAW", 40, "WBD", 21, "MEL", 1, "ADE", 1, "Tom Mitchell (HAW)", "", "Tom Hawkins (GEE)", 31, "", ""],
+        ["F3", "Jono22", "RIC", 6, "PTA", 0, "GEE", 25, "GWS", 10, "BRI", 9, "HAW", 20, "WBD", 36, "WCE", 11, "NTH", 7, "Jack Macrae (WBD)", "", "", "", "", ""],
+        ["F3", "Bill Rowland", "RIC", 25, "COL", 15, "GEE", 55, "GWS", 13, "BRI", 22, "HAW", 33, "WBD", 29, "WCE", 7, "ADE", 14, "Gary Ablett", 26, "", "", "", ""],
         ["F3", "Dannelboyz", "RIC", 19, "COL", 2, "GEE", 36, "GWS", 8, "BRI", 18, "HAW", 35, "WBD", 23, "WCE", 6, "ADE", 20, "Tom Mitchell (HAW)", "", "Luke Breust (HAW)", "", "", ""]
       ],
     
