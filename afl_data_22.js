@@ -22,7 +22,7 @@ var afl_data = {
         ["F1", "August 3, 2018 19:50:00 GMT+1000"],
         ["F2", "August 10, 2018 19:50:00 GMT+1000"],
         ["F3", "August 17, 2018 19:50:00 GMT+1000"],
-        ["F4", "August 24, 2018 19:50:00 GMT+1000"]
+        ["F4", "August 24, 2018 19:20:00 GMT+0930"]
     ],
     fixtures: [
         ["R1", "RIC", "CAR", "MCG - Thursday, March 22 - 7:25 PM"],
@@ -213,6 +213,15 @@ var afl_data = {
         ["F3", "STK", "HAW", "ES - Saturday, August 18 - 7:25 PM"],
         ["F3", "CAR", "WBD", "ES - Sunday, August 19 - 1:10 PM"],
         ["F3", "WCE", "MEL", "OS - Sunday, August 19 - 1:20 PM"],
-        ["F3", "ADE", "NTH", "AO - Sunday, August 19 - 4:10 PM"]
+        ["F3", "ADE", "NTH", "AO - Sunday, August 19 - 4:10 PM"],
+        ["F4", "PTA", "ESS", "AO - Friday, August 24 - 7:20 PM"],
+        ["F4", "GEE", "GCS", "GS - Saturday, August 25 - 1:45 PM"],
+        ["F4", "RIC", "WBD", "MCG - Saturday, August 25 - 2:10 PM"],
+        ["F4", "FRE", "COL", "OS - Saturday, August 25 - 2:35 PM"],
+        ["F4", "CAR", "ADE", "ES - Saturday, August 25 - 7:25 PM"],
+        ["F4", "SYD", "HAW", "SCG - Saturday, August 25 - 7:25 PM"],
+        ["F4", "BRI", "WCE", "G - Sunday, August 26 - 1:10 PM"],
+        ["F4", "MEL", "GWS", "MCG - Sunday, August 26 - 3:20 PM"],
+        ["F4", "STK", "NTH", "ES - Sunday, August 26 - 4:40 PM"]
     ]
 }
