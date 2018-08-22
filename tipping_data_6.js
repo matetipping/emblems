@@ -1,5 +1,5 @@
 var tipping_data = {
-    round: "F3",
+    round: "F4",
     admin: "Administrator",
     tips: [
         ["R1", "Administrator", "RIC", 26, "ESS", 12, "STK", 25, "PTA", 50, "GCS", 16, "HAW", 34, "GWS", 82, "GEE", 3, "SYD", 29, "", "", "", "", "", ""],
@@ -435,6 +435,7 @@ var tipping_data = {
         ["R19", "Alex Rowland", "SCOTT", "Jeanille01", "Flagpies", "Harry Rowland", "Steve", "Kaytley🐐", "olliedub", "Dannelboyz", "Craig Terrington", "ciniboi_12", "Sliced_Bread", "jamieling", "AThomasz", "Bigbadbrucey", "Susan", "Mann", "Bill Rowland", "Jono22", "Kerrynterra"],
         ["F1", "SCOTT", "Flagpies", "Susan", "Mann", "jamieling", "Jono22", "Jeanille01", "Bigbadbrucey", "olliedub", "Alex Rowland", "Dannelboyz", "Bill Rowland", "Steve", "Craig Terrington", "Harry Rowland", "Kerrynterra"],
         ["F2", "Susan", "Jeanille01", "Flagpies", "Jono22", "Alex Rowland", "Harry Rowland", "Bill Rowland", "Steve"],
-        ["F3", "SCOTT", "Susan", "Mann", "Jono22", "olliedub", "Bill Rowland", "Dannelboyz", "Alex Rowland"]
+        ["F3", "SCOTT", "Susan", "Mann", "Jono22", "olliedub", "Bill Rowland", "Dannelboyz", "Alex Rowland"],
+        ["F4", "Susan", "Mann", "Dannelboyz", "Bill Rowland"]
     ]
 }
