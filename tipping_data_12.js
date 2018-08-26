@@ -412,7 +412,7 @@ var tipping_data = {
         ["F3", "Jono22", "RIC", 6, "PTA", 0, "GEE", 25, "GWS", 10, "BRI", 9, "HAW", 20, "WBD", 36, "WCE", 11, "NTH", 7, "Jack Macrae (WBD)", 33, "", "", "", ""],
         ["F3", "Bill Rowland", "RIC", 25, "COL", 15, "GEE", 55, "GWS", 13, "BRI", 22, "HAW", 33, "WBD", 29, "WCE", 7, "ADE", 14, "Gary Ablett", 26, "", "", "", ""],
         ["F3", "Dannelboyz", "RIC", 19, "COL", 2, "GEE", 36, "GWS", 8, "BRI", 18, "HAW", 35, "WBD", 23, "WCE", 6, "ADE", 20, "Tom Mitchell (HAW)", 33, "Luke Breust (HAW)", 13, "", ""],
-        ["F4", "Administrator", "ESS", 22, "GEE", 104, "RIC", 3, "COL", 9, "ADE", 104, "HAW", 9, "WCE", 26, "", "", "", "", "", ""],
+        ["F4", "Administrator", "ESS", 22, "GEE", 104, "RIC", 3, "COL", 9, "ADE", 104, "HAW", 9, "WCE", 26, "MEL", 45, "NTH", 23, "", "", "", "", "", ""],
         ["F4", "Mann", "PTA", 1, "GEE", 68, "RIC", 47, "COL", 40, "ADE", 39, "HAW", 3, "WCE", 16, "MEL", 19, "NTH", 27, "Matt Crouch (ADE)", 29, "Tom Hawkins (GEE)", 14, "", ""],
         ["F4", "Susan", "PTA", 11, "GEE", 58, "RIC", 38, "COL", 31, "ADE", 36, "SYD", 10, "WCE", 12, "MEL", 14, "NTH", 20, "Tom Mitchell (HAW)", 24, "Jack Riewoldt (RIC)", 32, "", ""],
         ["F4", "Dannelboyz", "PTA", 8, "GEE", 50, "RIC", 36, "COL", 37, "ADE", 30, "HAW", 1, "WCE", 33, "GWS", 6, "NTH", 18, "Tom Mitchell (HAW)", 24, "Lance Franklin (SYD)", "", "", ""]
